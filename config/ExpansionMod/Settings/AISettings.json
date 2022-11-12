@@ -1,0 +1,14 @@
+{
+    "m_Version": 4,
+    "AccuracyMin": 0.15000000596046449,
+    "AccuracyMax": 0.75,
+    "ThreatDistanceLimit": 1000.0,
+    "DamageMultiplier": 1.0,
+    "Admins": [
+        "76561198155043044"
+    ],
+    "MaximumDynamicPatrols": -4,
+    "Vaulting": 1,
+    "Manners": 0,
+    "PlayerFactions": []
+}

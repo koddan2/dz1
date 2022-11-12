@@ -1,0 +1,120 @@
+# game files
+_@*
+@*
+*.pbo
+*.ebo
+*.bisign
+*.bikey
+*.dll
+*.so
+
+
+/config/CommunityOnlineTools/Items/
+/config/CommunityOnlineTools/Vehicles/
+/config/PermissionsFramework/
+
+/mpmissions/dayzOffline.chernarusplus/storage_*
+
+**/logs/**
+**/Logs/**
+
+*.ADM
+*.RPT
+*.LOG
+*.log
+
+cache.ch
+*.bin
+
+
+#==============================================================================#
+# This file specifies intentionally untracked files that git should ignore.
+# See: http://www.kernel.org/pub/software/scm/git/docs/gitignore.html
+#
+# This file is intentionally different from the output of `git svn show-ignore`,
+# as most of those are useless.
+#==============================================================================#
+
+#==============================================================================#
+# File extensions to be ignored anywhere in the tree.
+#==============================================================================#
+# Temp files created by most text editors.
+*~
+# Merge files created by git.
+*.orig
+# Byte compiled python modules.
+*.pyc
+# vim swap files
+.*.sw?
+.sw?
+
+#==============================================================================#
+# Explicit files to ignore (only matches one).
+#==============================================================================#
+cscope.files
+cscope.out
+/tags
+
+#==============================================================================#
+# Directories to ignore (do not add trailing '/'s, they skip symlinks).
+#==============================================================================#
+# Clang extra user tools, which is tracked independently (clang-tools-extra).
+tools/extra
+# Sphinx build products
+docs/_build
+docs/analyzer/_build
+# debug info testsuite
+test/debuginfo-tests
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
