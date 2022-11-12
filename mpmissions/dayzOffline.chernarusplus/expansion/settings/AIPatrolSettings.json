@@ -1,13 +1,13 @@
 {
   "m_Version": 11,
   "Enabled": 1,
-  "DespawnTime": 90,
+  "DespawnTime": 30,
   "RespawnTime": -1,
-  "MinDistRadius": 150,
-  "MaxDistRadius": 1700,
-  "DespawnRadius": 2100,
-  "AccuracyMin": 0.27,
-  "AccuracyMax": 0.72,
+  "MinDistRadius": 200,
+  "MaxDistRadius": 1400,
+  "DespawnRadius": 1700,
+  "AccuracyMin": 0.42,
+  "AccuracyMax": 0.77,
   "ThreatDistanceLimit": 400,
   "DamageMultiplier": 1,
   "ObjectPatrols": [
@@ -3634,7 +3634,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1,
       "RespawnTime": -2,
-      "ClassName": "and_Pier_Crane_B"
+      "ClassName": "Land_Pier_Crane_B"
     },
     {
       "Faction": "Raiders",

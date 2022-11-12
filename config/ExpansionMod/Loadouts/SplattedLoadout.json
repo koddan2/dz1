@@ -4334,121 +4334,6 @@
       ]
     },
     {
-      "SlotName": "Shoulder",
-      "Items": [
-        {
-          "ClassName": "AKM",
-          "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [],
-          "InventoryAttachments": [
-            {
-              "SlotName": "",
-              "Items": [
-                {
-                  "ClassName": "Mag_AKM_Drum75Rnd",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "AK_PlasticBttstck",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "AK_WoodBttstck",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "AK_PlasticHndgrd",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "AK_WoodHndgrd",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "KashtanOptic",
-                  "Chance": 0.10000000149011612,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "KobraOptic",
-                  "Chance": 0.20000000298023224,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                }
-              ]
-            }
-          ],
-          "InventoryCargo": [],
-          "ConstructionPartsBuilt": [],
-          "Sets": []
-        }
-      ]
-    },
-    {
       "SlotName": "Mask",
       "Items": [
         {
@@ -4661,7 +4546,7 @@
     },
     {
       "ClassName": "AirborneMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4680,7 +4565,7 @@
     },
     {
       "ClassName": "AlarmClock_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4699,7 +4584,7 @@
     },
     {
       "ClassName": "AlarmClock_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4718,7 +4603,7 @@
     },
     {
       "ClassName": "AlarmClock_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4737,7 +4622,7 @@
     },
     {
       "ClassName": "AliceBag_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4756,7 +4641,7 @@
     },
     {
       "ClassName": "AliceBag_Camo",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4775,7 +4660,7 @@
     },
     {
       "ClassName": "AliceBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4794,7 +4679,7 @@
     },
     {
       "ClassName": "AmmoBox",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4813,7 +4698,7 @@
     },
     {
       "ClassName": "Armband_APA",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4832,7 +4717,7 @@
     },
     {
       "ClassName": "Armband_Altis",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4851,7 +4736,7 @@
     },
     {
       "ClassName": "Armband_BabyDeer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4870,7 +4755,7 @@
     },
     {
       "ClassName": "Armband_Bear",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4889,7 +4774,7 @@
     },
     {
       "ClassName": "Armband_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4908,7 +4793,7 @@
     },
     {
       "ClassName": "Armband_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4927,7 +4812,7 @@
     },
     {
       "ClassName": "Armband_Bohemia",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4946,7 +4831,7 @@
     },
     {
       "ClassName": "Armband_BrainZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4965,7 +4850,7 @@
     },
     {
       "ClassName": "Armband_CDF",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -4984,7 +4869,7 @@
     },
     {
       "ClassName": "Armband_CHEL",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5003,7 +4888,7 @@
     },
     {
       "ClassName": "Armband_CMC",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5022,7 +4907,7 @@
     },
     {
       "ClassName": "Armband_Cannibals",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5041,7 +4926,7 @@
     },
     {
       "ClassName": "Armband_Chedaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5060,7 +4945,7 @@
     },
     {
       "ClassName": "Armband_Chernarus",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5079,7 +4964,7 @@
     },
     {
       "ClassName": "Armband_DayZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5098,7 +4983,7 @@
     },
     {
       "ClassName": "Armband_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5117,7 +5002,7 @@
     },
     {
       "ClassName": "Armband_HunterZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5136,7 +5021,7 @@
     },
     {
       "ClassName": "Armband_Livonia",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5155,7 +5040,7 @@
     },
     {
       "ClassName": "Armband_LivoniaArmy",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5174,7 +5059,7 @@
     },
     {
       "ClassName": "Armband_LivoniaPolice",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5193,7 +5078,7 @@
     },
     {
       "ClassName": "Armband_NAPA",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5212,7 +5097,7 @@
     },
     {
       "ClassName": "Armband_NSahrani",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5231,7 +5116,7 @@
     },
     {
       "ClassName": "Armband_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5250,7 +5135,7 @@
     },
     {
       "ClassName": "Armband_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5269,7 +5154,7 @@
     },
     {
       "ClassName": "Armband_Pirates",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5288,7 +5173,7 @@
     },
     {
       "ClassName": "Armband_RSTA",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5307,7 +5192,7 @@
     },
     {
       "ClassName": "Armband_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5326,7 +5211,7 @@
     },
     {
       "ClassName": "Armband_Refuge",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5345,7 +5230,7 @@
     },
     {
       "ClassName": "Armband_Rooster",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5364,7 +5249,7 @@
     },
     {
       "ClassName": "Armband_SSahrani",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5383,7 +5268,7 @@
     },
     {
       "ClassName": "Armband_Snake",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5402,7 +5287,7 @@
     },
     {
       "ClassName": "Armband_TEC",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5421,7 +5306,7 @@
     },
     {
       "ClassName": "Armband_UEC",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5440,7 +5325,7 @@
     },
     {
       "ClassName": "Armband_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5459,7 +5344,7 @@
     },
     {
       "ClassName": "Armband_Wolf",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5478,7 +5363,7 @@
     },
     {
       "ClassName": "Armband_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5497,7 +5382,7 @@
     },
     {
       "ClassName": "Armband_Zenit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5516,7 +5401,7 @@
     },
     {
       "ClassName": "AssaultBag_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5535,7 +5420,7 @@
     },
     {
       "ClassName": "AssaultBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5554,7 +5439,7 @@
     },
     {
       "ClassName": "AssaultBag_Ttsko",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5573,7 +5458,7 @@
     },
     {
       "ClassName": "AthleticShoes_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5592,7 +5477,7 @@
     },
     {
       "ClassName": "AthleticShoes_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5611,7 +5496,7 @@
     },
     {
       "ClassName": "AthleticShoes_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5630,7 +5515,7 @@
     },
     {
       "ClassName": "AthleticShoes_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5649,7 +5534,7 @@
     },
     {
       "ClassName": "AthleticShoes_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5668,7 +5553,7 @@
     },
     {
       "ClassName": "AviatorGlasses",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5687,7 +5572,7 @@
     },
     {
       "ClassName": "BDUJacket",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5706,7 +5591,7 @@
     },
     {
       "ClassName": "BDUPants",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5725,7 +5610,7 @@
     },
     {
       "ClassName": "BakedBeansCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5744,7 +5629,7 @@
     },
     {
       "ClassName": "Balaclava3Holes_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5763,7 +5648,7 @@
     },
     {
       "ClassName": "Balaclava3Holes_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5782,7 +5667,7 @@
     },
     {
       "ClassName": "Balaclava3Holes_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5801,7 +5686,7 @@
     },
     {
       "ClassName": "Balaclava3Holes_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5820,7 +5705,7 @@
     },
     {
       "ClassName": "BalaclavaMask_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5839,7 +5724,7 @@
     },
     {
       "ClassName": "BalaclavaMask_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5858,7 +5743,7 @@
     },
     {
       "ClassName": "BalaclavaMask_Blackskull",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5877,7 +5762,7 @@
     },
     {
       "ClassName": "BalaclavaMask_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5896,7 +5781,7 @@
     },
     {
       "ClassName": "BalaclavaMask_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5915,7 +5800,7 @@
     },
     {
       "ClassName": "BalaclavaMask_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5934,7 +5819,7 @@
     },
     {
       "ClassName": "BalaclavaMask_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5953,7 +5838,7 @@
     },
     {
       "ClassName": "BallisticHelmet_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5972,7 +5857,7 @@
     },
     {
       "ClassName": "BallisticHelmet_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -5991,7 +5876,7 @@
     },
     {
       "ClassName": "BallisticHelmet_UN",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6010,7 +5895,7 @@
     },
     {
       "ClassName": "Bandana_Blackpattern",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6029,7 +5914,7 @@
     },
     {
       "ClassName": "Bandana_Camopattern",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6048,7 +5933,7 @@
     },
     {
       "ClassName": "Bandana_Greenpattern",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6067,7 +5952,7 @@
     },
     {
       "ClassName": "Bandana_Polkapattern",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6086,7 +5971,7 @@
     },
     {
       "ClassName": "Bandana_Redpattern",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6105,7 +5990,7 @@
     },
     {
       "ClassName": "BarbedWire",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6124,7 +6009,7 @@
     },
     {
       "ClassName": "BaseRadio",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6143,7 +6028,7 @@
     },
     {
       "ClassName": "BaseballBat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6162,7 +6047,7 @@
     },
     {
       "ClassName": "BaseballCap_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6181,7 +6066,7 @@
     },
     {
       "ClassName": "BaseballCap_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6200,7 +6085,7 @@
     },
     {
       "ClassName": "BaseballCap_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6219,7 +6104,7 @@
     },
     {
       "ClassName": "BaseballCap_CMMG_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6238,7 +6123,7 @@
     },
     {
       "ClassName": "BaseballCap_CMMG_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6257,7 +6142,7 @@
     },
     {
       "ClassName": "BaseballCap_Camo",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6276,7 +6161,7 @@
     },
     {
       "ClassName": "BaseballCap_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6295,7 +6180,7 @@
     },
     {
       "ClassName": "BaseballCap_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6314,7 +6199,7 @@
     },
     {
       "ClassName": "BaseballCap_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6333,7 +6218,7 @@
     },
     {
       "ClassName": "Battery9V",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6352,7 +6237,7 @@
     },
     {
       "ClassName": "BatteryCharger",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6371,7 +6256,7 @@
     },
     {
       "ClassName": "BeanieHat_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6390,7 +6275,7 @@
     },
     {
       "ClassName": "BeanieHat_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6409,7 +6294,7 @@
     },
     {
       "ClassName": "BeanieHat_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6428,7 +6313,7 @@
     },
     {
       "ClassName": "BeanieHat_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6447,7 +6332,7 @@
     },
     {
       "ClassName": "BeanieHat_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6466,7 +6351,7 @@
     },
     {
       "ClassName": "BeanieHat_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6485,7 +6370,7 @@
     },
     {
       "ClassName": "BeanieHat_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6504,7 +6389,7 @@
     },
     {
       "ClassName": "BeanieHat_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6523,7 +6408,7 @@
     },
     {
       "ClassName": "BearTrap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6542,7 +6427,7 @@
     },
     {
       "ClassName": "Bear_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6561,7 +6446,7 @@
     },
     {
       "ClassName": "Bear_Dark",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6580,7 +6465,7 @@
     },
     {
       "ClassName": "Bear_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6599,7 +6484,7 @@
     },
     {
       "ClassName": "Bear_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6618,7 +6503,7 @@
     },
     {
       "ClassName": "Binoculars",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6637,7 +6522,7 @@
     },
     {
       "ClassName": "BloodBagEmpty",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6656,7 +6541,7 @@
     },
     {
       "ClassName": "BloodTestKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6675,7 +6560,7 @@
     },
     {
       "ClassName": "Blouse_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6694,7 +6579,7 @@
     },
     {
       "ClassName": "Blouse_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6713,7 +6598,7 @@
     },
     {
       "ClassName": "Blouse_Violet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6732,7 +6617,7 @@
     },
     {
       "ClassName": "Blouse_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6751,7 +6636,7 @@
     },
     {
       "ClassName": "Blowtorch",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6770,7 +6655,7 @@
     },
     {
       "ClassName": "BomberJacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6789,7 +6674,7 @@
     },
     {
       "ClassName": "BomberJacket_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6808,7 +6693,7 @@
     },
     {
       "ClassName": "BomberJacket_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6827,7 +6712,7 @@
     },
     {
       "ClassName": "BomberJacket_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6846,7 +6731,7 @@
     },
     {
       "ClassName": "BomberJacket_Maroon",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6865,7 +6750,7 @@
     },
     {
       "ClassName": "BomberJacket_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6884,7 +6769,7 @@
     },
     {
       "ClassName": "BomberJacket_SkyBlue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6903,7 +6788,7 @@
     },
     {
       "ClassName": "BoonieHat_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6922,7 +6807,7 @@
     },
     {
       "ClassName": "BoonieHat_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6941,7 +6826,7 @@
     },
     {
       "ClassName": "BoonieHat_DPM",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6960,7 +6845,7 @@
     },
     {
       "ClassName": "BoonieHat_Dubok",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6979,7 +6864,7 @@
     },
     {
       "ClassName": "BoonieHat_Flecktran",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -6998,7 +6883,7 @@
     },
     {
       "ClassName": "BoonieHat_NavyBlue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7017,7 +6902,7 @@
     },
     {
       "ClassName": "BoonieHat_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7036,7 +6921,7 @@
     },
     {
       "ClassName": "BoonieHat_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7055,7 +6940,7 @@
     },
     {
       "ClassName": "BoonieHat_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7074,7 +6959,7 @@
     },
     {
       "ClassName": "BoonieHat_Tan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7093,7 +6978,7 @@
     },
     {
       "ClassName": "BoxCerealCrunchin",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7112,7 +6997,7 @@
     },
     {
       "ClassName": "BrassKnuckles_Dull",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7131,7 +7016,7 @@
     },
     {
       "ClassName": "BrassKnuckles_Shiny",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7150,7 +7035,7 @@
     },
     {
       "ClassName": "Breeches_Beetcheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7169,7 +7054,7 @@
     },
     {
       "ClassName": "Breeches_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7188,7 +7073,7 @@
     },
     {
       "ClassName": "Breeches_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7207,7 +7092,7 @@
     },
     {
       "ClassName": "Breeches_Blackcheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7226,7 +7111,7 @@
     },
     {
       "ClassName": "Breeches_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7245,7 +7130,7 @@
     },
     {
       "ClassName": "Breeches_Browncheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7264,7 +7149,7 @@
     },
     {
       "ClassName": "Breeches_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7283,7 +7168,7 @@
     },
     {
       "ClassName": "Breeches_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7302,7 +7187,7 @@
     },
     {
       "ClassName": "Breeches_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7321,7 +7206,7 @@
     },
     {
       "ClassName": "Breeches_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7340,7 +7225,7 @@
     },
     {
       "ClassName": "BrisketSpread",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7359,7 +7244,7 @@
     },
     {
       "ClassName": "Broom",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7378,7 +7263,7 @@
     },
     {
       "ClassName": "BurlapSack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7397,7 +7282,7 @@
     },
     {
       "ClassName": "CableReel",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7416,7 +7301,7 @@
     },
     {
       "ClassName": "Camonet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7435,7 +7320,7 @@
     },
     {
       "ClassName": "CanOpener",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7454,7 +7339,7 @@
     },
     {
       "ClassName": "CanisterGasoline",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7473,7 +7358,7 @@
     },
     {
       "ClassName": "Canteen",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7492,7 +7377,7 @@
     },
     {
       "ClassName": "CanvasPantsMidi_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7511,7 +7396,7 @@
     },
     {
       "ClassName": "CanvasPantsMidi_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7530,7 +7415,7 @@
     },
     {
       "ClassName": "CanvasPantsMidi_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7549,7 +7434,7 @@
     },
     {
       "ClassName": "CanvasPantsMidi_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7568,7 +7453,7 @@
     },
     {
       "ClassName": "CanvasPantsMidi_Violet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7587,7 +7472,7 @@
     },
     {
       "ClassName": "CanvasPants_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7606,7 +7491,7 @@
     },
     {
       "ClassName": "CanvasPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7625,7 +7510,7 @@
     },
     {
       "ClassName": "CanvasPants_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7644,7 +7529,7 @@
     },
     {
       "ClassName": "CanvasPants_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7663,7 +7548,7 @@
     },
     {
       "ClassName": "CanvasPants_Violet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7682,7 +7567,7 @@
     },
     {
       "ClassName": "CarBattery",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7701,7 +7586,7 @@
     },
     {
       "ClassName": "CarRadiator",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7720,7 +7605,7 @@
     },
     {
       "ClassName": "CarTent",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7739,7 +7624,7 @@
     },
     {
       "ClassName": "CargoPants_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7758,7 +7643,7 @@
     },
     {
       "ClassName": "CargoPants_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7777,7 +7662,7 @@
     },
     {
       "ClassName": "CargoPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7796,7 +7681,7 @@
     },
     {
       "ClassName": "CargoPants_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7815,7 +7700,7 @@
     },
     {
       "ClassName": "CargoPants_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7834,7 +7719,7 @@
     },
     {
       "ClassName": "CatFoodCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7853,7 +7738,7 @@
     },
     {
       "ClassName": "CharcoalTablets",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7872,7 +7757,7 @@
     },
     {
       "ClassName": "Chemlight_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7891,7 +7776,7 @@
     },
     {
       "ClassName": "Chemlight_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7910,7 +7795,7 @@
     },
     {
       "ClassName": "Chemlight_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7929,7 +7814,7 @@
     },
     {
       "ClassName": "Chemlight_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7948,7 +7833,7 @@
     },
     {
       "ClassName": "Chemlight_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7967,7 +7852,7 @@
     },
     {
       "ClassName": "ChernarusMap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -7986,7 +7871,7 @@
     },
     {
       "ClassName": "ChernarusSportShirt",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8005,7 +7890,7 @@
     },
     {
       "ClassName": "ChestHolster",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8024,7 +7909,7 @@
     },
     {
       "ClassName": "ChildBag_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8043,7 +7928,7 @@
     },
     {
       "ClassName": "ChildBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8062,7 +7947,7 @@
     },
     {
       "ClassName": "ChildBag_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8081,7 +7966,7 @@
     },
     {
       "ClassName": "Chips",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8100,7 +7985,7 @@
     },
     {
       "ClassName": "CivilianBelt",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8119,7 +8004,7 @@
     },
     {
       "ClassName": "ClaymoreMine",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8138,7 +8023,7 @@
     },
     {
       "ClassName": "Cleaver",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8157,7 +8042,7 @@
     },
     {
       "ClassName": "CombatBoots_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8176,7 +8061,7 @@
     },
     {
       "ClassName": "CombatBoots_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8195,7 +8080,7 @@
     },
     {
       "ClassName": "CombatBoots_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8214,7 +8099,7 @@
     },
     {
       "ClassName": "CombatBoots_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8233,7 +8118,7 @@
     },
     {
       "ClassName": "CombatBoots_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8252,7 +8137,7 @@
     },
     {
       "ClassName": "CombatKnife",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8271,7 +8156,7 @@
     },
     {
       "ClassName": "CombinationLock",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8290,7 +8175,7 @@
     },
     {
       "ClassName": "CombinationLock4",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8309,7 +8194,7 @@
     },
     {
       "ClassName": "Compass",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8328,7 +8213,7 @@
     },
     {
       "ClassName": "CowboyHat_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8347,7 +8232,7 @@
     },
     {
       "ClassName": "CowboyHat_black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8366,7 +8251,7 @@
     },
     {
       "ClassName": "CowboyHat_darkBrown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8385,7 +8270,7 @@
     },
     {
       "ClassName": "CowboyHat_green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8404,7 +8289,7 @@
     },
     {
       "ClassName": "CoyoteBag_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8423,7 +8308,7 @@
     },
     {
       "ClassName": "CoyoteBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8442,7 +8327,7 @@
     },
     {
       "ClassName": "Crackers",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8461,7 +8346,7 @@
     },
     {
       "ClassName": "Crowbar",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8480,7 +8365,7 @@
     },
     {
       "ClassName": "CrudeMachete",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8499,7 +8384,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8518,7 +8403,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8537,7 +8422,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8556,7 +8441,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8575,7 +8460,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Lime",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8594,7 +8479,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8613,7 +8498,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8632,7 +8517,7 @@
     },
     {
       "ClassName": "DarkMotoHelmet_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8651,7 +8536,7 @@
     },
     {
       "ClassName": "DenimJacket",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8670,7 +8555,7 @@
     },
     {
       "ClassName": "DesignerGlasses",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8689,7 +8574,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8708,7 +8593,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8727,7 +8612,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Chernarus",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8746,7 +8631,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8765,7 +8650,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Khaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8784,7 +8669,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Mouthguard",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8803,7 +8688,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Police",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8822,7 +8707,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8841,7 +8726,7 @@
     },
     {
       "ClassName": "DirtBikeHelmet_Visor",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8860,7 +8745,7 @@
     },
     {
       "ClassName": "DisinfectantAlcohol",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8879,7 +8764,7 @@
     },
     {
       "ClassName": "DisinfectantSpray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8898,7 +8783,7 @@
     },
     {
       "ClassName": "DogFoodCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8917,7 +8802,7 @@
     },
     {
       "ClassName": "DressShoes_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8936,7 +8821,7 @@
     },
     {
       "ClassName": "DressShoes_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8955,7 +8840,7 @@
     },
     {
       "ClassName": "DressShoes_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8974,7 +8859,7 @@
     },
     {
       "ClassName": "DressShoes_Sunburst",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -8993,7 +8878,7 @@
     },
     {
       "ClassName": "DressShoes_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9012,7 +8897,7 @@
     },
     {
       "ClassName": "DryBag_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9031,7 +8916,7 @@
     },
     {
       "ClassName": "DryBag_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9050,7 +8935,7 @@
     },
     {
       "ClassName": "DryBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9069,7 +8954,7 @@
     },
     {
       "ClassName": "DryBag_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9088,7 +8973,7 @@
     },
     {
       "ClassName": "DryBag_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9107,7 +8992,7 @@
     },
     {
       "ClassName": "DryBag_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9126,7 +9011,7 @@
     },
     {
       "ClassName": "DuctTape",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9145,7 +9030,7 @@
     },
     {
       "ClassName": "ElectronicRepairKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9164,7 +9049,7 @@
     },
     {
       "ClassName": "Epinephrine",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9183,7 +9068,7 @@
     },
     {
       "ClassName": "EpoxyPutty",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9202,7 +9087,7 @@
     },
     {
       "ClassName": "Fabric",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9221,7 +9106,7 @@
     },
     {
       "ClassName": "FangeKnife",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9240,7 +9125,7 @@
     },
     {
       "ClassName": "FarmingHoe",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9259,7 +9144,7 @@
     },
     {
       "ClassName": "FirefighterAxe",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9278,7 +9163,7 @@
     },
     {
       "ClassName": "FirefighterJacket_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9297,7 +9182,7 @@
     },
     {
       "ClassName": "FirefighterJacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9316,7 +9201,7 @@
     },
     {
       "ClassName": "FirefightersHelmet_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9335,7 +9220,7 @@
     },
     {
       "ClassName": "FirefightersHelmet_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9354,7 +9239,7 @@
     },
     {
       "ClassName": "FirefightersHelmet_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9373,7 +9258,7 @@
     },
     {
       "ClassName": "FirefightersPants_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9392,7 +9277,7 @@
     },
     {
       "ClassName": "FirefightersPants_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9411,7 +9296,7 @@
     },
     {
       "ClassName": "FireworksLauncher",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9430,7 +9315,7 @@
     },
     {
       "ClassName": "FirstAidKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9449,7 +9334,7 @@
     },
     {
       "ClassName": "FishingRod",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9468,7 +9353,7 @@
     },
     {
       "ClassName": "Flag_BabyDeer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9487,7 +9372,7 @@
     },
     {
       "ClassName": "Flag_Bohemia",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9506,7 +9391,7 @@
     },
     {
       "ClassName": "Flag_CDF",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9525,7 +9410,7 @@
     },
     {
       "ClassName": "Flag_CHEL",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9544,7 +9429,7 @@
     },
     {
       "ClassName": "Flag_CMC",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9563,7 +9448,7 @@
     },
     {
       "ClassName": "Flag_Cannibals",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9582,7 +9467,7 @@
     },
     {
       "ClassName": "Flag_Chedaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9601,7 +9486,7 @@
     },
     {
       "ClassName": "Flag_Chernarus",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9620,7 +9505,7 @@
     },
     {
       "ClassName": "Flag_DayZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9639,7 +9524,7 @@
     },
     {
       "ClassName": "Flag_HunterZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9658,7 +9543,7 @@
     },
     {
       "ClassName": "Flag_NAPA",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9677,7 +9562,7 @@
     },
     {
       "ClassName": "Flag_Pirates",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9696,7 +9581,7 @@
     },
     {
       "ClassName": "Flag_RSTA",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9715,7 +9600,7 @@
     },
     {
       "ClassName": "Flag_Refuge",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9734,7 +9619,7 @@
     },
     {
       "ClassName": "Flag_Rooster",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9753,7 +9638,7 @@
     },
     {
       "ClassName": "Flag_Snake",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9772,7 +9657,7 @@
     },
     {
       "ClassName": "Flag_TEC",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9791,7 +9676,7 @@
     },
     {
       "ClassName": "Flag_UEC",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9810,7 +9695,7 @@
     },
     {
       "ClassName": "Flag_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9829,7 +9714,7 @@
     },
     {
       "ClassName": "Flag_Wolf",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9848,7 +9733,7 @@
     },
     {
       "ClassName": "Flag_Zenit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9867,7 +9752,7 @@
     },
     {
       "ClassName": "FlashGrenade",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9886,7 +9771,7 @@
     },
     {
       "ClassName": "Flashlight",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9905,7 +9790,7 @@
     },
     {
       "ClassName": "FlatCap_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9924,7 +9809,7 @@
     },
     {
       "ClassName": "FlatCap_BlackCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9943,7 +9828,7 @@
     },
     {
       "ClassName": "FlatCap_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9962,7 +9847,7 @@
     },
     {
       "ClassName": "FlatCap_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -9981,7 +9866,7 @@
     },
     {
       "ClassName": "FlatCap_BrownCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10000,7 +9885,7 @@
     },
     {
       "ClassName": "FlatCap_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10019,7 +9904,7 @@
     },
     {
       "ClassName": "FlatCap_GreyCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10038,7 +9923,7 @@
     },
     {
       "ClassName": "FlatCap_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10057,7 +9942,7 @@
     },
     {
       "ClassName": "FryingPan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10076,7 +9961,7 @@
     },
     {
       "ClassName": "GP5GasMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10095,7 +9980,7 @@
     },
     {
       "ClassName": "GPSReceiver",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10114,7 +9999,7 @@
     },
     {
       "ClassName": "GardenLime",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10133,7 +10018,7 @@
     },
     {
       "ClassName": "GasMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10152,7 +10037,7 @@
     },
     {
       "ClassName": "GhillieAtt_Mossy",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10171,7 +10056,7 @@
     },
     {
       "ClassName": "GhillieBushrag_Mossy",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10190,7 +10075,7 @@
     },
     {
       "ClassName": "GhillieSuit_Mossy",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10209,7 +10094,7 @@
     },
     {
       "ClassName": "GhillieTop_Mossy",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10228,7 +10113,7 @@
     },
     {
       "ClassName": "GiftBox_Large_1",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10247,7 +10132,7 @@
     },
     {
       "ClassName": "GiftBox_Large_2",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10266,7 +10151,7 @@
     },
     {
       "ClassName": "GiftBox_Large_3",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10285,7 +10170,7 @@
     },
     {
       "ClassName": "GiftBox_Large_4",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10304,7 +10189,7 @@
     },
     {
       "ClassName": "GiftBox_Medium_1",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10323,7 +10208,7 @@
     },
     {
       "ClassName": "GiftBox_Medium_2",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10342,7 +10227,7 @@
     },
     {
       "ClassName": "GiftBox_Medium_3",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10361,7 +10246,7 @@
     },
     {
       "ClassName": "GiftBox_Medium_4",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10380,7 +10265,7 @@
     },
     {
       "ClassName": "GiftBox_Small_1",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10399,7 +10284,7 @@
     },
     {
       "ClassName": "GiftBox_Small_2",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10418,7 +10303,7 @@
     },
     {
       "ClassName": "GiftBox_Small_3",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10437,7 +10322,7 @@
     },
     {
       "ClassName": "GiftBox_Small_4",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10456,7 +10341,7 @@
     },
     {
       "ClassName": "GlowPlug",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10475,7 +10360,7 @@
     },
     {
       "ClassName": "GorkaEJacket_Autumn",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10494,7 +10379,7 @@
     },
     {
       "ClassName": "GorkaEJacket_Flat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10513,7 +10398,7 @@
     },
     {
       "ClassName": "GorkaEJacket_PautRev",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10532,7 +10417,7 @@
     },
     {
       "ClassName": "GorkaEJacket_Summer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10551,7 +10436,7 @@
     },
     {
       "ClassName": "GorkaHelmet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10570,7 +10455,7 @@
     },
     {
       "ClassName": "GorkaHelmetVisor",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10589,7 +10474,7 @@
     },
     {
       "ClassName": "GorkaPants_Autumn",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10608,7 +10493,7 @@
     },
     {
       "ClassName": "GorkaPants_Flat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10627,7 +10512,7 @@
     },
     {
       "ClassName": "GorkaPants_PautRev",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10646,7 +10531,7 @@
     },
     {
       "ClassName": "GorkaPants_Summer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10665,7 +10550,7 @@
     },
     {
       "ClassName": "GreatHelm",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10684,7 +10569,7 @@
     },
     {
       "ClassName": "GreenBellPepper",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10703,7 +10588,7 @@
     },
     {
       "ClassName": "Hacksaw",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10722,7 +10607,7 @@
     },
     {
       "ClassName": "Hammer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10741,7 +10626,7 @@
     },
     {
       "ClassName": "HandSaw",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10760,7 +10645,7 @@
     },
     {
       "ClassName": "Hatchet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10779,7 +10664,7 @@
     },
     {
       "ClassName": "HeadlightH7_Box",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10798,7 +10683,7 @@
     },
     {
       "ClassName": "Headtorch_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10817,7 +10702,7 @@
     },
     {
       "ClassName": "Headtorch_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10836,7 +10721,7 @@
     },
     {
       "ClassName": "Heatpack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10855,7 +10740,7 @@
     },
     {
       "ClassName": "HighCapacityVest_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10874,7 +10759,7 @@
     },
     {
       "ClassName": "HighCapacityVest_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10893,7 +10778,7 @@
     },
     {
       "ClassName": "HikingBootsLow_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10912,7 +10797,7 @@
     },
     {
       "ClassName": "HikingBootsLow_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10931,7 +10816,7 @@
     },
     {
       "ClassName": "HikingBootsLow_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10950,7 +10835,7 @@
     },
     {
       "ClassName": "HikingBootsLow_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10969,7 +10854,7 @@
     },
     {
       "ClassName": "HikingBoots_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -10988,7 +10873,7 @@
     },
     {
       "ClassName": "HikingBoots_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11007,7 +10892,7 @@
     },
     {
       "ClassName": "HikingJacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11026,7 +10911,7 @@
     },
     {
       "ClassName": "HikingJacket_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11045,7 +10930,7 @@
     },
     {
       "ClassName": "HikingJacket_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11064,7 +10949,7 @@
     },
     {
       "ClassName": "HikingJacket_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11083,7 +10968,7 @@
     },
     {
       "ClassName": "HockeyHelmet_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11102,7 +10987,7 @@
     },
     {
       "ClassName": "HockeyHelmet_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11121,7 +11006,7 @@
     },
     {
       "ClassName": "HockeyHelmet_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11140,7 +11025,7 @@
     },
     {
       "ClassName": "HockeyHelmet_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11159,7 +11044,7 @@
     },
     {
       "ClassName": "HockeyMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11178,7 +11063,7 @@
     },
     {
       "ClassName": "Honey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11197,7 +11082,7 @@
     },
     {
       "ClassName": "Hook",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11216,7 +11101,7 @@
     },
     {
       "ClassName": "HunterPants_Autumn",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11235,7 +11120,7 @@
     },
     {
       "ClassName": "HunterPants_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11254,7 +11139,7 @@
     },
     {
       "ClassName": "HunterPants_Spring",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11273,7 +11158,7 @@
     },
     {
       "ClassName": "HunterPants_Summer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11292,7 +11177,7 @@
     },
     {
       "ClassName": "HunterPants_Winter",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11311,7 +11196,7 @@
     },
     {
       "ClassName": "HuntingBag",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11330,7 +11215,7 @@
     },
     {
       "ClassName": "HuntingJacket_Autumn",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11349,7 +11234,7 @@
     },
     {
       "ClassName": "HuntingJacket_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11368,7 +11253,7 @@
     },
     {
       "ClassName": "HuntingJacket_Spring",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11387,7 +11272,7 @@
     },
     {
       "ClassName": "HuntingJacket_Summer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11406,7 +11291,7 @@
     },
     {
       "ClassName": "HuntingJacket_Winter",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11425,7 +11310,7 @@
     },
     {
       "ClassName": "HuntingKnife",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11444,7 +11329,7 @@
     },
     {
       "ClassName": "HuntingVest",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11463,7 +11348,7 @@
     },
     {
       "ClassName": "IodineTincture",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11482,7 +11367,7 @@
     },
     {
       "ClassName": "Jeans_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11501,7 +11386,7 @@
     },
     {
       "ClassName": "Jeans_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11520,7 +11405,7 @@
     },
     {
       "ClassName": "Jeans_BlueDark",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11539,7 +11424,7 @@
     },
     {
       "ClassName": "Jeans_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11558,7 +11443,7 @@
     },
     {
       "ClassName": "Jeans_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11577,7 +11462,7 @@
     },
     {
       "ClassName": "Jeans_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11596,7 +11481,7 @@
     },
     {
       "ClassName": "JoggingShoes_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11615,7 +11500,7 @@
     },
     {
       "ClassName": "JoggingShoes_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11634,7 +11519,7 @@
     },
     {
       "ClassName": "JoggingShoes_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11653,7 +11538,7 @@
     },
     {
       "ClassName": "JoggingShoes_Violet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11672,7 +11557,7 @@
     },
     {
       "ClassName": "JoggingShoes_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11691,7 +11576,7 @@
     },
     {
       "ClassName": "JumpsuitJacket_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11710,7 +11595,7 @@
     },
     {
       "ClassName": "JumpsuitJacket_Gray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11729,7 +11614,7 @@
     },
     {
       "ClassName": "JumpsuitJacket_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11748,7 +11633,7 @@
     },
     {
       "ClassName": "JumpsuitJacket_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11767,7 +11652,7 @@
     },
     {
       "ClassName": "JumpsuitPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11786,7 +11671,7 @@
     },
     {
       "ClassName": "JumpsuitPants_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11805,7 +11690,7 @@
     },
     {
       "ClassName": "JumpsuitPants_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11824,7 +11709,7 @@
     },
     {
       "ClassName": "JumpsuitPants_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11843,7 +11728,7 @@
     },
     {
       "ClassName": "JungleBoots_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11862,7 +11747,7 @@
     },
     {
       "ClassName": "JungleBoots_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11881,7 +11766,7 @@
     },
     {
       "ClassName": "JungleBoots_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11900,7 +11785,7 @@
     },
     {
       "ClassName": "JungleBoots_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11919,7 +11804,7 @@
     },
     {
       "ClassName": "JungleBoots_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11938,7 +11823,7 @@
     },
     {
       "ClassName": "KitchenKnife",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11957,7 +11842,7 @@
     },
     {
       "ClassName": "KitchenTimer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11976,7 +11861,7 @@
     },
     {
       "ClassName": "KukriKnife",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11995,7 +11880,7 @@
     },
     {
       "ClassName": "LabCoat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12014,7 +11899,7 @@
     },
     {
       "ClassName": "LandMineTrap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12033,7 +11918,7 @@
     },
     {
       "ClassName": "LargeGasCanister",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12052,7 +11937,7 @@
     },
     {
       "ClassName": "LargeTent",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12071,7 +11956,7 @@
     },
     {
       "ClassName": "LeatherSewingKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12090,7 +11975,7 @@
     },
     {
       "ClassName": "Lockpick",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12109,7 +11994,7 @@
     },
     {
       "ClassName": "LugWrench",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12128,7 +12013,7 @@
     },
     {
       "ClassName": "Lunchmeat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12147,7 +12032,7 @@
     },
     {
       "ClassName": "M18SmokeGrenade_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12166,7 +12051,7 @@
     },
     {
       "ClassName": "M18SmokeGrenade_Purple",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12185,7 +12070,7 @@
     },
     {
       "ClassName": "M18SmokeGrenade_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12204,7 +12089,7 @@
     },
     {
       "ClassName": "M18SmokeGrenade_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12223,7 +12108,7 @@
     },
     {
       "ClassName": "M18SmokeGrenade_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12242,7 +12127,7 @@
     },
     {
       "ClassName": "M65Jacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12261,7 +12146,7 @@
     },
     {
       "ClassName": "M65Jacket_Khaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12280,7 +12165,7 @@
     },
     {
       "ClassName": "M65Jacket_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12299,7 +12184,7 @@
     },
     {
       "ClassName": "M65Jacket_Tan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12318,7 +12203,7 @@
     },
     {
       "ClassName": "M67Grenade",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12337,7 +12222,7 @@
     },
     {
       "ClassName": "Machete",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12356,7 +12241,7 @@
     },
     {
       "ClassName": "ManSuit_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12375,7 +12260,7 @@
     },
     {
       "ClassName": "ManSuit_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12394,7 +12279,7 @@
     },
     {
       "ClassName": "ManSuit_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12413,7 +12298,7 @@
     },
     {
       "ClassName": "ManSuit_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12432,7 +12317,7 @@
     },
     {
       "ClassName": "ManSuit_DarkGrey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12451,7 +12336,7 @@
     },
     {
       "ClassName": "ManSuit_Khaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12470,7 +12355,7 @@
     },
     {
       "ClassName": "ManSuit_LightGrey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12489,7 +12374,7 @@
     },
     {
       "ClassName": "ManSuit_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12508,7 +12393,7 @@
     },
     {
       "ClassName": "Marmalade",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12527,7 +12412,7 @@
     },
     {
       "ClassName": "Matchbox",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12546,7 +12431,7 @@
     },
     {
       "ClassName": "MeatTenderizer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12565,7 +12450,7 @@
     },
     {
       "ClassName": "MedicalScrubsHat_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12584,7 +12469,7 @@
     },
     {
       "ClassName": "MedicalScrubsHat_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12603,7 +12488,7 @@
     },
     {
       "ClassName": "MedicalScrubsHat_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12622,7 +12507,7 @@
     },
     {
       "ClassName": "MedicalScrubsPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12641,7 +12526,7 @@
     },
     {
       "ClassName": "MedicalScrubsPants_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12660,7 +12545,7 @@
     },
     {
       "ClassName": "MedicalScrubsPants_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12679,7 +12564,7 @@
     },
     {
       "ClassName": "MedicalScrubsShirt_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12698,7 +12583,7 @@
     },
     {
       "ClassName": "MedicalScrubsShirt_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12717,7 +12602,7 @@
     },
     {
       "ClassName": "MedicalScrubsShirt_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12736,7 +12621,7 @@
     },
     {
       "ClassName": "MediumGasCanister",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12755,7 +12640,7 @@
     },
     {
       "ClassName": "MediumTent",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12774,7 +12659,7 @@
     },
     {
       "ClassName": "MediumTent_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12793,7 +12678,7 @@
     },
     {
       "ClassName": "MediumTent_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12812,7 +12697,7 @@
     },
     {
       "ClassName": "Megaphone",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12831,7 +12716,7 @@
     },
     {
       "ClassName": "MetalWire",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12850,7 +12735,7 @@
     },
     {
       "ClassName": "Mich2001Helmet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12869,7 +12754,7 @@
     },
     {
       "ClassName": "MilitaryBelt",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12888,7 +12773,7 @@
     },
     {
       "ClassName": "MilitaryBeret_CDF",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12907,7 +12792,7 @@
     },
     {
       "ClassName": "MilitaryBeret_ChDKZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12926,7 +12811,7 @@
     },
     {
       "ClassName": "MilitaryBeret_NZ",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12945,7 +12830,7 @@
     },
     {
       "ClassName": "MilitaryBeret_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12964,7 +12849,7 @@
     },
     {
       "ClassName": "MilitaryBeret_UN",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -12983,7 +12868,7 @@
     },
     {
       "ClassName": "MilitaryBoots_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13002,7 +12887,7 @@
     },
     {
       "ClassName": "MilitaryBoots_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13021,7 +12906,7 @@
     },
     {
       "ClassName": "MilitaryBoots_Bluerock",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13040,7 +12925,7 @@
     },
     {
       "ClassName": "MilitaryBoots_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13059,7 +12944,7 @@
     },
     {
       "ClassName": "MilitaryBoots_Redpunk",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13078,7 +12963,7 @@
     },
     {
       "ClassName": "MiniDress_BlueChecker",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13097,7 +12982,7 @@
     },
     {
       "ClassName": "MiniDress_BlueWithDots",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13116,7 +13001,7 @@
     },
     {
       "ClassName": "MiniDress_BrownChecker",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13135,7 +13020,7 @@
     },
     {
       "ClassName": "MiniDress_GreenChecker",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13154,7 +13039,7 @@
     },
     {
       "ClassName": "MiniDress_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13173,7 +13058,7 @@
     },
     {
       "ClassName": "MiniDress_PinkChecker",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13192,7 +13077,7 @@
     },
     {
       "ClassName": "MiniDress_RedChecker",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13211,7 +13096,7 @@
     },
     {
       "ClassName": "MiniDress_WhiteChecker",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13230,7 +13115,7 @@
     },
     {
       "ClassName": "Morphine",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13249,7 +13134,7 @@
     },
     {
       "ClassName": "MotoHelmet_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13268,7 +13153,7 @@
     },
     {
       "ClassName": "MotoHelmet_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13287,7 +13172,7 @@
     },
     {
       "ClassName": "MotoHelmet_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13306,7 +13191,7 @@
     },
     {
       "ClassName": "MotoHelmet_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13325,7 +13210,7 @@
     },
     {
       "ClassName": "MotoHelmet_Lime",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13344,7 +13229,7 @@
     },
     {
       "ClassName": "MotoHelmet_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13363,7 +13248,7 @@
     },
     {
       "ClassName": "MotoHelmet_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13382,7 +13267,7 @@
     },
     {
       "ClassName": "MotoHelmet_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13401,7 +13286,7 @@
     },
     {
       "ClassName": "MountainBag_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13420,7 +13305,7 @@
     },
     {
       "ClassName": "MountainBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13439,7 +13324,7 @@
     },
     {
       "ClassName": "MountainBag_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13458,7 +13343,7 @@
     },
     {
       "ClassName": "MountainBag_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13477,7 +13362,7 @@
     },
     {
       "ClassName": "NBCBootsGray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13496,7 +13381,7 @@
     },
     {
       "ClassName": "NBCBootsYellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13515,7 +13400,7 @@
     },
     {
       "ClassName": "NBCGlovesGray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13534,7 +13419,7 @@
     },
     {
       "ClassName": "NBCGlovesYellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13553,7 +13438,7 @@
     },
     {
       "ClassName": "NBCJacketGray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13572,7 +13457,7 @@
     },
     {
       "ClassName": "NBCJacketYellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13591,7 +13476,7 @@
     },
     {
       "ClassName": "NBCPantsGray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13610,7 +13495,7 @@
     },
     {
       "ClassName": "NBCPantsYellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13629,7 +13514,7 @@
     },
     {
       "ClassName": "NVGHeadstrap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13648,7 +13533,7 @@
     },
     {
       "ClassName": "NailBox",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13667,7 +13552,7 @@
     },
     {
       "ClassName": "Netting",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13686,7 +13571,7 @@
     },
     {
       "ClassName": "NioshFaceMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13705,7 +13590,7 @@
     },
     {
       "ClassName": "NurseDress_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13724,7 +13609,7 @@
     },
     {
       "ClassName": "NurseDress_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13743,7 +13628,7 @@
     },
     {
       "ClassName": "NylonKnifeSheath",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13762,7 +13647,7 @@
     },
     {
       "ClassName": "OMNOGloves_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13781,7 +13666,7 @@
     },
     {
       "ClassName": "OMNOGloves_Gray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13800,7 +13685,7 @@
     },
     {
       "ClassName": "OfficerHat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13819,7 +13704,7 @@
     },
     {
       "ClassName": "OrientalMachete",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13838,7 +13723,7 @@
     },
     {
       "ClassName": "OrienteeringCompass",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13857,7 +13742,7 @@
     },
     {
       "ClassName": "PainkillerTablets",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13876,7 +13761,7 @@
     },
     {
       "ClassName": "Pajka",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13895,7 +13780,7 @@
     },
     {
       "ClassName": "ParamedicJacket_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13914,7 +13799,7 @@
     },
     {
       "ClassName": "ParamedicJacket_Crimson",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13933,7 +13818,7 @@
     },
     {
       "ClassName": "ParamedicJacket_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13952,7 +13837,7 @@
     },
     {
       "ClassName": "ParamedicPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13971,7 +13856,7 @@
     },
     {
       "ClassName": "ParamedicPants_Crimson",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13990,7 +13875,7 @@
     },
     {
       "ClassName": "ParamedicPants_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14009,7 +13894,7 @@
     },
     {
       "ClassName": "PartyTent",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14028,7 +13913,7 @@
     },
     {
       "ClassName": "PartyTent_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14047,7 +13932,7 @@
     },
     {
       "ClassName": "PartyTent_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14066,7 +13951,7 @@
     },
     {
       "ClassName": "PartyTent_Lunapark",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14085,7 +13970,7 @@
     },
     {
       "ClassName": "Pate",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14104,7 +13989,7 @@
     },
     {
       "ClassName": "PeachesCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14123,7 +14008,7 @@
     },
     {
       "ClassName": "Pen_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14142,7 +14027,7 @@
     },
     {
       "ClassName": "Pen_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14161,7 +14046,7 @@
     },
     {
       "ClassName": "Pen_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14180,7 +14065,7 @@
     },
     {
       "ClassName": "Pen_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14199,7 +14084,7 @@
     },
     {
       "ClassName": "PepperSeedsPack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14218,7 +14103,7 @@
     },
     {
       "ClassName": "PersonalRadio",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14237,7 +14122,7 @@
     },
     {
       "ClassName": "PetrolLighter",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14256,7 +14141,7 @@
     },
     {
       "ClassName": "Pickaxe",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14275,7 +14160,7 @@
     },
     {
       "ClassName": "PilotkaCap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14294,7 +14179,7 @@
     },
     {
       "ClassName": "Pipe",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14313,7 +14198,7 @@
     },
     {
       "ClassName": "PipeWrench",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14332,7 +14217,7 @@
     },
     {
       "ClassName": "Pitchfork",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14351,7 +14236,7 @@
     },
     {
       "ClassName": "Plastic_Explosive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14370,7 +14255,7 @@
     },
     {
       "ClassName": "Pliers",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14389,7 +14274,7 @@
     },
     {
       "ClassName": "PoliceCap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14408,7 +14293,7 @@
     },
     {
       "ClassName": "PoliceJacket",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14427,7 +14312,7 @@
     },
     {
       "ClassName": "PoliceJacketOrel",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14446,7 +14331,7 @@
     },
     {
       "ClassName": "PolicePants",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14465,7 +14350,7 @@
     },
     {
       "ClassName": "PolicePantsOrel",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14484,7 +14369,7 @@
     },
     {
       "ClassName": "PoliceVest",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14503,7 +14388,7 @@
     },
     {
       "ClassName": "PorkCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14522,7 +14407,7 @@
     },
     {
       "ClassName": "PortableGasLamp",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14541,7 +14426,7 @@
     },
     {
       "ClassName": "PortableGasStove",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14560,7 +14445,7 @@
     },
     {
       "ClassName": "Pot",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14579,7 +14464,7 @@
     },
     {
       "ClassName": "PotatoSeed",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14598,7 +14483,7 @@
     },
     {
       "ClassName": "PowderedMilk",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14617,7 +14502,7 @@
     },
     {
       "ClassName": "PressVest_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14636,7 +14521,7 @@
     },
     {
       "ClassName": "PressVest_LightBlue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14655,7 +14540,7 @@
     },
     {
       "ClassName": "PrisonUniformJacket",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14674,7 +14559,7 @@
     },
     {
       "ClassName": "PrisonUniformPants",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14693,7 +14578,7 @@
     },
     {
       "ClassName": "PrisonerCap",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14712,7 +14597,7 @@
     },
     {
       "ClassName": "PumpkinHelmet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14731,7 +14616,7 @@
     },
     {
       "ClassName": "PumpkinSeedsPack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14750,7 +14635,7 @@
     },
     {
       "ClassName": "PurificationTablets",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14769,7 +14654,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14788,7 +14673,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14807,7 +14692,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14826,7 +14711,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14845,7 +14730,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14864,7 +14749,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14883,7 +14768,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Violet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14902,7 +14787,7 @@
     },
     {
       "ClassName": "QuiltedJacket_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14921,7 +14806,7 @@
     },
     {
       "ClassName": "RDG2SmokeGrenade_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14940,7 +14825,7 @@
     },
     {
       "ClassName": "RDG2SmokeGrenade_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14959,7 +14844,7 @@
     },
     {
       "ClassName": "RGD5Grenade",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14978,7 +14863,7 @@
     },
     {
       "ClassName": "RadarCap_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14997,7 +14882,7 @@
     },
     {
       "ClassName": "RadarCap_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15016,7 +14901,7 @@
     },
     {
       "ClassName": "RadarCap_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15035,7 +14920,7 @@
     },
     {
       "ClassName": "RadarCap_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15054,7 +14939,7 @@
     },
     {
       "ClassName": "RadarCap_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15073,7 +14958,7 @@
     },
     {
       "ClassName": "Raincoat_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15092,7 +14977,7 @@
     },
     {
       "ClassName": "Raincoat_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15111,7 +14996,7 @@
     },
     {
       "ClassName": "Raincoat_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15130,7 +15015,7 @@
     },
     {
       "ClassName": "Raincoat_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15149,7 +15034,7 @@
     },
     {
       "ClassName": "Raincoat_Pink",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15168,7 +15053,7 @@
     },
     {
       "ClassName": "Raincoat_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15187,7 +15072,7 @@
     },
     {
       "ClassName": "Raincoat_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15206,7 +15091,7 @@
     },
     {
       "ClassName": "Rangefinder",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15225,7 +15110,7 @@
     },
     {
       "ClassName": "ReflexVest",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15244,7 +15129,7 @@
     },
     {
       "ClassName": "RemoteDetonator",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15263,7 +15148,7 @@
     },
     {
       "ClassName": "Rice",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15282,7 +15167,7 @@
     },
     {
       "ClassName": "RidersJacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15301,7 +15186,7 @@
     },
     {
       "ClassName": "Roadflare",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15320,7 +15205,7 @@
     },
     {
       "ClassName": "Rope",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15339,7 +15224,7 @@
     },
     {
       "ClassName": "SalineBag",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15358,7 +15243,7 @@
     },
     {
       "ClassName": "SaltySticks",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15377,7 +15262,7 @@
     },
     {
       "ClassName": "SantasBeard",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15396,7 +15281,7 @@
     },
     {
       "ClassName": "SantasHat",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15415,7 +15300,7 @@
     },
     {
       "ClassName": "SardinesCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15434,7 +15319,7 @@
     },
     {
       "ClassName": "Screwdriver",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15453,7 +15338,7 @@
     },
     {
       "ClassName": "SewingKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15472,7 +15357,7 @@
     },
     {
       "ClassName": "Shirt_BlueCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15491,7 +15376,7 @@
     },
     {
       "ClassName": "Shirt_GreenCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15510,7 +15395,7 @@
     },
     {
       "ClassName": "Shirt_PlaneBlack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15529,7 +15414,7 @@
     },
     {
       "ClassName": "Shirt_RedCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15548,7 +15433,7 @@
     },
     {
       "ClassName": "Shirt_WhiteCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15567,7 +15452,7 @@
     },
     {
       "ClassName": "ShortJeans_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15586,7 +15471,7 @@
     },
     {
       "ClassName": "ShortJeans_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15605,7 +15490,7 @@
     },
     {
       "ClassName": "ShortJeans_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15624,7 +15509,7 @@
     },
     {
       "ClassName": "ShortJeans_Darkblue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15643,7 +15528,7 @@
     },
     {
       "ClassName": "ShortJeans_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15662,7 +15547,7 @@
     },
     {
       "ClassName": "ShortJeans_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15681,7 +15566,7 @@
     },
     {
       "ClassName": "Shovel",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15700,7 +15585,7 @@
     },
     {
       "ClassName": "Sickle",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15719,7 +15604,7 @@
     },
     {
       "ClassName": "SkateHelmet_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15738,7 +15623,7 @@
     },
     {
       "ClassName": "SkateHelmet_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15757,7 +15642,7 @@
     },
     {
       "ClassName": "SkateHelmet_Gray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15776,7 +15661,7 @@
     },
     {
       "ClassName": "SkateHelmet_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15795,7 +15680,7 @@
     },
     {
       "ClassName": "SkateHelmet_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15814,7 +15699,7 @@
     },
     {
       "ClassName": "Skirt_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15833,7 +15718,7 @@
     },
     {
       "ClassName": "Skirt_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15852,7 +15737,7 @@
     },
     {
       "ClassName": "Skirt_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15871,7 +15756,7 @@
     },
     {
       "ClassName": "Skirt_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15890,7 +15775,7 @@
     },
     {
       "ClassName": "SlacksPants_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15909,7 +15794,7 @@
     },
     {
       "ClassName": "SlacksPants_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15928,7 +15813,7 @@
     },
     {
       "ClassName": "SlacksPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15947,7 +15832,7 @@
     },
     {
       "ClassName": "SlacksPants_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15966,7 +15851,7 @@
     },
     {
       "ClassName": "SlacksPants_DarkGrey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15985,7 +15870,7 @@
     },
     {
       "ClassName": "SlacksPants_Khaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16004,7 +15889,7 @@
     },
     {
       "ClassName": "SlacksPants_LightGrey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16023,7 +15908,7 @@
     },
     {
       "ClassName": "SlacksPants_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16042,7 +15927,7 @@
     },
     {
       "ClassName": "SledgeHammer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16061,7 +15946,7 @@
     },
     {
       "ClassName": "SmallGasCanister",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16080,7 +15965,7 @@
     },
     {
       "ClassName": "SmallProtectorCase",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16099,7 +15984,7 @@
     },
     {
       "ClassName": "SmershBag",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16118,7 +16003,7 @@
     },
     {
       "ClassName": "SmershVest",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16137,7 +16022,7 @@
     },
     {
       "ClassName": "Sneakers_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16156,7 +16041,7 @@
     },
     {
       "ClassName": "Sneakers_Gray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16175,7 +16060,7 @@
     },
     {
       "ClassName": "Sneakers_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16194,7 +16079,7 @@
     },
     {
       "ClassName": "Sneakers_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16213,7 +16098,7 @@
     },
     {
       "ClassName": "Sneakers_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16232,7 +16117,7 @@
     },
     {
       "ClassName": "SodaCan_Cola",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16251,7 +16136,7 @@
     },
     {
       "ClassName": "SodaCan_Fronta",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16270,7 +16155,7 @@
     },
     {
       "ClassName": "SodaCan_Kvass",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16289,7 +16174,7 @@
     },
     {
       "ClassName": "SodaCan_Pipsi",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16308,7 +16193,7 @@
     },
     {
       "ClassName": "SodaCan_Spite",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16327,7 +16212,7 @@
     },
     {
       "ClassName": "SpaghettiCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16346,7 +16231,7 @@
     },
     {
       "ClassName": "SparkPlug",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16365,7 +16250,7 @@
     },
     {
       "ClassName": "SportGlasses_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16384,7 +16269,7 @@
     },
     {
       "ClassName": "SportGlasses_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16403,7 +16288,7 @@
     },
     {
       "ClassName": "SportGlasses_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16422,7 +16307,7 @@
     },
     {
       "ClassName": "SportGlasses_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16441,7 +16326,7 @@
     },
     {
       "ClassName": "Spotlight",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16460,7 +16345,7 @@
     },
     {
       "ClassName": "Ssh68Helmet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16479,7 +16364,7 @@
     },
     {
       "ClassName": "StartKitIV",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16498,7 +16383,7 @@
     },
     {
       "ClassName": "SteakKnife",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16517,7 +16402,7 @@
     },
     {
       "ClassName": "SurgicalGloves_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16536,7 +16421,7 @@
     },
     {
       "ClassName": "SurgicalGloves_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16555,7 +16440,7 @@
     },
     {
       "ClassName": "SurgicalGloves_LightBlue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16574,7 +16459,7 @@
     },
     {
       "ClassName": "SurgicalGloves_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16593,7 +16478,7 @@
     },
     {
       "ClassName": "SurgicalMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16612,7 +16497,7 @@
     },
     {
       "ClassName": "Sweater_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16631,7 +16516,7 @@
     },
     {
       "ClassName": "Sweater_Gray",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16650,7 +16535,7 @@
     },
     {
       "ClassName": "Sweater_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16669,7 +16554,7 @@
     },
     {
       "ClassName": "Sweater_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16688,7 +16573,7 @@
     },
     {
       "ClassName": "TShirt_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16707,7 +16592,7 @@
     },
     {
       "ClassName": "TShirt_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16726,7 +16611,7 @@
     },
     {
       "ClassName": "TShirt_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16745,7 +16630,7 @@
     },
     {
       "ClassName": "TShirt_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16764,7 +16649,7 @@
     },
     {
       "ClassName": "TShirt_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16783,7 +16668,7 @@
     },
     {
       "ClassName": "TShirt_OrangeWhiteStripes",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16802,7 +16687,7 @@
     },
     {
       "ClassName": "TShirt_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16821,7 +16706,7 @@
     },
     {
       "ClassName": "TShirt_RedBlackStripes",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16840,7 +16725,7 @@
     },
     {
       "ClassName": "TShirt_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16859,7 +16744,7 @@
     },
     {
       "ClassName": "TTSKOBoots",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16878,7 +16763,7 @@
     },
     {
       "ClassName": "TTSKOPants",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16897,7 +16782,7 @@
     },
     {
       "ClassName": "TTsKOJacket_Camo",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16916,7 +16801,7 @@
     },
     {
       "ClassName": "TacticalBaconCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16935,7 +16820,7 @@
     },
     {
       "ClassName": "TacticalGloves_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16954,7 +16839,7 @@
     },
     {
       "ClassName": "TacticalGloves_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16973,7 +16858,7 @@
     },
     {
       "ClassName": "TacticalGloves_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16992,7 +16877,7 @@
     },
     {
       "ClassName": "TacticalGoggles",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17011,7 +16896,7 @@
     },
     {
       "ClassName": "TacticalShirt_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17030,7 +16915,7 @@
     },
     {
       "ClassName": "TacticalShirt_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17049,7 +16934,7 @@
     },
     {
       "ClassName": "TacticalShirt_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17068,7 +16953,7 @@
     },
     {
       "ClassName": "TacticalShirt_Tan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17087,7 +16972,7 @@
     },
     {
       "ClassName": "TaloonBag_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17106,7 +16991,7 @@
     },
     {
       "ClassName": "TaloonBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17125,7 +17010,7 @@
     },
     {
       "ClassName": "TaloonBag_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17144,7 +17029,7 @@
     },
     {
       "ClassName": "TaloonBag_Violet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17163,7 +17048,7 @@
     },
     {
       "ClassName": "TankerHelmet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17182,7 +17067,7 @@
     },
     {
       "ClassName": "TelnyashkaShirt",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17201,7 +17086,7 @@
     },
     {
       "ClassName": "TetracyclineAntibiotics",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17220,7 +17105,7 @@
     },
     {
       "ClassName": "Thermometer",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17239,7 +17124,7 @@
     },
     {
       "ClassName": "ThickFramesGlasses",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17258,7 +17143,7 @@
     },
     {
       "ClassName": "ThinFramesGlasses",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17277,7 +17162,7 @@
     },
     {
       "ClassName": "TireRepairKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17296,7 +17181,7 @@
     },
     {
       "ClassName": "Tomato",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17315,7 +17200,7 @@
     },
     {
       "ClassName": "TomatoSeedsPack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17334,7 +17219,7 @@
     },
     {
       "ClassName": "TortillaBag",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17353,7 +17238,7 @@
     },
     {
       "ClassName": "TrackSuitJacket_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17372,7 +17257,7 @@
     },
     {
       "ClassName": "TrackSuitJacket_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17391,7 +17276,7 @@
     },
     {
       "ClassName": "TrackSuitJacket_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17410,7 +17295,7 @@
     },
     {
       "ClassName": "TrackSuitJacket_LightBlue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17429,7 +17314,7 @@
     },
     {
       "ClassName": "TrackSuitJacket_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17448,7 +17333,7 @@
     },
     {
       "ClassName": "TrackSuitPants_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17467,7 +17352,7 @@
     },
     {
       "ClassName": "TrackSuitPants_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17486,7 +17371,7 @@
     },
     {
       "ClassName": "TrackSuitPants_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17505,7 +17390,7 @@
     },
     {
       "ClassName": "TrackSuitPants_LightBlue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17524,7 +17409,7 @@
     },
     {
       "ClassName": "TrackSuitPants_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17543,7 +17428,7 @@
     },
     {
       "ClassName": "Tripod",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17562,7 +17447,7 @@
     },
     {
       "ClassName": "TruckBattery",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17581,7 +17466,7 @@
     },
     {
       "ClassName": "TunaCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17600,7 +17485,7 @@
     },
     {
       "ClassName": "UKAssVest_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17619,7 +17504,7 @@
     },
     {
       "ClassName": "UKAssVest_Camo",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17638,7 +17523,7 @@
     },
     {
       "ClassName": "UKAssVest_Khaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17657,7 +17542,7 @@
     },
     {
       "ClassName": "UKAssVest_Olive",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17676,7 +17561,7 @@
     },
     {
       "ClassName": "USMCJacket_Desert",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17695,7 +17580,7 @@
     },
     {
       "ClassName": "USMCJacket_Woodland",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17714,7 +17599,7 @@
     },
     {
       "ClassName": "USMCPants_Desert",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17733,7 +17618,7 @@
     },
     {
       "ClassName": "USMCPants_Woodland",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17752,7 +17637,7 @@
     },
     {
       "ClassName": "UnknownFoodCan",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17771,7 +17656,7 @@
     },
     {
       "ClassName": "Ushanka_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17790,7 +17675,7 @@
     },
     {
       "ClassName": "Ushanka_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17809,7 +17694,7 @@
     },
     {
       "ClassName": "Ushanka_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17828,7 +17713,7 @@
     },
     {
       "ClassName": "VitaminBottle",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17847,7 +17732,7 @@
     },
     {
       "ClassName": "WaterproofBag_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17866,7 +17751,7 @@
     },
     {
       "ClassName": "WaterproofBag_Orange",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17885,7 +17770,7 @@
     },
     {
       "ClassName": "WaterproofBag_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17904,7 +17789,7 @@
     },
     {
       "ClassName": "WeaponCleaningKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17923,7 +17808,7 @@
     },
     {
       "ClassName": "WeldingMask",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17942,7 +17827,7 @@
     },
     {
       "ClassName": "Wellies_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17961,7 +17846,7 @@
     },
     {
       "ClassName": "Wellies_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17980,7 +17865,7 @@
     },
     {
       "ClassName": "Wellies_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17999,7 +17884,7 @@
     },
     {
       "ClassName": "Wellies_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18018,7 +17903,7 @@
     },
     {
       "ClassName": "Whetstone",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18037,7 +17922,7 @@
     },
     {
       "ClassName": "WomanSuit_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18056,7 +17941,7 @@
     },
     {
       "ClassName": "WomanSuit_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18075,7 +17960,7 @@
     },
     {
       "ClassName": "WomanSuit_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18094,7 +17979,7 @@
     },
     {
       "ClassName": "WomanSuit_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18113,7 +17998,7 @@
     },
     {
       "ClassName": "WomanSuit_DarkGrey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18132,7 +18017,7 @@
     },
     {
       "ClassName": "WomanSuit_Khaki",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18151,7 +18036,7 @@
     },
     {
       "ClassName": "WomanSuit_LightGrey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18170,7 +18055,7 @@
     },
     {
       "ClassName": "WomanSuit_White",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18189,7 +18074,7 @@
     },
     {
       "ClassName": "WoodAxe",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18208,7 +18093,7 @@
     },
     {
       "ClassName": "WoolCoat_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18227,7 +18112,7 @@
     },
     {
       "ClassName": "WoolCoat_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18246,7 +18131,7 @@
     },
     {
       "ClassName": "WoolCoat_BlackCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18265,7 +18150,7 @@
     },
     {
       "ClassName": "WoolCoat_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18284,7 +18169,7 @@
     },
     {
       "ClassName": "WoolCoat_BlueCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18303,7 +18188,7 @@
     },
     {
       "ClassName": "WoolCoat_BrownCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18322,7 +18207,7 @@
     },
     {
       "ClassName": "WoolCoat_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18341,7 +18226,7 @@
     },
     {
       "ClassName": "WoolCoat_GreyCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18360,7 +18245,7 @@
     },
     {
       "ClassName": "WoolCoat_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18379,7 +18264,7 @@
     },
     {
       "ClassName": "WoolCoat_RedCheck",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18398,7 +18283,7 @@
     },
     {
       "ClassName": "WorkingBoots_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18417,7 +18302,7 @@
     },
     {
       "ClassName": "WorkingBoots_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18436,7 +18321,7 @@
     },
     {
       "ClassName": "WorkingBoots_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18455,7 +18340,7 @@
     },
     {
       "ClassName": "WorkingBoots_Grey",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18474,7 +18359,7 @@
     },
     {
       "ClassName": "WorkingBoots_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18493,7 +18378,7 @@
     },
     {
       "ClassName": "WorkingGloves_Beige",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18512,7 +18397,7 @@
     },
     {
       "ClassName": "WorkingGloves_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18531,7 +18416,7 @@
     },
     {
       "ClassName": "WorkingGloves_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18550,7 +18435,7 @@
     },
     {
       "ClassName": "WorkingGloves_Yellow",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18569,7 +18454,7 @@
     },
     {
       "ClassName": "Wrench",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18588,7 +18473,7 @@
     },
     {
       "ClassName": "XmasLights",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18607,7 +18492,7 @@
     },
     {
       "ClassName": "ZSh3PilotHelmet",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18626,7 +18511,7 @@
     },
     {
       "ClassName": "Zagorky",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18645,7 +18530,7 @@
     },
     {
       "ClassName": "ZagorkyChocolate",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18664,7 +18549,7 @@
     },
     {
       "ClassName": "ZagorkyPeanuts",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18683,7 +18568,7 @@
     },
     {
       "ClassName": "ZmijovkaCap_Black",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18702,7 +18587,7 @@
     },
     {
       "ClassName": "ZmijovkaCap_Blue",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18721,7 +18606,7 @@
     },
     {
       "ClassName": "ZmijovkaCap_Brown",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18740,7 +18625,7 @@
     },
     {
       "ClassName": "ZmijovkaCap_Green",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18759,7 +18644,7 @@
     },
     {
       "ClassName": "ZmijovkaCap_Red",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18778,7 +18663,7 @@
     },
     {
       "ClassName": "Zucchini",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18797,7 +18682,7 @@
     },
     {
       "ClassName": "ZucchiniSeedsPack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18816,7 +18701,7 @@
     },
     {
       "ClassName": "ExpansionHelicopterBattery",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18835,7 +18720,7 @@
     },
     {
       "ClassName": "ExpansionAircraftBattery",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18854,7 +18739,7 @@
     },
     {
       "ClassName": "ExpansionIgniterPlug",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18873,7 +18758,7 @@
     },
     {
       "ClassName": "ExpansionHydraulicHoses",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18892,7 +18777,7 @@
     },
     {
       "ClassName": "ExpansionCamoBoxKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18911,7 +18796,7 @@
     },
     {
       "ClassName": "ExpansionBarrierGateKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18930,7 +18815,7 @@
     },
     {
       "ClassName": "ExpansionCamoTentKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18949,7 +18834,7 @@
     },
     {
       "ClassName": "ExpansionSafeLarge",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18968,7 +18853,7 @@
     },
     {
       "ClassName": "ExpansionSafeMini",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18987,7 +18872,7 @@
     },
     {
       "ClassName": "ExpansionSafeMedium",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19006,7 +18891,7 @@
     },
     {
       "ClassName": "ExpansionGunrack",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19025,7 +18910,7 @@
     },
     {
       "ClassName": "ExpansionHelipadKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19044,7 +18929,7 @@
     },
     {
       "ClassName": "ExpansionBarbedWireKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19063,7 +18948,7 @@
     },
     {
       "ClassName": "ExpansionHescoKit",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19082,7 +18967,7 @@
     },
     {
       "ClassName": "ExpansionCodeLock",
-      "Chance": 0.019,
+      "Chance": 0.023,
       "Quantity": {
         "Min": 0,
         "Max": 0
