@@ -55,7 +55,7 @@
         "value": 1
     },
     "showDynamicCrosshair": {
-        "constrain": 1,
+        "constrain": 0,
         "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
         "value": 0
     },

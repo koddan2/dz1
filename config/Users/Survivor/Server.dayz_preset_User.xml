@@ -971,6 +971,19 @@
         </btn>
     </input>
     <input name="SUA_ADSWeaponInspect" />
+    <input name="UAToggleAPSI">
+        <btn name="kL">
+            <event name="hold" />
+        </btn>
+    </input>
+    <input name="UAToggleLEHSVisor">
+        <btn name="kK" />
+    </input>
+    <input name="UAToggleLEHSPressure">
+        <btn name="kK">
+            <event name="hold" />
+        </btn>
+    </input>
     <input name="UAExpansionHeliRocket">
         <btn name="kSpace" />
     </input>
