@@ -43,7 +43,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
 
 	<ce folder="_mixin">
-		<file name="nam_types_dzn.xml" type="types" />
+		<file name="br_nam_types_dzn.xml" type="types" />
+		<file name="br_extra_types.xml" type="types" />
 		<!-- <file name="nam_types.xml" type="types" /> -->
 	</ce>
 </economycore>
