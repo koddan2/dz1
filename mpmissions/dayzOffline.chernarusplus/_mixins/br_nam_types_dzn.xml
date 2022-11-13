@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="dzn_gorka_up_winter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -10,12 +10,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_sumrak_up_coldw">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -23,12 +26,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_up_coldw">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -36,12 +42,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_up_woodl">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -49,12 +58,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_tacticalshirt_olive_ru">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -62,12 +74,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_tacticalshirt_tan_ru">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -75,12 +90,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_tacticalshirt_white_ru">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -88,12 +106,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_gorka_pants_winter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -101,12 +122,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_sumrak_pants_coldw">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -114,12 +138,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_pants_coldw">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -127,12 +154,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_pants_woodl">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -140,12 +170,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ukassvest_white">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -153,12 +186,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_smershvest_white">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -166,12 +202,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ballisticvest_nac">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -179,25 +218,27 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_platecarriervest_nac">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <tag name="military" />
+    <category name="weapons" />
     <usage name="Military" />
   </type>
   <type name="dzn_platecarrierholster_nac">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -205,12 +246,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_platecarrierpouches_nac">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -218,12 +262,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_flat">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -231,12 +278,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_autumn">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -244,12 +294,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_pautrev">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -257,12 +310,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_winter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -270,12 +326,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_sumrakhood_coldw">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -283,12 +342,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_yegerhood_coldw">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -296,12 +358,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_yegerhood_woodl">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -309,12 +374,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_att_ghillie_winter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -322,12 +390,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_att_ghillie_tandark">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -335,12 +406,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliebushragwinter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -348,12 +422,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliebushragtandark">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -361,12 +438,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghillietopwinter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -374,12 +454,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghillietoptandark">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -387,12 +470,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliesuitwinter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -400,12 +486,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliesuittandark">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -413,12 +502,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliehoodwinter">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -426,12 +518,15 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliehoodtandark">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -439,7 +534,10 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <tag name="military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
   </type>
 </types>
