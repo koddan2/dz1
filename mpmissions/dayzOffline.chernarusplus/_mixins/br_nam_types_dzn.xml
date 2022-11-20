@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="dzn_gorka_up_winter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -17,9 +17,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_sumrak_up_coldw">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -33,9 +33,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_up_coldw">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -49,9 +49,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_up_woodl">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -65,9 +65,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_tacticalshirt_olive_ru">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -81,9 +81,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_tacticalshirt_tan_ru">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -97,9 +97,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_tacticalshirt_white_ru">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -113,9 +113,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_gorka_pants_winter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -129,9 +129,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_sumrak_pants_coldw">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -145,9 +145,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_pants_coldw">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -161,9 +161,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_yeger_pants_woodl">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -177,9 +177,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ukassvest_white">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -193,9 +193,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_smershvest_white">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -209,9 +209,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ballisticvest_nac">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -225,53 +225,45 @@
     <usage name="Military" />
   </type>
   <type name="dzn_platecarriervest_nac">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="dzn_platecarrierholster_nac">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <category name="weapons" />
     <usage name="Military" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="dzn_platecarrierpouches_nac">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <category name="weapons" />
     <usage name="Military" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="dzn_gorkahood_flat">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -285,9 +277,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_autumn">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -301,9 +293,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_pautrev">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -317,9 +309,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_gorkahood_winter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -333,9 +325,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_sumrakhood_coldw">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -349,9 +341,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_yegerhood_coldw">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -365,9 +357,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_yegerhood_woodl">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -381,9 +373,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_att_ghillie_winter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -397,9 +389,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_att_ghillie_tandark">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -413,9 +405,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliebushragwinter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -429,9 +421,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliebushragtandark">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -445,9 +437,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghillietopwinter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -461,9 +453,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghillietoptandark">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -477,9 +469,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliesuitwinter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -493,9 +485,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliesuittandark">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -509,9 +501,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliehoodwinter">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -525,9 +517,9 @@
     <usage name="Military" />
   </type>
   <type name="dzn_ghilliehoodtandark">
-    <nominal>5</nominal>
-    <min>3</min>
-    <lifetime>900</lifetime>
+    <nominal>15</nominal>
+    <min>8</min>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>

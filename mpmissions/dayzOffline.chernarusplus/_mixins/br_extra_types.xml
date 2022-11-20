@@ -883,7 +883,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_LNormalized_Suppressor_Green">
     <nominal>1</nominal>
@@ -899,7 +899,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_LStandardized_Suppressor_Black">
     <nominal>1</nominal>
@@ -915,7 +915,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_LStandardized_Suppressor_Green">
     <nominal>1</nominal>
@@ -931,7 +931,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_MPX_Suppressor_Black">
     <nominal>1</nominal>
@@ -947,7 +947,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_Agram_Suppressor_Black">
     <nominal>1</nominal>
@@ -963,7 +963,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFUGevar_Suppressor_Green">
     <nominal>1</nominal>
@@ -979,7 +979,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFUGevar_Suppressor_Tan">
     <nominal>1</nominal>
@@ -995,7 +995,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- TOPTIER:SNAFU -->
 </types>
