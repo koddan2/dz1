@@ -313,18 +313,17 @@
     <nominal>12</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <tag name="shelves" />
-    <usage name="Military" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
   </type>
   <type name="AK_WoodBttstck">
     <nominal>5</nominal>
@@ -9260,15 +9259,20 @@
     <category name="tools" />
   </type>
   <type name="ImprovisedSuppressor">
-    <nominal>0</nominal>
+    <nominal>12</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
   </type>
   <type name="IodineTincture">
     <nominal>40</nominal>
@@ -10547,18 +10551,17 @@
     <nominal>12</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <tag name="shelves" />
-    <usage name="Military" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
   </type>
   <type name="M4_T3NRDSOptic">
     <nominal>10</nominal>
@@ -13376,10 +13379,10 @@
     <value name="Tier4" />
   </type>
   <type name="PistolSuppressor">
-    <nominal>24</nominal>
+    <nominal>20</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

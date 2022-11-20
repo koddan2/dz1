@@ -1,5 +1,5 @@
 {
-    "m_Version": 17,
+    "m_Version": 18,
     "VehicleSync": 0,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
@@ -38,9 +38,11 @@
     "DamagedEngineStartupChancePercent": 100.0,
     "EnableVehicleCovers": 1,
     "AllowCoveringDEVehicles": 0,
+    "CanCoverWithCargo": 1,
     "UseVirtualStorageForCoverCargo": 0,
     "VehicleAutoCoverTimeSeconds": 0.0,
     "VehicleAutoCoverRequireCamonet": 0,
+    "EnableAutoCoveringDEVehicles": 0,
     "CFToolsHeliCoverIconName": "helicopter",
     "CFToolsBoatCoverIconName": "ship",
     "CFToolsCarCoverIconName": "car",
