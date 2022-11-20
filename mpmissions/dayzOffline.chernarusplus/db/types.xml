@@ -13797,8 +13797,8 @@
     <usage name="Hunting" />
   </type>
   <type name="PortableGasStove">
-    <nominal>40</nominal>
-    <lifetime>2880</lifetime>
+    <nominal>70</nominal>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>30</min>
     <quantmin>-1</quantmin>
@@ -13806,21 +13806,24 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
-    <usage name="Village" />
+    <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
+    <usage name="Village" />
   </type>
   <type name="Pot">
-    <nominal>20</nominal>
+    <nominal>70</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>30</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
-    <tag name="shelves" />
-    <usage name="Town" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
     <usage name="Village" />
   </type>
   <type name="Potato">
@@ -17889,7 +17892,7 @@
   </type>
   <type name="WeaponCleaningKit">
     <nominal>80</nominal>
-    <lifetime>2880</lifetime>
+    <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>70</min>
     <quantmin>-1</quantmin>
@@ -17900,6 +17903,7 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Hunting" />
+    <usage name="Village" />
   </type>
   <type name="WeldingMask">
     <nominal>20</nominal>
