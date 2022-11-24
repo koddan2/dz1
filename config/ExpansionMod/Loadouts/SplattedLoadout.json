@@ -1768,6 +1768,22 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
+        },
+        {
+          "ClassName": "SYGUJugPants",
+          "Chance": 0.2,
+          "Quantity": null,
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": null
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": null
         }
       ]
     },
@@ -2210,6 +2226,22 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
+        },
+        {
+          "ClassName": "SYGUJugBoots",
+          "Chance": 0.2,
+          "Quantity": null,
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": null
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": null
         }
       ]
     },
@@ -3011,6 +3043,22 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
+        },
+        {
+          "ClassName": "SYGUJugVest",
+          "Chance": 0.2,
+          "Quantity": null,
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": null
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": null
         }
       ]
     },
@@ -4336,6 +4384,22 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
+        },
+        {
+          "ClassName": "JugHelm",
+          "Chance": 0.2,
+          "Quantity": null,
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": null
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": null
         }
       ]
     },
@@ -13784,44 +13848,6 @@
     },
     {
       "ClassName": "AD_LeupoldMk4_B13",
-      "Chance": 0.015,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "JugHelm",
-      "Chance": 0.015,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "JugVisor",
       "Chance": 0.015,
       "Quantity": {
         "Min": 0,
