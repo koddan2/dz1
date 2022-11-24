@@ -1,56 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="TTC_Universal_Suppressor_BLACK">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_CAMO">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- New items update 1.10 -->
   <!-- F&D Defence .338 -->
   <!-- Honey Badger comes in two variants. This is standard 5.56 variant-->
   <!-- Honey Badger comes in two variants. This is standard .300blk variant-->
   <type name="TTC_Honey_Suppressor">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- M24 Rifles -->
   <!-- SCAR-H Updated -->
@@ -59,176 +62,189 @@
   <!-- 50 Beowulf -->
   <!-- New universal suppressor colors -->
   <type name="TTC_Universal_Suppressor_Tan">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_Snow">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.10.1-->
   <type name="TTC_DMR_Suppressor">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.11 -->
   <!-- Update 1.11.1 -->
   <!-- Update 1.11.2 -->
   <type name="TTC_M14Suppressor">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.11.3 -->
   <!-- Update 1.12 -->
   <type name="TTC_AKMod_Suppressor">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.12.1-->
   <!-- 1.13-->
   <!-- 1.13.2-->
   <type name="TTC_PistolSuppressor">
-    <nominal>20</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>22</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.13.3 -->
   <!-- Update 1.13.5 -->
   <!-- Update 1.14 -->
   <!-- Update 1.15 -->
   <type name="TTC_MCX_Spear_Suppressor">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_TAVOR">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_TAVOR_Tan">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15 -->
   <!-- Update 1.15.5 -->
   <type name="TTC_MCX_Spear_Suppressor_Black">
-    <nominal>12</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15.6 -->
 </types>
