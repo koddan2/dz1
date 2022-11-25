@@ -3171,6 +3171,38 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": null
+        },
+        {
+          "ClassName": "JuggernautLVL5_Suit",
+          "Chance": 0.2,
+          "Quantity": null,
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": null
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": null
+        },
+        {
+          "ClassName": "JuggernautLVL1_Suit",
+          "Chance": 0.2,
+          "Quantity": null,
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": null
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": null
         }
       ]
     },
