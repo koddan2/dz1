@@ -1120,7 +1120,7 @@
         },
         {
           "ClassName": "MMG_operatorshirt_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -1136,7 +1136,7 @@
         },
         {
           "ClassName": "MMG_tactical_shirt_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -1152,7 +1152,7 @@
         },
         {
           "ClassName": "MMG_combatshirt_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -1819,7 +1819,7 @@
         },
         {
           "ClassName": "MMG_combatpants_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -1835,7 +1835,7 @@
         },
         {
           "ClassName": "mmg_tactical_pants_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3094,7 +3094,7 @@
         },
         {
           "ClassName": "MMG_JPC_Vest_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3110,7 +3110,7 @@
         },
         {
           "ClassName": "MMG_tt_Vest_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3126,7 +3126,7 @@
         },
         {
           "ClassName": "MMG_chestrig_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3142,7 +3142,7 @@
         },
         {
           "ClassName": "MMG_MK_III_Armor_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3158,7 +3158,7 @@
         },
         {
           "ClassName": "MMG_MK_V_Armor_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3174,7 +3174,7 @@
         },
         {
           "ClassName": "JuggernautLVL5_Suit",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3190,7 +3190,7 @@
         },
         {
           "ClassName": "JuggernautLVL1_Suit",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -3249,7 +3249,7 @@
         },
         {
           "ClassName": "MMG_falcon_b1_belt_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4131,7 +4131,7 @@
         },
         {
           "ClassName": "MMG_carrier_backpack_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4147,7 +4147,7 @@
         },
         {
           "ClassName": "MMG_supplybag_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4163,7 +4163,7 @@
         },
         {
           "ClassName": "MMG_assault_pack_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4179,7 +4179,7 @@
         },
         {
           "ClassName": "MMG_camelback_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4195,7 +4195,7 @@
         },
         {
           "ClassName": "MMG_mmps_bag_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4627,7 +4627,7 @@
         },
         {
           "ClassName": "MMG_tactical_helmet_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4643,7 +4643,7 @@
         },
         {
           "ClassName": "MMG_striker_helmet_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4659,7 +4659,7 @@
         },
         {
           "ClassName": "mmg_armored_helmet_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -4675,7 +4675,7 @@
         },
         {
           "ClassName": "mmg_armored_helmet_visor_black",
-          "Chance": 0.2,
+          "Chance": 1,
           "Quantity": null,
           "Health": [
             {
@@ -13166,386 +13166,6 @@
       "Sets": []
     },
     {
-      "ClassName": "tacticalbelt_quad_black",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "tacticalbelt_quad_green",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "tacticalbelt_quad_tan",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_quad_black",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_quad_green",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_quad_tan",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_quad_winter",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingfront_quad_black",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingfront_quad_green",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingfront_quad_tan",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingfront_quad_winter",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingback_quad_black",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingback_quad_green",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingback_quad_tan",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingback_quad_winter",
-      "Chance": 0.0175,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "meleesling_colorbase_mung",
-      "Chance": 0.0375,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "meleesling_black_mung",
-      "Chance": 0.0375,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_colorbase_mung",
-      "Chance": 0.0375,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_black_mung",
-      "Chance": 0.0375,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleholster_black_mung",
-      "Chance": 0.01875,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "AD_B13Mount",
       "Chance": 0.005,
       "Quantity": {
@@ -14781,101 +14401,6 @@
       "Sets": []
     },
     {
-      "ClassName": "MMG_JPC_Vest_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_tt_Vest_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_chestrig_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_MK_III_Armor_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_MK_V_Armor_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "MMG_Mag_Pouch_Black",
       "Chance": 0.005,
       "Quantity": {
@@ -15047,234 +14572,6 @@
       "Sets": []
     },
     {
-      "ClassName": "MMG_carrier_backpack_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_supplybag_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_assault_pack_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_camelback_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_mmps_bag_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_falcon_b1_belt_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_tactical_helmet_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_striker_helmet_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "mmg_armored_helmet_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "mmg_armored_helmet_visor_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_headphones_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_sheath_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "MMG_bottle_black",
       "Chance": 0.005,
       "Quantity": {
@@ -15294,273 +14591,7 @@
       "Sets": []
     },
     {
-      "ClassName": "MMG_Holster_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "mmg_tac_goggles_red_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_operatorshirt_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_tactical_shirt_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_combatshirt_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_combatpants_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "mmg_tactical_pants_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "mmg_tactical_gloves_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_boots_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_facemask_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_facemask_skull",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_facemask_joker",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "MMG_balaclava_black",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "MMG_nbc_pouch",
-      "Chance": 0.005,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "mmg_gp_nvg_black",
       "Chance": 0.005,
       "Quantity": {
         "Min": 0,

@@ -13797,7 +13797,7 @@
     <usage name="Hunting" />
   </type>
   <type name="PortableGasStove">
-    <nominal>70</nominal>
+    <nominal>80</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>30</min>
@@ -13812,7 +13812,7 @@
     <usage name="Village" />
   </type>
   <type name="Pot">
-    <nominal>70</nominal>
+    <nominal>80</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>30</min>
