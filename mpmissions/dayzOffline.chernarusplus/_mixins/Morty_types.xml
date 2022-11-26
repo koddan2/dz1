@@ -156,10 +156,10 @@
   <!-- 1.13-->
   <!-- 1.13.2-->
   <type name="TTC_PistolSuppressor">
-    <nominal>44</nominal>
+    <nominal>50</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>22</min>
+    <min>30</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

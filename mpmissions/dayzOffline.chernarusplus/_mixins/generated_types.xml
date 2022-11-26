@@ -1,61 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
-  <type name="tacticalbelt_quad_black">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="tacticalbelt_quad_green">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="tacticalbelt_quad_tan">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
   <type name="riflesling_quad_black">
-    <nominal>14</nominal>
+    <nominal>34</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -66,64 +15,15 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="riflesling_quad_green">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="riflesling_quad_tan">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="riflesling_quad_winter">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_black">
-    <nominal>14</nominal>
+    <nominal>34</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -134,64 +34,15 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="rifleslingfront_quad_green">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="rifleslingfront_quad_tan">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="rifleslingfront_quad_winter">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_black">
-    <nominal>14</nominal>
+    <nominal>34</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -202,81 +53,15 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="rifleslingback_quad_green">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="rifleslingback_quad_tan">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="rifleslingback_quad_winter">
-    <nominal>14</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="JuggernautLVL5_Suit">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="JuggernautLVL5_Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -290,44 +75,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="JuggernautLVL5_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="JuggernautLVL5_Winter">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="JuggernautLVL1_Suit">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -341,10 +92,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="JuggernautLVL1_Suit_Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -358,44 +109,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="JuggernautLVL1_Suit_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="JuggernautLVL1_Suit_Winter">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="Juggernaut_Suit_Buttpack">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -409,10 +126,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Juggernaut_Buttpack_Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -426,44 +143,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Juggernaut_Buttpack_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="Juggernaut_Buttpack_Winter">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="Juggernaut_Suit_Pouches">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -477,10 +160,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Juggernaut_Pouches_Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -494,27 +177,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Juggernaut_Pouches_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="Juggernaut_Pouches_Winter">
-    <nominal>4</nominal>
-    <lifetime>1440</lifetime>
-    <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
