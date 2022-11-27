@@ -13301,6 +13301,25 @@
       "Sets": []
     },
     {
+      "ClassName": "riflesling_quad_tan",
+      "Chance": 0.0425,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "AD_B13Mount",
       "Chance": 0.005,
       "Quantity": {
@@ -18971,7 +18990,7 @@
               ],
               "InventoryAttachments": [
                 {
-                  "SlotName": null,
+                  "SlotName": "",
                   "Items": [
                     {
                       "ClassName": "SNAFU_AWM_Mag",
@@ -18998,6 +19017,19 @@
                       "InventoryCargo": [],
                       "ConstructionPartsBuilt": [],
                       "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFUKivaari_338_Supp",
+                      "Chance": 0.1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
                     }
                   ]
                 }
@@ -19006,12 +19038,15 @@
                 {
                   "ClassName": "SNAFU_AWM_Mag",
                   "Chance": 1,
-                  "Quantity": null,
-                  "Health": null,
-                  "InventoryAttachments": null,
-                  "InventoryCargo": null,
-                  "ConstructionPartsBuilt": null,
-                  "Sets": null
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 1
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
                 },
                 {
                   "ClassName": "SNAFU_Ammo_338",
@@ -19020,11 +19055,11 @@
                     "Min": 10,
                     "Max": 20
                   },
-                  "Health": null,
-                  "InventoryAttachments": null,
-                  "InventoryCargo": null,
-                  "ConstructionPartsBuilt": null,
-                  "Sets": null
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
                 }
               ],
               "ConstructionPartsBuilt": [],
