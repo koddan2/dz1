@@ -9,7 +9,7 @@
     {
       "Min": 0.3,
       "Max": 0.9,
-      "Zone": null
+      "Zone": ""
     }
   ],
   "InventoryAttachments": [
@@ -1120,7 +1120,7 @@
         },
         {
           "ClassName": "MMG_operatorshirt_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1129,7 +1129,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -1139,7 +1139,7 @@
         },
         {
           "ClassName": "MMG_tactical_shirt_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1148,7 +1148,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -1158,7 +1158,7 @@
         },
         {
           "ClassName": "MMG_combatshirt_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1167,7 +1167,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -1828,7 +1828,7 @@
         },
         {
           "ClassName": "MMG_combatpants_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1837,7 +1837,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -1847,7 +1847,7 @@
         },
         {
           "ClassName": "mmg_tactical_pants_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1856,7 +1856,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -3109,7 +3109,7 @@
         },
         {
           "ClassName": "MMG_JPC_Vest_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3118,7 +3118,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -3128,7 +3128,7 @@
         },
         {
           "ClassName": "MMG_tt_Vest_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3137,7 +3137,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -3147,7 +3147,7 @@
         },
         {
           "ClassName": "MMG_chestrig_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3156,7 +3156,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -3166,7 +3166,7 @@
         },
         {
           "ClassName": "MMG_MK_III_Armor_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3175,7 +3175,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -3185,7 +3185,7 @@
         },
         {
           "ClassName": "MMG_MK_V_Armor_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3194,7 +3194,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -3203,65 +3203,8 @@
           "Sets": []
         },
         {
-          "ClassName": "JuggernautLVL5_Tan",
-          "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.5,
-              "Max": 0.9,
-              "Zone": null
-            }
-          ],
-          "InventoryAttachments": [
-            {
-              "SlotName": null,
-              "Items": [
-                {
-                  "ClassName": "Juggernaut_Buttpack_Black",
-                  "Chance": 1,
-                  "Quantity": null,
-                  "Health": [
-                    {
-                      "Min": 0.5,
-                      "Max": 0.9,
-                      "Zone": null
-                    }
-                  ],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": null
-                },
-                {
-                  "ClassName": "Juggernaut_Pouches_Black",
-                  "Chance": 1,
-                  "Quantity": null,
-                  "Health": [
-                    {
-                      "Min": 0.5,
-                      "Max": 0.9,
-                      "Zone": null
-                    }
-                  ],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": null
-                }
-              ]
-            }
-          ],
-          "InventoryCargo": [],
-          "ConstructionPartsBuilt": [],
-          "Sets": []
-        },
-        {
           "ClassName": "JuggernautLVL5_Black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3270,7 +3213,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [
@@ -3280,91 +3223,40 @@
                 {
                   "ClassName": "Juggernaut_Buttpack_Black",
                   "Chance": 1,
-                  "Quantity": null,
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 0
+                  },
                   "Health": [
                     {
                       "Min": 0.5,
                       "Max": 0.9,
-                      "Zone": null
+                      "Zone": ""
                     }
                   ],
                   "InventoryAttachments": [],
                   "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
-                  "Sets": null
+                  "Sets": []
                 },
                 {
                   "ClassName": "Juggernaut_Pouches_Black",
                   "Chance": 1,
-                  "Quantity": null,
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 0
+                  },
                   "Health": [
                     {
                       "Min": 0.5,
                       "Max": 0.9,
-                      "Zone": null
+                      "Zone": ""
                     }
                   ],
                   "InventoryAttachments": [],
                   "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
-                  "Sets": null
-                }
-              ]
-            }
-          ],
-          "InventoryCargo": [],
-          "ConstructionPartsBuilt": [],
-          "Sets": []
-        },
-        {
-          "ClassName": "JuggernautLVL1_Suit_Tan",
-          "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.5,
-              "Max": 0.9,
-              "Zone": null
-            }
-          ],
-          "InventoryAttachments": [
-            {
-              "SlotName": null,
-              "Items": [
-                {
-                  "ClassName": "Juggernaut_Buttpack_Black",
-                  "Chance": 1,
-                  "Quantity": null,
-                  "Health": [
-                    {
-                      "Min": 0.5,
-                      "Max": 0.9,
-                      "Zone": null
-                    }
-                  ],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": null
-                },
-                {
-                  "ClassName": "Juggernaut_Pouches_Black",
-                  "Chance": 1,
-                  "Quantity": null,
-                  "Health": [
-                    {
-                      "Min": 0.5,
-                      "Max": 0.9,
-                      "Zone": null
-                    }
-                  ],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": null
+                  "Sets": []
                 }
               ]
             }
@@ -3375,7 +3267,7 @@
         },
         {
           "ClassName": "JuggernautLVL1_Suit_Black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3384,7 +3276,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [
@@ -3394,34 +3286,40 @@
                 {
                   "ClassName": "Juggernaut_Buttpack_Black",
                   "Chance": 1,
-                  "Quantity": null,
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 0
+                  },
                   "Health": [
                     {
                       "Min": 0.5,
                       "Max": 0.9,
-                      "Zone": null
+                      "Zone": ""
                     }
                   ],
                   "InventoryAttachments": [],
                   "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
-                  "Sets": null
+                  "Sets": []
                 },
                 {
                   "ClassName": "Juggernaut_Pouches_Black",
                   "Chance": 1,
-                  "Quantity": null,
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 0
+                  },
                   "Health": [
                     {
                       "Min": 0.5,
                       "Max": 0.9,
-                      "Zone": null
+                      "Zone": ""
                     }
                   ],
                   "InventoryAttachments": [],
                   "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
-                  "Sets": null
+                  "Sets": []
                 }
               ]
             }
@@ -3475,7 +3373,7 @@
         },
         {
           "ClassName": "MMG_falcon_b1_belt_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3484,7 +3382,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4360,7 +4258,7 @@
         },
         {
           "ClassName": "MMG_carrier_backpack_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4369,7 +4267,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4379,7 +4277,7 @@
         },
         {
           "ClassName": "MMG_supplybag_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4388,7 +4286,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4398,7 +4296,7 @@
         },
         {
           "ClassName": "MMG_assault_pack_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4407,7 +4305,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4417,7 +4315,7 @@
         },
         {
           "ClassName": "MMG_camelback_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4426,7 +4324,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4436,7 +4334,7 @@
         },
         {
           "ClassName": "MMG_mmps_bag_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4445,7 +4343,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4871,7 +4769,7 @@
         },
         {
           "ClassName": "MMG_tactical_helmet_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4880,7 +4778,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4890,7 +4788,7 @@
         },
         {
           "ClassName": "MMG_striker_helmet_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4899,7 +4797,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -4909,7 +4807,7 @@
         },
         {
           "ClassName": "mmg_armored_helmet_black",
-          "Chance": 1,
+          "Chance": 0.12,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4918,7 +4816,7 @@
             {
               "Min": 0.5,
               "Max": 0.9,
-              "Zone": null
+              "Zone": ""
             }
           ],
           "InventoryAttachments": [],
@@ -14867,7 +14765,7 @@
     },
     {
       "ClassName": "SNAFU_Agram_Suppressor_Black",
-      "Chance": 0,
+      "Chance": 0.005,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14943,7 +14841,7 @@
     },
     {
       "ClassName": "SNAFU_LNormalized_Suppressor_Black",
-      "Chance": 0,
+      "Chance": 0.005,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14981,7 +14879,7 @@
     },
     {
       "ClassName": "SNAFU_LStandardized_Suppressor_Black",
-      "Chance": 0,
+      "Chance": 0.005,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15288,7 +15186,7 @@
   "Sets": [
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15521,7 +15419,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15767,7 +15665,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15890,7 +15788,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16136,7 +16034,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16324,7 +16222,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16415,7 +16313,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16506,7 +16404,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16610,7 +16508,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16714,7 +16612,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16792,7 +16690,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16877,7 +16775,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -16968,7 +16866,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17078,7 +16976,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17156,7 +17054,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17234,7 +17132,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17312,7 +17210,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17390,7 +17288,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17468,7 +17366,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17546,7 +17444,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17656,7 +17554,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17792,7 +17690,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17941,7 +17839,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18147,7 +18045,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18231,7 +18129,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18625,7 +18523,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18709,7 +18607,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18947,7 +18845,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.23,
+      "Chance": 0.11,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19041,6 +18939,103 @@
       ],
       "ConstructionPartsBuilt": [],
       "Sets": []
+    },
+    {
+      "ClassName": "WEAPON",
+      "Chance": 0.04,
+      "Quantity": null,
+      "Health": [
+        {
+          "Min": 0.4,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Shoulder",
+          "Items": [
+            {
+              "ClassName": "SNAFU_AWM_Gun",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [
+                {
+                  "SlotName": null,
+                  "Items": [
+                    {
+                      "ClassName": "SNAFU_AWM_Mag",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Tango6T_Black",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [
+                {
+                  "ClassName": "SNAFU_AWM_Mag",
+                  "Chance": 1,
+                  "Quantity": null,
+                  "Health": null,
+                  "InventoryAttachments": null,
+                  "InventoryCargo": null,
+                  "ConstructionPartsBuilt": null,
+                  "Sets": null
+                },
+                {
+                  "ClassName": "SNAFU_Ammo_338",
+                  "Chance": 1,
+                  "Quantity": {
+                    "Min": 10,
+                    "Max": 20
+                  },
+                  "Health": null,
+                  "InventoryAttachments": null,
+                  "InventoryCargo": null,
+                  "ConstructionPartsBuilt": null,
+                  "Sets": null
+                }
+              ],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": null
     }
   ]
 }
