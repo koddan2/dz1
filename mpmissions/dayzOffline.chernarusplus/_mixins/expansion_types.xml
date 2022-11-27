@@ -1051,18 +1051,22 @@
   <type name="ExpansionMh6Wreck">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionUh1hWreck">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionMerlinWreck">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionGyrocopterWreck">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <!-- BOATS -->
   <type name="ExpansionUtilityBoat">
@@ -4212,6 +4216,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <!-- ITEM END -->
   <!-- BASE BUILDING -->
@@ -4463,74 +4468,92 @@
   <type name="ExpansionCone">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionSignDanger">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionSignDanger2">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionSignDanger3">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionSignRoadBarrier">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionBarbedWire">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionHesco">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionBarrierGate">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionCamoBox">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionCamoTent">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionHelipad">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionStove">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionWoodPillar">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionWall6x3">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionFloor6x6">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionFloor3x3">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionRamp6x1_5x6">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionStairS1_5x3x3">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionParkingMeter">
     <nominal>0</nominal>
@@ -4910,129 +4933,160 @@
   <type name="ExpansionAirdropContainer">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Medical">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Military">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Basebuilding">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Grey">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Blue">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Olive">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Military_GreenCamo">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Military_MarineCamo">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Military_OliveCamo">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Military_OliveCamo2">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionAirdropContainer_Military_WinterCamo">
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <restock>0</restock>
   </type>
   <!-- AIRDROP CONTAINERS END -->
   <!-- VEHICLE COVERS START -->
   <type name="Expansion_Generic_Vehicle_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionGarageVehicle">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="CivilianSedan_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="Hatchback_02_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="OffroadHatchback_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="Sedan_02_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="Truck_01_Covered_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionBus_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionGyrocopter_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="Expansion_LandRover_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionMerlin_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionMh6_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionUh1h_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionTractor_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionUAZ_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionVodnik_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionUtilityBoat_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <type name="ExpansionZodiacBoat_Cover">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
   <!-- VEHICLE COVERS END -->
   <!-- DEBUG OBJECTS -->
   <type name="ExpansionDebugGoat">
     <lifetime>388800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <restock>0</restock>
   </type>
 </types>

@@ -17,7 +17,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_quad_green">
     <nominal>34</nominal>
@@ -36,7 +36,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_black">
     <nominal>34</nominal>
@@ -55,7 +55,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_green">
     <nominal>34</nominal>
@@ -74,7 +74,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_black">
     <nominal>34</nominal>
@@ -93,7 +93,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_green">
     <nominal>34</nominal>
@@ -112,7 +112,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="JuggernautLVL5_Black">
     <nominal>1</nominal>
@@ -129,7 +129,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="JuggernautLVL1_Suit_Black">
     <nominal>1</nominal>
@@ -146,7 +146,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Juggernaut_Buttpack_Black">
     <nominal>1</nominal>
@@ -163,7 +163,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Juggernaut_Pouches_Black">
     <nominal>1</nominal>
@@ -180,6 +180,16 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="riflesling_quad_tan">
+    <nominal>34</nominal>
+    <min>17</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
 </types>

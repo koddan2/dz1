@@ -15,7 +15,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_CAMO">
     <nominal>6</nominal>
@@ -32,7 +32,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- New items update 1.10 -->
   <!-- F&D Defence .338 -->
@@ -53,7 +53,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- M24 Rifles -->
   <!-- SCAR-H Updated -->
@@ -76,7 +76,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_Snow">
     <nominal>6</nominal>
@@ -93,7 +93,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.10.1-->
   <type name="TTC_DMR_Suppressor">
@@ -111,7 +111,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.11 -->
   <!-- Update 1.11.1 -->
@@ -131,7 +131,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.11.3 -->
   <!-- Update 1.12 -->
@@ -150,7 +150,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.12.1-->
   <!-- 1.13-->
@@ -170,7 +170,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.13.3 -->
   <!-- Update 1.13.5 -->
@@ -191,7 +191,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_TAVOR">
     <nominal>6</nominal>
@@ -208,7 +208,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_TAVOR_Tan">
     <nominal>6</nominal>
@@ -225,7 +225,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15 -->
   <!-- Update 1.15.5 -->
@@ -244,7 +244,7 @@
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15.6 -->
 </types>

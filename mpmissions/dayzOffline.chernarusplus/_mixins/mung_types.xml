@@ -17,7 +17,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="meleesling_black_mung">
     <nominal>32</nominal>
@@ -36,7 +36,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_colorbase_mung">
     <nominal>32</nominal>
@@ -55,7 +55,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_black_mung">
     <nominal>32</nominal>
@@ -74,7 +74,7 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleholster_black_mung">
     <nominal>32</nominal>
@@ -93,6 +93,6 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
 </types>

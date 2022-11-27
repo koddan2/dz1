@@ -802,7 +802,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="ContaminatedArea" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="SYGUJugPants">
     <nominal>0</nominal>
@@ -815,7 +815,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="ContaminatedArea" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="SYGUJugBoots">
     <nominal>0</nominal>
@@ -828,7 +828,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="ContaminatedArea" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="JugHelm">
     <nominal>0</nominal>
@@ -841,7 +841,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="ContaminatedArea" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="JugVisor">
     <nominal>0</nominal>
@@ -854,7 +854,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="ContaminatedArea" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <!-- /JUG -->
 </types>

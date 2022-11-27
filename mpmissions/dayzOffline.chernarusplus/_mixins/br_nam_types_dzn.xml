@@ -234,7 +234,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <usage name="Military" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="dzn_platecarrierholster_nac">
     <nominal>1</nominal>
@@ -246,7 +246,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <usage name="Military" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="dzn_platecarrierpouches_nac">
     <nominal>1</nominal>
@@ -258,7 +258,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <usage name="Military" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="1" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
   </type>
   <type name="dzn_gorkahood_flat">
     <nominal>15</nominal>
