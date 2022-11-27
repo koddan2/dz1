@@ -3741,173 +3741,134 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNHK417_Gun">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNHK417_Mag">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNSA58_Gun">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Spas12_Gun">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SR3_Vikhr_Supp">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Tec9_Gun">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Tec9_Mag">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="VR80_Gun">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="VR80_Magazine_10rd">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="VR80_Magazine_5rd">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="GCGN_BenelliM4">
-    <nominal>30</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>10</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="GCGN_M1Garand_FH">
-    <nominal>30</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>10</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="GCGN_M1Garand_Muzzle">
-    <nominal>30</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>900</lifetime>
-    <min>10</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier4" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_30mm_Mount_Base">
     <nominal>0</nominal>
