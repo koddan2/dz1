@@ -13797,10 +13797,10 @@
     <usage name="Hunting" />
   </type>
   <type name="PortableGasStove">
-    <nominal>80</nominal>
+    <nominal>90</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>50</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -13810,12 +13810,14 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
   </type>
   <type name="Pot">
-    <nominal>80</nominal>
+    <nominal>90</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>50</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -13825,6 +13827,8 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
   </type>
   <type name="Potato">
     <nominal>0</nominal>
@@ -17904,6 +17908,8 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
   </type>
   <type name="WeldingMask">
     <nominal>20</nominal>

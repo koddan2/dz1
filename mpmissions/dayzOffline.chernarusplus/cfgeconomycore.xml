@@ -50,11 +50,15 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="br_extra_types.xml" type="types" />
 		<file name="expansion_types.xml" type="types" />
 		<!-- <file name="nam_types.xml" type="types" /> -->
+
 		<file name="Morty_types.xml" type="types" />
 		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
 
 		<file name="mmg_types_black.xml" type="types" />
 		<file name="mmg_types_NBC+NVG.xml" type="types" />
 		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
+
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="snafuspawnabletypes25percent.xml" type="spawnabletypes" />
 	</ce>
 </economycore>
