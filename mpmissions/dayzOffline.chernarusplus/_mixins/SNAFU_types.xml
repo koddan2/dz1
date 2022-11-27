@@ -81,10 +81,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_Agram_Suppressor_Black">
-    <nominal>0</nominal>
+    <nominal>4</nominal>
     <restock>0</restock>
-    <lifetime>900</lifetime>
-    <min>0</min>
+    <lifetime>1440</lifetime>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1121,10 +1121,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_LNormalized_Suppressor_Black">
-    <nominal>0</nominal>
+    <nominal>4</nominal>
     <restock>0</restock>
-    <lifetime>900</lifetime>
-    <min>0</min>
+    <lifetime>1440</lifetime>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1141,10 +1141,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" ount_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_LStandardized_Suppressor_Black">
-    <nominal>0</nominal>
+    <nominal>4</nominal>
     <restock>0</restock>
-    <lifetime>900</lifetime>
-    <min>0</min>
+    <lifetime>1440</lifetime>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
