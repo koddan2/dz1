@@ -156,7 +156,7 @@
   <!-- 1.13-->
   <!-- 1.13.2-->
   <type name="TTC_PistolSuppressor">
-    <nominal>50</nominal>
+    <nominal>70</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>30</min>

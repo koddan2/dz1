@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="riflesling_quad_black">
-    <nominal>34</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>32</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -20,10 +20,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_quad_green">
-    <nominal>34</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>32</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -39,10 +39,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_black">
-    <nominal>34</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>32</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -58,10 +58,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_green">
-    <nominal>34</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>32</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -77,10 +77,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_black">
-    <nominal>34</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>32</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -96,10 +96,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_green">
-    <nominal>34</nominal>
+    <nominal>44</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>32</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
