@@ -53,16 +53,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_MK_III_Armor_black">
-    <nominal>22</nominal>
+    <nominal>2</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
@@ -70,16 +68,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_MK_V_Armor_black">
-    <nominal>22</nominal>
+    <nominal>2</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
@@ -363,16 +359,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_striker_helmet_black">
-    <nominal>22</nominal>
+    <nominal>2</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
@@ -380,16 +374,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_armored_helmet_black">
-    <nominal>22</nominal>
+    <nominal>2</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
@@ -397,16 +389,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_armored_helmet_visor_black">
-    <nominal>22</nominal>
+    <nominal>2</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
