@@ -514,11 +514,11 @@
   </type>
   <type name="AmmoBox">
     <!-- <nominal>10</nominal> -->
-    <nominal>300</nominal>
-    <lifetime>388800</lifetime>
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <!-- <min>6</min> -->
-    <min>200</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -528,7 +528,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_00buck_10rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -544,7 +544,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_12gaRubberSlug_10Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -560,7 +560,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_12gaSlug_10Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -576,7 +576,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_22_50Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -592,7 +592,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_308WinTracer_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -608,7 +608,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_308Win_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -624,7 +624,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_357_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -640,7 +640,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_380_35rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -656,7 +656,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_45ACP_25rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -672,7 +672,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_545x39Tracer_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -688,7 +688,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_545x39_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -704,7 +704,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_556x45Tracer_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -720,7 +720,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_556x45_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -736,7 +736,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x39Tracer_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -752,7 +752,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x39_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -768,7 +768,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x54Tracer_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -784,7 +784,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x54_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -800,7 +800,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_9x19_25rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -816,7 +816,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_9x39AP_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
@@ -832,7 +832,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_9x39_20Rnd">
-    <nominal>50</nominal>
+    <nominal>80</nominal>
     <lifetime>2880</lifetime>
     <restock>0</restock>
     <min>20</min>
