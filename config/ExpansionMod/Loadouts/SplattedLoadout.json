@@ -3218,7 +3218,7 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_Mag_Pouch_Black",
@@ -3241,7 +3241,7 @@
                 },
                 {
                   "ClassName": "MMG_Med_Pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3260,7 +3260,7 @@
                 },
                 {
                   "ClassName": "MMG_ammo_pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3279,7 +3279,7 @@
                 },
                 {
                   "ClassName": "MMG_bottle_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3298,7 +3298,7 @@
                 },
                 {
                   "ClassName": "MMG_sheath_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3317,7 +3317,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3376,11 +3376,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_Med_Pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3418,7 +3418,7 @@
                 },
                 {
                   "ClassName": "MMG_bottle_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3437,7 +3437,7 @@
                 },
                 {
                   "ClassName": "MMG_sheath_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3456,7 +3456,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3496,7 +3496,7 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_single_magpouch_black",
@@ -3538,7 +3538,7 @@
                 },
                 {
                   "ClassName": "MMG_Med_Pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3557,7 +3557,7 @@
                 },
                 {
                   "ClassName": "MMG_tactical_pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3576,7 +3576,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3616,11 +3616,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_Holster_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3677,7 +3677,7 @@
                 },
                 {
                   "ClassName": "MMG_mk5_utility_pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3696,7 +3696,7 @@
                 },
                 {
                   "ClassName": "MMG_mk_V_grenade_pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3715,7 +3715,7 @@
                 },
                 {
                   "ClassName": "MMG_sheath_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3793,11 +3793,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_Med_Pouch_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3816,7 +3816,7 @@
                 },
                 {
                   "ClassName": "MMG_ammo_pouch_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3835,7 +3835,7 @@
                 },
                 {
                   "ClassName": "MMG_bottle_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3854,7 +3854,7 @@
                 },
                 {
                   "ClassName": "MMG_sheath_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3873,7 +3873,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3913,7 +3913,7 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_single_magpouch_green",
@@ -3955,7 +3955,7 @@
                 },
                 {
                   "ClassName": "MMG_Med_Pouch_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3974,7 +3974,7 @@
                 },
                 {
                   "ClassName": "MMG_tactical_pouch_green",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -3993,7 +3993,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4033,11 +4033,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_Holster_green",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4094,7 +4094,7 @@
                 },
                 {
                   "ClassName": "MMG_mk5_utility_pouch_green",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4113,7 +4113,7 @@
                 },
                 {
                   "ClassName": "MMG_mk_V_grenade_pouch_green",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4132,7 +4132,7 @@
                 },
                 {
                   "ClassName": "MMG_sheath_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4172,7 +4172,7 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "Juggernaut_Buttpack_Black",
@@ -4235,7 +4235,7 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "Juggernaut_Buttpack_Black",
@@ -4341,11 +4341,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_Med_Pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4364,7 +4364,7 @@
                 },
                 {
                   "ClassName": "MMG_tactical_pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4383,7 +4383,7 @@
                 },
                 {
                   "ClassName": "MMG_Holster_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4402,7 +4402,7 @@
                 },
                 {
                   "ClassName": "MMG_tactical_pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4421,7 +4421,7 @@
                 },
                 {
                   "ClassName": "MMG_carbine_red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4440,7 +4440,7 @@
                 },
                 {
                   "ClassName": "MMG_carbine_blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4459,7 +4459,7 @@
                 },
                 {
                   "ClassName": "MMG_carbine_green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4478,7 +4478,7 @@
                 },
                 {
                   "ClassName": "MMG_carbine_black",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4497,7 +4497,7 @@
                 },
                 {
                   "ClassName": "MMG_carbine_grey",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4516,7 +4516,7 @@
                 },
                 {
                   "ClassName": "MMG_carbine_orange",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4535,7 +4535,7 @@
                 },
                 {
                   "ClassName": "MMG_Epinephrine",
-                  "Chance": 1,
+                  "Chance": 0.1,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4554,7 +4554,7 @@
                 },
                 {
                   "ClassName": "MMG_Morphine",
-                  "Chance": 1,
+                  "Chance": 0.1,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4573,7 +4573,7 @@
                 },
                 {
                   "ClassName": "MMG_sheath_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -4592,7 +4592,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5517,11 +5517,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5540,7 +5540,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5559,7 +5559,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5578,7 +5578,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5597,7 +5597,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5616,7 +5616,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5656,11 +5656,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5679,7 +5679,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5698,7 +5698,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5717,7 +5717,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5736,7 +5736,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5755,7 +5755,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5795,11 +5795,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5818,7 +5818,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5837,7 +5837,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5856,7 +5856,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5875,7 +5875,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5894,7 +5894,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5934,11 +5934,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5957,7 +5957,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5976,7 +5976,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -5995,7 +5995,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6014,7 +6014,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6033,7 +6033,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6052,7 +6052,7 @@
                 },
                 {
                   "ClassName": "MMG_Med_Pouch_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6071,7 +6071,7 @@
                 },
                 {
                   "ClassName": "MMG_bottle_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6090,7 +6090,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6130,11 +6130,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6153,7 +6153,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6172,7 +6172,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6191,7 +6191,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6210,7 +6210,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6229,7 +6229,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6326,11 +6326,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6349,7 +6349,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6368,7 +6368,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6387,7 +6387,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6406,7 +6406,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6425,7 +6425,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6444,7 +6444,7 @@
                 },
                 {
                   "ClassName": "MMG_Med_Pouch_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6463,7 +6463,7 @@
                 },
                 {
                   "ClassName": "MMG_bottle_olive",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6482,7 +6482,7 @@
                 },
                 {
                   "ClassName": "MMG_nbc_pouch",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6522,11 +6522,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "PersonalRadio",
-                  "Chance": 1,
+                  "Chance": 0.33,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6545,7 +6545,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Blue",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6564,7 +6564,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6583,7 +6583,7 @@
                 },
                 {
                   "ClassName": "Chemlight_Red",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6602,7 +6602,7 @@
                 },
                 {
                   "ClassName": "Chemlight_White",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -6621,7 +6621,7 @@
                 },
                 {
                   "ClassName": "Chemlight_yellow",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7077,11 +7077,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_headphones_black",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7100,7 +7100,7 @@
                 },
                 {
                   "ClassName": "mmg_gp_nvg_black",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7119,7 +7119,7 @@
                 },
                 {
                   "ClassName": "NVGoggles",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7138,7 +7138,7 @@
                 },
                 {
                   "ClassName": "UniversalLight",
-                  "Chance": 1,
+                  "Chance": 0.15,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7178,11 +7178,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "mmg_gp_nvg_black",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7201,7 +7201,7 @@
                 },
                 {
                   "ClassName": "NVGoggles",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7220,7 +7220,7 @@
                 },
                 {
                   "ClassName": "UniversalLight",
-                  "Chance": 1,
+                  "Chance": 0.15,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7279,11 +7279,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "MMG_headphones_green",
-                  "Chance": 1,
+                  "Chance": 0.2,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7302,7 +7302,7 @@
                 },
                 {
                   "ClassName": "mmg_gp_nvg_green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7321,7 +7321,7 @@
                 },
                 {
                   "ClassName": "NVGoggles",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7340,7 +7340,7 @@
                 },
                 {
                   "ClassName": "UniversalLight",
-                  "Chance": 1,
+                  "Chance": 0.15,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7380,11 +7380,11 @@
           ],
           "InventoryAttachments": [
             {
-              "SlotName": null,
+              "SlotName": "",
               "Items": [
                 {
                   "ClassName": "mmg_gp_nvg_green",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7403,7 +7403,7 @@
                 },
                 {
                   "ClassName": "NVGoggles",
-                  "Chance": 1,
+                  "Chance": 0.05,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -7422,7 +7422,7 @@
                 },
                 {
                   "ClassName": "UniversalLight",
-                  "Chance": 1,
+                  "Chance": 0.15,
                   "Quantity": {
                     "Min": 0,
                     "Max": 0
@@ -28689,7 +28689,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.04,
+      "Chance": 0.74,
       "Quantity": null,
       "Health": [
         {
@@ -28721,13 +28721,209 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "SNAFU_AWM_Mag",
-                      "Chance": 1,
+                      "ClassName": "SNAFU_HuntingOptic",
+                      "Chance": 0.015,
                       "Quantity": {
                         "Min": 0,
                         "Max": 0
                       },
-                      "Health": [],
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Nightforce",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Leupold_Mark8",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Kahles",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Aimpoint_ACO",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Aimpoint_M5",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Elcan",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_EOTech_EXPS3",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Trijicon",
+                      "Chance": 0.025,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Trijicon_Docter",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Walther",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
                       "InventoryAttachments": [],
                       "InventoryCargo": [],
                       "ConstructionPartsBuilt": [],
@@ -28735,25 +28931,142 @@
                     },
                     {
                       "ClassName": "SNAFU_Tango6T_Black",
-                      "Chance": 1,
+                      "Chance": 0.015,
                       "Quantity": {
                         "Min": 0,
                         "Max": 0
                       },
-                      "Health": [],
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
                       "InventoryAttachments": [],
                       "InventoryCargo": [],
                       "ConstructionPartsBuilt": [],
                       "Sets": []
                     },
                     {
-                      "ClassName": "SNAFUKivaari_338_Supp",
-                      "Chance": 0.1,
+                      "ClassName": "SNAFU_Tango6T_Tan",
+                      "Chance": 0.015,
                       "Quantity": {
                         "Min": 0,
                         "Max": 0
                       },
-                      "Health": [],
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Tango6T_Wood",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Tango6T_Snow",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "SNAFU_Kobra",
+                      "Chance": 0.015,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                },
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "SNAFUKivaari_338_Supp",
+                      "Chance": 0.25,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                },
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "SNAFU_AWM_Mag",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.5,
+                          "Max": 0.9,
+                          "Zone": ""
+                        }
+                      ],
                       "InventoryAttachments": [],
                       "InventoryCargo": [],
                       "ConstructionPartsBuilt": [],
