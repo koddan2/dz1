@@ -9824,25 +9824,6 @@
       "Sets": []
     },
     {
-      "ClassName": "BaseballBat",
-      "Chance": 0.1,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "Battery9V",
       "Chance": 0.125,
       "Quantity": {
@@ -10966,25 +10947,6 @@
     {
       "ClassName": "FangeKnife",
       "Chance": 0.00625,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "FarmingHoe",
-      "Chance": 0.08750000000000001,
       "Quantity": {
         "Min": 0,
         "Max": 0
