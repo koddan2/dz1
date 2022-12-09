@@ -12161,25 +12161,6 @@
       "Sets": []
     },
     {
-      "ClassName": "Pitchfork",
-      "Chance": 0.06875,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "Plastic_Explosive",
       "Chance": 0.00625,
       "Quantity": {
@@ -13607,6 +13588,25 @@
     {
       "ClassName": "riflesling_quad_tan",
       "Chance": 0.0425,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "Eyepatch",
+      "Chance": 0.00625,
       "Quantity": {
         "Min": 0,
         "Max": 0
