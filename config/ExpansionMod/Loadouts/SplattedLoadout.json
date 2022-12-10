@@ -28651,7 +28651,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.74,
+      "Chance": 0.08,
       "Quantity": null,
       "Health": [
         {
@@ -29037,41 +29037,54 @@
                   ]
                 }
               ],
-              "InventoryCargo": [
-                {
-                  "ClassName": "SNAFU_AWM_Mag",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 1
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                },
-                {
-                  "ClassName": "SNAFU_Ammo_338",
-                  "Chance": 1,
-                  "Quantity": {
-                    "Min": 10,
-                    "Max": 20
-                  },
-                  "Health": [],
-                  "InventoryAttachments": [],
-                  "InventoryCargo": [],
-                  "ConstructionPartsBuilt": [],
-                  "Sets": []
-                }
-              ],
+              "InventoryCargo": [],
               "ConstructionPartsBuilt": [],
               "Sets": []
             }
           ]
         }
       ],
-      "InventoryCargo": [],
+      "InventoryCargo": [
+        {
+          "ClassName": "SNAFU_AWM_Mag",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SNAFU_Ammo_338",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SNAFU_Ammo_338",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
       "ConstructionPartsBuilt": null,
       "Sets": null
     }
