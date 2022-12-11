@@ -24895,7 +24895,7 @@
   "Sets": [
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25128,7 +25128,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25374,7 +25374,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25497,7 +25497,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25743,7 +25743,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25931,7 +25931,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26022,7 +26022,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26113,7 +26113,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26217,7 +26217,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26321,7 +26321,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26399,7 +26399,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26484,7 +26484,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26575,7 +26575,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26685,7 +26685,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26763,7 +26763,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26841,7 +26841,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26919,7 +26919,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26997,7 +26997,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27075,7 +27075,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27153,7 +27153,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27263,7 +27263,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27399,7 +27399,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27548,7 +27548,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27754,7 +27754,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27838,7 +27838,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28232,7 +28232,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28316,7 +28316,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28554,7 +28554,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.07,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28651,7 +28651,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.08,
+      "Chance": 0.004,
       "Quantity": null,
       "Health": [
         {
@@ -29090,7 +29090,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.004,
       "Quantity": null,
       "Health": [
         {
@@ -29837,7 +29837,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.12,
+      "Chance": 0.07,
       "Quantity": null,
       "Health": [
         {
@@ -30252,7 +30252,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.12,
+      "Chance": 0.07,
       "Quantity": null,
       "Health": [
         {
@@ -30345,7 +30345,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.05,
+      "Chance": 0.03,
       "Quantity": null,
       "Health": [
         {
@@ -31037,7 +31037,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.05,
+      "Chance": 0.03,
       "Quantity": null,
       "Health": [
         {
@@ -31551,7 +31551,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.05,
+      "Chance": 0.03,
       "Quantity": null,
       "Health": [
         {
@@ -32208,7 +32208,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.05,
+      "Chance": 0.03,
       "Quantity": null,
       "Health": [
         {
