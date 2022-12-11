@@ -8,7 +8,7 @@
 	"PlayerData": {
 		"disablePersonalLight": 1,
 		"StaminaData": {
-			"sprintStaminaModifierErc": 1.0,
+			"sprintStaminaModifierErc": 0.5,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
