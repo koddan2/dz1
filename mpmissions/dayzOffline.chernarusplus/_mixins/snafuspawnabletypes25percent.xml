@@ -1717,7 +1717,7 @@
 		<attachments chance="0.25">
 			<item name="SNAFU_HuntingOptic" chance="0.06" />
 			<item name="SNAFU_Nightforce" chance="0.06" />
-			<item name="SNAFU_Leupold_Mark8" chance="0.06" />		<attachments chance="0.25">
+			<item name="SNAFU_Leupold_Mark8" chance="0.06" />
 			<item name="SNAFU_AFG_02_Black" chance="0.05" />
 			<item name="SNAFU_AFG_02_Tan" chance="0.05" />
 			<item name="SNAFU_AFG_02_OD" chance="0.05" />
@@ -1726,7 +1726,6 @@
 			<item name="SNAFUScar_AFG_Tan" chance="0.05" />
 			<item name="SNAFU_FGCR_Grip" chance="0.35" />
 			<item name="SNAFU_FGKAC_Grip" chance="0.35" />
-		</attachments>
 			<item name="SNAFU_Kahles" chance="0.06" />
 			<item name="SNAFU_Aimpoint_ACO" chance="0.06" />
 			<item name="SNAFU_Aimpoint_M5" chance="0.06" />
