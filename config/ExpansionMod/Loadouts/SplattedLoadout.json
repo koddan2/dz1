@@ -4788,7 +4788,7 @@
         },
         {
           "ClassName": "StunBaton",
-          "Chance": 0.800000011920929,
+          "Chance": 0.1,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -11346,25 +11346,6 @@
       "Sets": []
     },
     {
-      "ClassName": "CanisterGasoline",
-      "Chance": 0.07142857074737549,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "Canteen",
       "Chance": 0.028571429252624514,
       "Quantity": {
@@ -17120,25 +17101,6 @@
     },
     {
       "ClassName": "PetrolLighter",
-      "Chance": 0.07142857074737549,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "Pickaxe",
       "Chance": 0.07142857074737549,
       "Quantity": {
         "Min": 0,
