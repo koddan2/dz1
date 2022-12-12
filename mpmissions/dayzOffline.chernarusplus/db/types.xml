@@ -17941,10 +17941,10 @@
     <usage name="Coast" />
   </type>
   <type name="WeaponCleaningKit">
-    <nominal>80</nominal>
+    <nominal>120</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>70</min>
+    <min>90</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
