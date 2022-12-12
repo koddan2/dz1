@@ -19459,7 +19459,7 @@
     },
     {
       "ClassName": "WeaponCleaningKit",
-      "Chance": 0.11428571701049806,
+      "Chance": 0.1714285659790039,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19732,6 +19732,63 @@
     {
       "ClassName": "riflesling_quad_tan",
       "Chance": 0.04857142925262451,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "csmcmillan_mung",
+      "Chance": 0.0071428573131561285,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "Mag_cs5_10Rnd_mung",
+      "Chance": 0.0071428573131561285,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "mcmillan_buttstock",
+      "Chance": 0.0071428573131561285,
       "Quantity": {
         "Min": 0,
         "Max": 0
