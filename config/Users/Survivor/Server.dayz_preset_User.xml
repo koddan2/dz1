@@ -973,7 +973,6 @@
             <btn name="kN" />
         </btn>
     </input>
-    <input name="SUA_ADSWeaponInspect" />
     <input name="UARFFSCyclicForward">
         <btn name="kW" />
         <btn name="ps4LeftThumbUp" />

@@ -609,6 +609,9 @@
 		<attachments chance="0.25">
 			<item name="SNAFU_AK12_Mag" chance="1.00" />
 		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_AK_HG" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="SNAFU_AK103A">
 		<attachments chance="0.25">
