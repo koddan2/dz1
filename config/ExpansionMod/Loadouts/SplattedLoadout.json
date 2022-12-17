@@ -13372,25 +13372,6 @@
       "Sets": []
     },
     {
-      "ClassName": "GardenLime",
-      "Chance": 0.125,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "Glock19",
       "Chance": 0.1,
       "Quantity": {
