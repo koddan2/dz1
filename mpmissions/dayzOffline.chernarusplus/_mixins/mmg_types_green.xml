@@ -2,10 +2,10 @@
 <!--VESTS-->
 <types>
   <type name="MMG_JPC_Vest_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -34,10 +34,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_chestrig_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -51,10 +51,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_tt_Vest_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -84,10 +84,10 @@
   </type>
   <!--POUCHES-->
   <type name="MMG_Mag_Pouch_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -101,10 +101,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_triple_magpouch_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -118,10 +118,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_double_magpouch_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -135,10 +135,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_Med_Pouch_Olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -152,10 +152,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_ammo_pouch_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -169,10 +169,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_tactical_pouch_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -186,10 +186,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_holster_pouch_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -203,10 +203,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_mk5_utility_pouch_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -220,10 +220,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_mk_V_grenade_pouch_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -238,10 +238,10 @@
   </type>
   <!--Backpacks-->
   <type name="MMG_carrier_backpack_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -255,10 +255,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_supplybag_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -272,10 +272,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_assault_pack_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -289,10 +289,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_camelback_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -306,10 +306,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_mmps_bag_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -324,10 +324,10 @@
   </type>
   <!--BELTS-->
   <type name="MMG_falcon_b1_belt_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -342,10 +342,10 @@
   </type>
   <!--HELMETS-->
   <type name="MMG_tactical_helmet_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -374,7 +374,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_armored_helmet_green">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -389,7 +389,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_armored_helmet_visor_green">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -404,10 +404,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_headphones_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -422,10 +422,10 @@
   </type>
   <!--ITEMS-->
   <type name="MMG_sheath_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -439,10 +439,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_bottle_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -456,10 +456,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_Holster_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -473,10 +473,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_tac_goggles_red_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -491,10 +491,10 @@
   </type>
   <!--CLOTHING-->
   <type name="MMG_operatorshirt_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -508,10 +508,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_tactical_shirt_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -525,10 +525,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_combatshirt_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -542,10 +542,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_combatpants_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -559,10 +559,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_tactical_pants_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -576,10 +576,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_tactical_gloves_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -593,10 +593,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_boots_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -610,10 +610,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_facemask_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -627,10 +627,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="MMG_balaclava_olive">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -644,10 +644,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mmg_boonie_green">
-    <nominal>22</nominal>
+    <nominal>13</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>11</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
