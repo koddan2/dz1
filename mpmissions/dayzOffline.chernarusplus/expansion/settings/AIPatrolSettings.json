@@ -8,7 +8,7 @@
   "DespawnRadius": 1200,
   "AccuracyMin": 0.52,
   "AccuracyMax": 0.82,
-  "ThreatDistanceLimit": 250,
+  "ThreatDistanceLimit": 100,
   "DamageMultiplier": 1,
   "ObjectPatrols": [
     {
