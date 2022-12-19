@@ -115,6 +115,27 @@
   </type>
   <!-- Update 1.11 -->
   <!-- Update 1.11.1 -->
+  <type name="TTC_G3_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <!-- Update 1.11.2 -->
   <type name="TTC_M14Suppressor">
     <nominal>6</nominal>
@@ -155,6 +176,27 @@
   <!-- Update 1.12.1-->
   <!-- 1.13-->
   <!-- 1.13.2-->
+  <type name="TTC_SVT40_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <type name="TTC_PistolSuppressor">
     <nominal>70</nominal>
     <lifetime>1440</lifetime>
@@ -173,8 +215,71 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.13.3 -->
+  <type name="TTC_G28_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <!-- Update 1.13.5 -->
   <!-- Update 1.14 -->
+  <type name="TTC_VortexSE_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_VortexRHDAMG_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <!-- Update 1.15 -->
   <type name="TTC_MCX_Spear_Suppressor">
     <nominal>6</nominal>
@@ -229,6 +334,27 @@
   </type>
   <!-- Update 1.15 -->
   <!-- Update 1.15.5 -->
+  <type name="TTC_Pistol_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <type name="TTC_MCX_Spear_Suppressor_Black">
     <nominal>6</nominal>
     <lifetime>1440</lifetime>
@@ -247,4 +373,130 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15.6 -->
+  <type name="TTC_EotechVudu_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_EotechVudu_Tan_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_EotechVudu_White_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_EotechVudu_AK_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_EotechVudu_Tan_AK_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_EotechVudu_White_AK_Optic">
+    <nominal>2</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Farm" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
 </types>
