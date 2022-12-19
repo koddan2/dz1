@@ -1120,7 +1120,7 @@
         },
         {
           "ClassName": "MMG_operatorshirt_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1139,7 +1139,7 @@
         },
         {
           "ClassName": "MMG_tactical_shirt_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1158,7 +1158,7 @@
         },
         {
           "ClassName": "MMG_combatshirt_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1177,7 +1177,7 @@
         },
         {
           "ClassName": "MMG_operatorshirt_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1196,7 +1196,7 @@
         },
         {
           "ClassName": "MMG_tactical_shirt_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1215,7 +1215,7 @@
         },
         {
           "ClassName": "MMG_combatshirt_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1885,7 +1885,7 @@
         },
         {
           "ClassName": "MMG_combatpants_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1904,7 +1904,7 @@
         },
         {
           "ClassName": "mmg_tactical_pants_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1923,7 +1923,7 @@
         },
         {
           "ClassName": "MMG_combatpants_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -1942,7 +1942,7 @@
         },
         {
           "ClassName": "mmg_tactical_pants_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3204,7 +3204,7 @@
         },
         {
           "ClassName": "MMG_JPC_Vest_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3343,7 +3343,7 @@
         },
         {
           "ClassName": "MMG_tt_Vest_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3362,7 +3362,7 @@
         },
         {
           "ClassName": "MMG_chestrig_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3482,7 +3482,7 @@
         },
         {
           "ClassName": "MMG_MK_III_Armor_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3602,7 +3602,7 @@
         },
         {
           "ClassName": "MMG_MK_V_Armor_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3741,7 +3741,7 @@
         },
         {
           "ClassName": "MMG_JPC_Vest_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3760,7 +3760,7 @@
         },
         {
           "ClassName": "MMG_tt_Vest_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3779,7 +3779,7 @@
         },
         {
           "ClassName": "MMG_chestrig_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -3899,7 +3899,7 @@
         },
         {
           "ClassName": "MMG_MK_III_Armor_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4019,7 +4019,7 @@
         },
         {
           "ClassName": "MMG_MK_V_Armor_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4158,7 +4158,7 @@
         },
         {
           "ClassName": "JuggernautLVL5_Black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4221,7 +4221,7 @@
         },
         {
           "ClassName": "JuggernautLVL1_Suit_Black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4327,7 +4327,7 @@
         },
         {
           "ClassName": "MMG_falcon_b1_belt_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -4618,7 +4618,7 @@
         },
         {
           "ClassName": "MMG_falcon_b1_belt_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -5503,7 +5503,7 @@
         },
         {
           "ClassName": "MMG_carrier_backpack_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -5642,7 +5642,7 @@
         },
         {
           "ClassName": "MMG_supplybag_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -5781,7 +5781,7 @@
         },
         {
           "ClassName": "MMG_assault_pack_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -5920,7 +5920,7 @@
         },
         {
           "ClassName": "MMG_camelback_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6116,7 +6116,7 @@
         },
         {
           "ClassName": "MMG_mmps_bag_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6255,7 +6255,7 @@
         },
         {
           "ClassName": "MMG_carrier_backpack_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6274,7 +6274,7 @@
         },
         {
           "ClassName": "MMG_supplybag_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6293,7 +6293,7 @@
         },
         {
           "ClassName": "MMG_assault_pack_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6312,7 +6312,7 @@
         },
         {
           "ClassName": "MMG_camelback_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6508,7 +6508,7 @@
         },
         {
           "ClassName": "MMG_mmps_bag_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6647,7 +6647,7 @@
         },
         {
           "ClassName": "bag_6B38_black_mung",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -6666,7 +6666,7 @@
         },
         {
           "ClassName": "bag_6B38_LETO_mung",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -7101,7 +7101,7 @@
         },
         {
           "ClassName": "MMG_tactical_helmet_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -7202,7 +7202,7 @@
         },
         {
           "ClassName": "MMG_striker_helmet_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -7284,7 +7284,7 @@
         },
         {
           "ClassName": "mmg_armored_helmet_black",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -7303,7 +7303,7 @@
         },
         {
           "ClassName": "MMG_tactical_helmet_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -7404,7 +7404,7 @@
         },
         {
           "ClassName": "MMG_striker_helmet_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -7486,7 +7486,7 @@
         },
         {
           "ClassName": "mmg_armored_helmet_green",
-          "Chance": 0.12,
+          "Chance": 0.05,
           "Quantity": {
             "Min": 0,
             "Max": 0
@@ -93893,7 +93893,7 @@
   "Sets": [
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -94126,7 +94126,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -94372,7 +94372,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -94495,7 +94495,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -94741,7 +94741,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -94929,7 +94929,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95020,7 +95020,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95111,7 +95111,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95215,7 +95215,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95319,7 +95319,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95397,7 +95397,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95482,7 +95482,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95573,7 +95573,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95683,7 +95683,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95761,7 +95761,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95839,7 +95839,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95917,7 +95917,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -95995,7 +95995,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96073,7 +96073,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96151,7 +96151,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96261,7 +96261,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96397,7 +96397,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96546,7 +96546,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96752,7 +96752,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -96836,7 +96836,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -97230,7 +97230,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -97314,7 +97314,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -97552,7 +97552,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -97649,7 +97649,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.004,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
@@ -98101,7 +98101,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.004,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
@@ -98848,7 +98848,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.07,
+      "Chance": 0.03,
       "Quantity": null,
       "Health": [
         {
@@ -99276,7 +99276,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.07,
+      "Chance": 0.03,
       "Quantity": null,
       "Health": [
         {
@@ -99369,7 +99369,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": null,
       "Health": [
         {
@@ -100061,7 +100061,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": null,
       "Health": [
         {
@@ -100612,7 +100612,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": null,
       "Health": [
         {
@@ -101282,7 +101282,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": null,
       "Health": [
         {
@@ -101678,7 +101678,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.03,
+      "Chance": 0.015,
       "Quantity": null,
       "Health": [
         {
