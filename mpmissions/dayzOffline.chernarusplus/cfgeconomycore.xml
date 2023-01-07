@@ -58,6 +58,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
 		<file name="mmg_types_black.xml" type="types" />
 		<file name="mmg_types_green.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
 		<file name="mmg_types_NBC+NVG.xml" type="types" />
 		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
 
