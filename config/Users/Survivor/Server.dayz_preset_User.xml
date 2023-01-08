@@ -1025,6 +1025,15 @@
     <input name="UAZBerryOpenAdminMenu">
         <btn name="kO" />
     </input>
+    <input name="UASchanaPartyMenu">
+        <btn name="kP" />
+    </input>
+    <input name="UASchanaPartyPing">
+        <btn name="kT" />
+    </input>
+    <input name="UASchanaPartyPingClear">
+        <btn name="kY" />
+    </input>
     <input name="eAICommandMenu">
         <btn name="kT" />
     </input>

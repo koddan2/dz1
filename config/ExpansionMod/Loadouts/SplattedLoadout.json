@@ -4691,6 +4691,63 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
+        },
+        {
+          "ClassName": "mmg_cargobelt_black",
+          "Chance": 0.03,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "mmg_cargobelt_green",
+          "Chance": 0.03,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "mmg_cargobelt_tan",
+          "Chance": 0.03,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
         }
       ]
     },
@@ -21670,6 +21727,63 @@
     {
       "ClassName": "MMG_nbc_pouch",
       "Chance": 0.025999999046325686,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "mmg_dump_pouch_black",
+      "Chance": 0.045999999046325686,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "mmg_dump_pouch_green",
+      "Chance": 0.045999999046325686,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "mmg_dump_pouch_tan",
+      "Chance": 0.045999999046325686,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -99445,7 +99559,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.015,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
@@ -100137,7 +100251,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.015,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
@@ -100688,7 +100802,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.015,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
@@ -101358,7 +101472,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.015,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
@@ -101754,7 +101868,7 @@
     },
     {
       "ClassName": "WEAPON",
-      "Chance": 0.015,
+      "Chance": 0.002,
       "Quantity": null,
       "Health": [
         {
