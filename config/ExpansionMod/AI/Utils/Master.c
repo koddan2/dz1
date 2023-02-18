@@ -9,7 +9,7 @@ override void OnEntry(string Event, ExpansionState From) {
 super.OnEntry(Event, From);
 entity = fsm.entity;	
 seat = fsm.seat;
-super.OnEntry(Event, From);	
+super.OnEntry(Event, null);	
 }
 override void OnExit(string Event, bool Aborted, ExpansionState To) {
 super.OnExit(Event, Aborted, To);
@@ -117,8 +117,7 @@ Class.CastTo(src, _fsm.GetState("Expansion_Vehicles_GoToVehicle_State_0"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_OpenVehicleDoor_State_0"));
 }
 override int Guard() {
-if (vector.Distance(unit.GetPosition(), src.position) > 0.5) return FAIL;
-if (!dst.PerformTest(src.entity, src.seat)) return FAIL;	
+if (vector.Distance(unit.GetPosition(), src.position) > 0.5) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -137,6 +136,8 @@ Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_GetInVehicle_State_0"));
 }
 override int Guard() {
 if (vector.Distance(unit.GetPosition(), src.position) > 0.5) return FAIL;	
+if (unit.IsInTransport()) return FAIL;	
+if (src.entity.IsKindOf("ExpansionBus")) return FAIL;  //! Hard block bus until seating CTD is fixed	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -171,6 +172,7 @@ Class.CastTo(src, _fsm.GetState("Expansion_Vehicles_CloseVehicleDoor_State_0"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_Sitting_State_0"));
 }
 override int Guard() {
+if (!unit.IsInTransport()) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -192,7 +194,7 @@ auto group = unit.GetGroup();
 if (!group) return SUCCESS;	
 auto leader = group.GetLeader();	
 if (!leader || leader == unit) return SUCCESS;	
-if (group.GetFormationState() == eAIGroupFormationState.IN && leader.IsInTransport()) return FAIL;	
+if (group.GetFormationState() != eAIGroupFormationState.IN || leader.GetParent() == unit.GetParent()) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -210,6 +212,7 @@ Class.CastTo(src, _fsm.GetState("Expansion_Vehicles_OpenVehicleDoor_State_0"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_GetOutVehicle_State_0"));
 }
 override int Guard() {
+if (!unit.IsInTransport()) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -244,6 +247,7 @@ Class.CastTo(src, _fsm.GetState("Expansion_Vehicles_CloseVehicleDoor_State_0"));
 Class.CastTo(dst, _fsm.GetState("ExpansionState"));
 }
 override int Guard() {
+if (unit.IsInTransport()) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -255,7 +259,7 @@ EntityAI entity;
 int seat;
 void Expansion_Vehicles_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
 m_Name = "Vehicles";
-m_DefaultState = "Expansion_Vehicles_GoTo_State_0";
+m_DefaultState = "Expansion_Vehicles_GoToVehicle_State_0";
 Setup();
 }
 void Setup() {
@@ -338,7 +342,11 @@ else
 wantsLower = true;	
 }	
 }	
-if (distanceSq <= 1.0)	
+float minDist = 1.0;	
+auto player = PlayerBase.Cast(target.GetEntity());	
+if (player && player.IsUnconscious())	
+minDist = 4.0;	
+if (distanceSq <= minDist)	
 {	
 time += DeltaTime;	
 //unit.OverrideStance(DayZPlayerConstants.STANCEIDX_RAISEDERECT);	
@@ -494,7 +502,7 @@ unit.OverrideMovementDirection(true, movementDirection);
 unit.OverrideMovementSpeed(true, Math.RandomIntInclusive(1, 2));	
 return CONTINUE;	
 }	
-if (unit.IsInMelee() && time < 0.3)	
+if (unit.IsFighting() && time < 0.3)	
 {	
 return CONTINUE;	
 }	
@@ -515,6 +523,7 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Fighting_Melee_State_0"));
 }
 override int Guard() {
+if (unit.IsRestrained()) return FAIL;	
 // we are targetting an entity?	
 dst.target = unit.GetTarget();	
 if (!dst.target || !dst.target.IsMeleeViable(unit)) return FAIL;	
@@ -535,10 +544,26 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Fighting_FireWeapon_State_0"));
 }
 override int Guard() {
+if (unit.IsRestrained()) return FAIL;	
 // we are aiming at something?	
 dst.target = unit.GetTarget();	
 if (!dst.target) return FAIL;	
-if (unit.IsInMelee()) return FAIL;	
+PlayerBase player;	
+ItemBase itemTarget;	
+if (Class.CastTo(player, dst.target.GetEntity()))	
+{	
+if (player.IsUnconscious())	
+return FAIL;	
+}	
+else if (Class.CastTo(itemTarget, dst.target.GetEntity()))	
+{	
+// don't shoot at bandages or ammo/magazines, silly	
+if (itemTarget.Expansion_CanBeUsedToBandage())	
+return FAIL;	
+if (itemTarget.IsMagazine())	
+return FAIL;	
+}	
+if (unit.IsFighting()) return FAIL;	
 // we are holding a weapon	
 Weapon_Base weapon;	
 if (!Class.CastTo(weapon, unit.GetItemInHands())) return FAIL;	
@@ -905,6 +930,7 @@ override void OnExit(string Event, bool Aborted, ExpansionState To) {
 unit.SetMovementSpeedLimit(speedLimit);  //! Restore speed limit	
 }
 override int OnUpdate(float DeltaTime, int SimulationPrecision) {
+if (!group) return EXIT;	
 unit.OverrideTargetPosition(group.GetFormationPosition(unit));	
 unit.OverrideMovementDirection(false, 0);	
 unit.OverrideMovementSpeed(false, 0);	
@@ -1005,8 +1031,6 @@ return EXIT;
 class Expansion_Master_Vehicles_State_0 extends eAIState {
 Expansion_Vehicles_FSM_0 sub_fsm;
 Expansion_Master_FSM_0 fsm;
-EntityAI entity;
-int seat;
 void Expansion_Master_Vehicles_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
 m_ClassName = "Expansion_Master_Vehicles_State_0";
@@ -1029,25 +1053,16 @@ auto leader = group.GetLeader();
 if (!leader) return EXIT;
 if (leader == unit)	
 {	
-if (!entity) return EXIT;
+if (!sub_fsm.entity) return EXIT;
 //! TODO: Allow for exit vehicle since this AI is the leader	
 return CONTINUE;	
 }	
-//! MAYBE BUG? Might deadlock the ai if there are no free seats for the vehicle in the group	
-if (group.GetFormationState() == eAIGroupFormationState.IN && leader.IsInTransport()) 	
-{	
-Transport transport;	
-if (!Class.CastTo(transport, leader.GetParent())) return EXIT;
-for (int i = 0; i < transport.CrewSize(); i++)	
-{	
-if (transport.CrewMember(i) == null)	
-{	
-seat = i;	
-entity = transport;
-return CONTINUE;	
-}	
-}	
-}	
+if ((leader.IsInTransport() && leader.GetParent() == sub_fsm.entity) || unit.IsInTransport()) return CONTINUE;	
+//! Wait until AI has left the vehicle and closed the door (if any)	
+bool hasDoor;	
+string source;	
+ExpansionFSMHelper.DoorAnimationSource(sub_fsm.entity, sub_fsm.seat, hasDoor, source);	
+if (hasDoor && sub_fsm.entity.GetAnimationPhase(source) > 0.5) return CONTINUE;	
 return EXIT;	
 }
 }
@@ -1178,6 +1193,31 @@ return CONTINUE;
 return EXIT;	
 }
 }
+class Expansion_Master_TakeItemToInventory_State_0 extends eAIState {
+Expansion_Master_FSM_0 fsm;
+ItemBase item;
+float time;
+void Expansion_Master_TakeItemToInventory_State_0(ExpansionFSM _fsm) {
+Class.CastTo(fsm, _fsm);
+m_ClassName = "Expansion_Master_TakeItemToInventory_State_0";
+m_Name = "TakeItemToInventory";
+}
+override void OnEntry(string Event, ExpansionState From) {
+EXTrace.Print(EXTrace.AI, unit, "TakeItemToInventory " + item.ToString());	
+time = 0;	
+unit.eAI_TakeItemToInventory(item);	
+}
+override void OnExit(string Event, bool Aborted, ExpansionState To) {
+}
+override int OnUpdate(float DeltaTime, int SimulationPrecision) {
+if (time < 0.5)	
+{	
+time += DeltaTime;	
+return CONTINUE;	
+}	
+return EXIT;	
+}
+}
 class Expansion_Master_Bandaging_Self_State_0 extends eAIState {
 Expansion_Master_FSM_0 fsm;
 int last_bandage_attempt_time;
@@ -1226,7 +1266,7 @@ else
 {	
 if (bandage)	
 {	
-if (unit.GetBleedingSourceCount() && bandage.GetHealth() > 0.0)	
+if (unit.IsBleeding() && bandage.GetHealth() > 0.0)	
 {	
 last_bandage_attempt_time = GetGame().GetTime();	
 time = 0;	
@@ -1337,12 +1377,13 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_Bandaging_Self_State_0"));
 }
 override int Guard() {
-if (unit.IsInMelee()) return FAIL;	
-if (!unit.GetBleedingSourceCount()) return FAIL;	
+if (unit.IsFighting()) return FAIL;	
+if (unit.IsRestrained()) return FAIL;	
+if (!unit.IsBleeding()) return FAIL;	
 if (GetGame().GetTime() - dst.last_bandage_attempt_time < 4000) return FAIL;	
 auto hands = unit.GetItemInHands();	
 if (!hands) return FAIL;	
-if (!(hands.IsInherited(BandageDressing) || hands.IsInherited(Rag)) || hands.GetHealth() <= 0.0) return FAIL;	
+if (!hands.Expansion_CanBeUsedToBandage() || hands.GetHealth() <= 0.0) return FAIL;	
 dst.bandage = hands;	
 return SUCCESS;	
 }
@@ -1426,7 +1467,8 @@ Class.CastTo(src, _fsm.GetState("Expansion_Master_TraversingWaypoints_State_0"))
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_Idle_State_0"));
 }
 override int Guard() {
-if (unit.GetThreatToSelf() > 0.4) return SUCCESS;	
+auto group = unit.GetGroup();	
+if (unit.GetThreatToSelf() > 0.4 || !group || group.GetLeader() != unit) return SUCCESS;	
 return FAIL;	
 }
 override ExpansionState GetSource() { return src; }
@@ -1465,7 +1507,8 @@ Class.CastTo(dst, _fsm.GetState("Expansion_Master_Weapon_Reloading_State_0"));
 }
 override int Guard() {
 if (GetGame().GetTime() - dst.sub_fsm.last_attempt_time < 1000) return FAIL;	
-if (unit.IsInMelee()) return FAIL;	
+if (unit.IsFighting()) return FAIL;	
+if (unit.IsRestrained()) return FAIL;	
 if (!Class.CastTo(dst.sub_fsm.weapon, unit.GetItemInHands())) return FAIL;	
 //! Allow sub-FSM to handle destroyed weapon so it gets dropped	
 if (dst.sub_fsm.weapon.IsDamageDestroyed()) return SUCCESS;	
@@ -1490,14 +1533,15 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_TakeItemToHands_State_0"));
 }
 override int Guard() {
-if (unit.IsInMelee()) return FAIL;	
+if (unit.IsFighting()) return FAIL;	
+if (unit.IsRestrained()) return FAIL;	
 //! Taking items to hands while raised breaks hands! Wait until lowered	
 if (unit.IsRaised()) return FAIL;	
 ItemBase hands = unit.GetItemInHands();	
 //! First check if we want to switch to bandage	
-if (unit.GetBleedingSourceCount() && unit.GetThreatToSelf(true) < 0.4)	
+if (unit.IsBleeding() && unit.GetThreatToSelf(true) < 0.4)	
 {	
-if (!hands || !(hands.IsInherited(BandageDressing) || hands.IsInherited(Rag)) || hands.GetHealth() <= 0.0)	
+if (!hands || !hands.Expansion_CanBeUsedToBandage() || hands.GetHealth() <= 0.0)	
 {	
 //! Item in hand is either not bandage/rag or is ruined	
 dst.item = unit.GetBandageToUse();	
@@ -1516,11 +1560,12 @@ dst.item = unit.GetWeaponToUse(true);
 if (dst.item)	
 return SUCCESS;	
 eAITarget target = unit.GetTarget();	
-if (target && target.GetEntity().IsInherited(ItemBase) && !target.GetEntity().GetHierarchyRootPlayer() && !target.GetEntity().IsSetForDeletion())	
+ItemBase targetItem;	
+if (target && Class.CastTo(targetItem, target.GetEntity()) && (targetItem.IsWeapon() || targetItem.Expansion_IsMeleeWeapon()) && !targetItem.GetHierarchyRootPlayer() && !targetItem.IsSetForDeletion())	
 {	
 if (target.GetDistanceSq(unit, true) < 2.25 && target.GetThreat(unit) > 0.1)	
 {	
-dst.item = ItemBase.Cast(target.GetEntity());	
+dst.item = targetItem;	
 }	
 }	
 if (dst.item)	
@@ -1551,6 +1596,73 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
+class Expansion_Master__TakeItemToInventory_Transition_0 extends eAITransition {
+private ExpansionState src;
+private Expansion_Master_TakeItemToInventory_State_0 dst;
+Expansion_Master_FSM_0 fsm;
+void Expansion_Master__TakeItemToInventory_Transition_0(ExpansionFSM _fsm) {
+Class.CastTo(fsm, _fsm);
+m_ClassName = "Expansion_Master__TakeItemToInventory_Transition_0";
+Class.CastTo(src, _fsm.GetState("ExpansionState"));
+Class.CastTo(dst, _fsm.GetState("Expansion_Master_TakeItemToInventory_State_0"));
+}
+override int Guard() {
+if (unit.IsFighting()) return FAIL;	
+if (unit.IsRestrained()) return FAIL;	
+if (unit.IsRaised()) return FAIL;	
+eAITarget target = unit.GetTarget();	
+ItemBase targetItem;	
+if (!target || !Class.CastTo(targetItem, target.GetEntity()) || targetItem.GetHierarchyRootPlayer() || targetItem.IsSetForDeletion())	
+return FAIL;	
+if (targetItem.IsWeapon() || targetItem.IsMagazine())	
+{	
+//! If target is gun or magazine (latter means gun w/o ammo is in inventory) and we have melee in hand, prepare swap	
+ItemBase hands = unit.GetItemInHands();	
+if (hands && hands.Expansion_IsMeleeWeapon())	
+{	
+//! Only drop if destroyed, else might target it again...	
+if (hands.IsDamageDestroyed())	
+unit.eAI_DropItem(hands);	
+else	
+unit.eAI_TakeItemToInventory(hands);	
+}	
+if (targetItem.IsWeapon())  //! Picking up guns is handled by TakeItemToHands state	
+return FAIL;	
+}	
+else if (targetItem.Expansion_IsMeleeWeapon())	
+{	
+return FAIL;	
+}	
+if (target.GetDistanceSq(unit, true) >= 2.25)	
+return FAIL;	
+if (target.GetThreat(unit) <= 0.1)	
+return FAIL;	
+if (!unit.eAI_FindFreeInventoryLocationFor(targetItem))	
+return FAIL;	
+dst.item = targetItem;	
+return SUCCESS;	
+}
+override ExpansionState GetSource() { return src; }
+override ExpansionState GetDestination() { return dst; }
+override string GetEvent() { return ""; }
+}
+class Expansion_Master_TakeItemToInventory_Idle_Transition_0 extends eAITransition {
+private Expansion_Master_TakeItemToInventory_State_0 src;
+private Expansion_Master_Idle_State_0 dst;
+Expansion_Master_FSM_0 fsm;
+void Expansion_Master_TakeItemToInventory_Idle_Transition_0(ExpansionFSM _fsm) {
+Class.CastTo(fsm, _fsm);
+m_ClassName = "Expansion_Master_TakeItemToInventory_Idle_Transition_0";
+Class.CastTo(src, _fsm.GetState("Expansion_Master_TakeItemToInventory_State_0"));
+Class.CastTo(dst, _fsm.GetState("Expansion_Master_Idle_State_0"));
+}
+override int Guard() {
+return SUCCESS;	
+}
+override ExpansionState GetSource() { return src; }
+override ExpansionState GetDestination() { return dst; }
+override string GetEvent() { return ""; }
+}
 class Expansion_Master__Weapon_Unjamming_Transition_0 extends eAITransition {
 private ExpansionState src;
 private Expansion_Master_Weapon_Unjamming_State_0 dst;
@@ -1562,7 +1674,8 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_Weapon_Unjamming_State_0"));
 }
 override int Guard() {
-if (unit.IsInMelee()) return FAIL;	
+if (unit.IsFighting()) return FAIL;	
+if (unit.IsRestrained()) return FAIL;	
 if (!Class.CastTo(dst.weapon, unit.GetItemInHands())) return FAIL;	
 if (!unit.GetWeaponManager().CanUnjam(dst.weapon)) return FAIL;	
 return SUCCESS;	
@@ -1616,6 +1729,7 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_Fighting_State_0"));
 }
 override int Guard() {
+if (unit.IsRestrained()) return FAIL;	
 if (unit.GetThreatToSelf() < 0.4) return FAIL;	
 if (unit.GetActionManager().GetRunningAction()) return FAIL;	
 return SUCCESS;	
@@ -1636,7 +1750,25 @@ Class.CastTo(dst, _fsm.GetState("Expansion_Master_Idle_State_0"));
 }
 override int Guard() {
 if (unit.GetThreatToSelf() > 0.2) return FAIL;	
-if (unit.IsInMelee()) return FAIL;	
+if (unit.IsFighting()) return FAIL;	
+return SUCCESS;	
+}
+override ExpansionState GetSource() { return src; }
+override ExpansionState GetDestination() { return dst; }
+override string GetEvent() { return ""; }
+}
+class Expansion_Master_Vehicles_Idle_Transition_0 extends eAITransition {
+private Expansion_Master_Vehicles_State_0 src;
+private Expansion_Master_Idle_State_0 dst;
+Expansion_Master_FSM_0 fsm;
+void Expansion_Master_Vehicles_Idle_Transition_0(ExpansionFSM _fsm) {
+Class.CastTo(fsm, _fsm);
+m_ClassName = "Expansion_Master_Vehicles_Idle_Transition_0";
+Class.CastTo(src, _fsm.GetState("Expansion_Master_Vehicles_State_0"));
+Class.CastTo(dst, _fsm.GetState("Expansion_Master_Idle_State_0"));
+}
+override int Guard() {
+if (unit.IsInTransport()) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
@@ -1660,37 +1792,21 @@ if (group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
 auto leader = group.GetLeader();	
 if (!leader || leader == unit) return FAIL;	
 if (!leader.IsInTransport()) return FAIL;	
-Transport transport;	
-if (!Class.CastTo(transport, leader.GetParent())) return FAIL;	
+CarScript car;	
+if (!Class.CastTo(car, leader.GetParent())) return FAIL;	
 //TODO: make this event based instead and store as a variable within CarScript.	
 //Prevents looping through the crew and insteads just compares a bool.	
-for (int i = 1; i < transport.CrewSize(); i++)	
+for (int i = 1; i < car.CrewSize(); i++)	
 {	
-if (transport.CrewMember(i) == null)	
+if (car.CrewMember(i) == null && !car.Expansion_IsSeatReservedByOther(i, unit))	
 {	
-dst.seat = i;	
-dst.entity = transport;	
+dst.sub_fsm.seat = i;	
+dst.sub_fsm.entity = car;	
+car.Expansion_ReserveSeat(i, unit);	
 return SUCCESS;	
 }	
 }	
 return FAIL;	
-}
-override ExpansionState GetSource() { return src; }
-override ExpansionState GetDestination() { return dst; }
-override string GetEvent() { return ""; }
-}
-class Expansion_Master_Vehicles_Idle_Transition_0 extends eAITransition {
-private Expansion_Master_Vehicles_State_0 src;
-private Expansion_Master_Idle_State_0 dst;
-Expansion_Master_FSM_0 fsm;
-void Expansion_Master_Vehicles_Idle_Transition_0(ExpansionFSM _fsm) {
-Class.CastTo(fsm, _fsm);
-m_ClassName = "Expansion_Master_Vehicles_Idle_Transition_0";
-Class.CastTo(src, _fsm.GetState("Expansion_Master_Vehicles_State_0"));
-Class.CastTo(dst, _fsm.GetState("Expansion_Master_Idle_State_0"));
-}
-override int Guard() {
-return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
@@ -1707,14 +1823,15 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_PlayEmote_State_0"));
 }
 override int Guard() {
+if (unit.IsRestrained()) return FAIL;	
 if (!unit.m_Expansion_EmoteID) return FAIL;	
 if (unit.GetEmoteManager().IsEmotePlaying() || unit.GetEmoteManager().Expansion_GetCurrentGesture() == unit.m_Expansion_EmoteID) return FAIL;	
 if (unit.GetThreatToSelf(true) > 0.2) return FAIL;	
-if (unit.IsInMelee()) return FAIL;	
+if (unit.IsFighting()) return FAIL;	
 if (unit.GetWeaponManager().IsRunning()) return FAIL;	
 if (unit.GetActionManager().GetRunningAction()) return FAIL;	
 auto hands = unit.GetItemInHands();	
-if (hands && (hands.IsInherited(BandageDressing) || hands.IsInherited(Rag)))	
+if (hands && hands.Expansion_CanBeUsedToBandage())	
 return FAIL;	
 return SUCCESS;	
 }
@@ -1756,6 +1873,7 @@ AddState(new Expansion_Master_Fighting_State_0(this));
 AddState(new Expansion_Master_Weapon_Reloading_State_0(this));
 AddState(new Expansion_Master_Weapon_Unjamming_State_0(this));
 AddState(new Expansion_Master_TakeItemToHands_State_0(this));
+AddState(new Expansion_Master_TakeItemToInventory_State_0(this));
 AddState(new Expansion_Master_Bandaging_Self_State_0(this));
 AddState(new Expansion_Master_PlayEmote_State_0(this));
 AddTransition(new Expansion_Master__Unconscious_Transition_0(this));
@@ -1771,14 +1889,15 @@ AddTransition(new Expansion_Master_FollowFormation_Idle_Transition_0(this));
 AddTransition(new Expansion_Master__Weapon_Reloading_Transition_0(this));
 AddTransition(new Expansion_Master__TakeItemToHands_Transition_0(this));
 AddTransition(new Expansion_Master_TakeItemToHands_Idle_Transition_0(this));
+AddTransition(new Expansion_Master__TakeItemToInventory_Transition_0(this));
+AddTransition(new Expansion_Master_TakeItemToInventory_Idle_Transition_0(this));
 AddTransition(new Expansion_Master__Weapon_Unjamming_Transition_0(this));
 AddTransition(new Expansion_Master_Weapon_Reloading_Idle_Transition_0(this));
 AddTransition(new Expansion_Master_Weapon_Unjamming_Idle_Transition_0(this));
 AddTransition(new Expansion_Master__Fighting_Transition_0(this));
 AddTransition(new Expansion_Master_Fighting_Idle_Transition_0(this));
-AddTransition(new Expansion_Master__Vehicles_Transition_0(this));
-AddTransition(new Expansion_Master__Vehicles_Transition_0(this));
 AddTransition(new Expansion_Master_Vehicles_Idle_Transition_0(this));
+AddTransition(new Expansion_Master__Vehicles_Transition_0(this));
 AddTransition(new Expansion_Master__PlayEmote_Transition_0(this));
 AddTransition(new Expansion_Master_PlayEmote_Idle_Transition_0(this));
 }
