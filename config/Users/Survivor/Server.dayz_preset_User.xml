@@ -472,7 +472,7 @@
     <input name="UAUIBack">
         <btn name="kEscape" />
         <btn name="x1B">
-            <event name="release" />
+            <event name="click" />
         </btn>
     </input>
     <input name="UAMenuSelect">
@@ -584,7 +584,7 @@
     </input>
     <input name="UAUICombine">
         <btn name="x1B">
-            <event name="click" />
+            <event name="hold" />
         </btn>
     </input>
     <input name="UAUIDragNDrop">

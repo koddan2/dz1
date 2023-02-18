@@ -1,5 +1,5 @@
 {
-    "m_Version": 4,
+    "m_Version": 5,
     "AccuracyMin": 0.15000000596046449,
     "AccuracyMax": 0.75,
     "ThreatDistanceLimit": 250.0,
@@ -10,5 +10,6 @@
     "MaximumDynamicPatrols": -4,
     "Vaulting": 0,
     "Manners": 0,
+    "CanRecruitGuards": 0,
     "PlayerFactions": []
 }

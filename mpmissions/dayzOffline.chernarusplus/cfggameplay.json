@@ -1,134 +1,100 @@
 {
-	"version": 119,
-	"GeneralData": {
-		"disableBaseDamage": 0,
-		"disableContainerDamage": 0,
-		"disableRespawnDialog": 0
+	"version": 120,
+	"GeneralData":
+	{
+		"disableBaseDamage": false,
+		"disableContainerDamage": false,
+		"disableRespawnDialog": false
 	},
-	"PlayerData": {
-		"disablePersonalLight": 1,
-		"StaminaData": {
-			"sprintStaminaModifierErc": 0.5,
+    "PlayerData":
+	{
+		"disablePersonalLight": true,
+		"StaminaData":
+		{
+			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 0.65,
-			"staminaMinCap": 5.0
+			"staminaKgToStaminaPercentPenalty": 0.45,
+			"staminaMinCap": 5.0,
+			"sprintSwimmingStaminaModifier": 1.0,
+			"sprintLadderStaminaModifier": 1.0,
+			"meleeStaminaModifier": 1.0,
+			"obstacleTraversalStaminaModifier": 1.0,
+			"holdBreathStaminaModifier": 1.0
 		},
-		"ShockHandlingData": {
+		"ShockHandlingData":
+		{
 			"shockRefillSpeedConscious": 5.0,
 			"shockRefillSpeedUnconscious": 1.0,
 			"allowRefillSpeedModifier": true
 		},
-		"MovementData": {
+		"MovementData":
+		{
 			"timeToStrafeJog": 0.1,
 			"rotationSpeedJog": 0.3,
 			"timeToSprint": 0.45,
 			"timeToStrafeSprint": 0.3,
-			"rotationSpeedSprint": 0.15
+			"rotationSpeedSprint": 0.15,
+			"allowStaminaAffectInertia": true
 		},
-		"DrowningData": {
+		"DrowningData":
+		{
 			"staminaDepletionSpeed": 10.0,
 			"healthDepletionSpeed": 10.0,
 			"shockDepletionSpeed": 10.0
 		}
 	},
-	"WorldsData": {
+	"WorldsData":
+	{
 		"lightingConfig": 1,
 		"objectSpawnersArr": [],
-		"--environmentMinTemps": [
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30,
-			-30
-		],
-		"--environmentMaxTemps": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0,
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"environmentMinTemps": [
-			-3,
-			-2,
-			0,
-			4,
-			9,
-			14,
-			18,
-			17,
-			12,
-			7,
-			4,
-			0
-		],
-		"environmentMaxTemps": [
-			3,
-			5,
-			7,
-			14,
-			19,
-			24,
-			26,
-			25,
-			21,
-			16,
-			10,
-			5
-		]
+		"environmentMinTemps": [-3.0, -2.0, 0.0, 4.0, 9.0, 14.0, 18.0, 17.0, 12.0, 7.0, 4.0, 0.0],
+		"environmentMaxTemps": [3.0, 5.0, 7.0, 14.0, 19.0, 24.0, 26.0, 25.0, 21.0, 16.0, 10.0, 5.0],
+		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
-	"BaseBuildingData": {
-		"HologramData": {
-			"disableIsCollidingBBoxCheck": 0,
-			"disableIsCollidingPlayerCheck": 0,
-			"disableIsClippingRoofCheck": 0,
-			"disableIsBaseViableCheck": 0,
-			"disableIsCollidingGPlotCheck": 0,
-			"disableIsCollidingAngleCheck": 0,
-			"disableIsPlacementPermittedCheck": 0,
-			"disableHeightPlacementCheck": 0,
-			"disableIsUnderwaterCheck": 0,
-			"disableIsInTerrainCheck": 0
+	"BaseBuildingData":
+	{
+		"HologramData":
+		{
+			"disableIsCollidingBBoxCheck": false,
+			"disableIsCollidingPlayerCheck": false,
+			"disableIsClippingRoofCheck": false,
+			"disableIsBaseViableCheck": false,
+			"disableIsCollidingGPlotCheck": false,
+			"disableIsCollidingAngleCheck": false,
+			"disableIsPlacementPermittedCheck": false,
+			"disableHeightPlacementCheck": false,
+			"disableIsUnderwaterCheck": false,
+			"disableIsInTerrainCheck": false
 		},
-		"ConstructionData": {
-			"disablePerformRoofCheck": 0,
-			"disableIsCollidingCheck": 0,
-			"disableDistanceCheck": 0
+		"ConstructionData":
+		{
+			"disablePerformRoofCheck": false,
+			"disableIsCollidingCheck": false,
+			"disableDistanceCheck": false
 		}
 	},
-	"UIData": {
-		"use3DMap": 0,
-		"HitIndicationData": {
-			"hitDirectionOverrideEnabled": 0,
+	"UIData":
+	{
+		"use3DMap": false,
+		"HitIndicationData":
+		{
+			"hitDirectionOverrideEnabled": false,
 			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
 			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
 			"hitDirectionMaxDuration": 2.0,
 			"hitDirectionBreakPointRelative": 0.2,
 			"hitDirectionScatter": 10.0,
-			"hitIndicationPostProcessEnabled": 1
+			"hitIndicationPostProcessEnabled": true
 		}
 	},
-	"MapData": {
-		"ignoreMapOwnership": 0,
-		"ignoreNavItemsOwnership": 0,
-		"displayPlayerPosition": 0,
-		"displayNavInfo": 1
+	"MapData":
+	{
+		"ignoreMapOwnership": false,
+		"ignoreNavItemsOwnership": false,
+		"displayPlayerPosition": false,
+		"displayNavInfo": true
 	}
 }
