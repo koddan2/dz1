@@ -11,7 +11,7 @@
 		"disablePersonalLight": true,
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 1.0,
+			"sprintStaminaModifierErc": 0.3,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
