@@ -1,4 +1,4 @@
-class Expansion_Vehicles_GoToVehicle_State_0 extends ExpansionState_GoToVehicle {
+class Expansion_Vehicles_GoToVehicle_State_0: ExpansionState_GoToVehicle {
 Expansion_Vehicles_FSM_0 fsm;
 void Expansion_Vehicles_GoToVehicle_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -19,7 +19,7 @@ if (super.OnUpdate(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return CONTINUE;
 }
 }
-class Expansion_Vehicles_GetInVehicle_State_0 extends ExpansionState_GetInVehicle {
+class Expansion_Vehicles_GetInVehicle_State_0: ExpansionState_GetInVehicle {
 Expansion_Vehicles_FSM_0 fsm;
 void Expansion_Vehicles_GetInVehicle_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -37,7 +37,7 @@ if (super.OnUpdate(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return CONTINUE;
 }
 }
-class Expansion_Vehicles_GetOutVehicle_State_0 extends ExpansionState_GetOutVehicle {
+class Expansion_Vehicles_GetOutVehicle_State_0: ExpansionState_GetOutVehicle {
 Expansion_Vehicles_FSM_0 fsm;
 void Expansion_Vehicles_GetOutVehicle_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -55,7 +55,7 @@ if (super.OnUpdate(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return CONTINUE;
 }
 }
-class Expansion_Vehicles_OpenVehicleDoor_State_0 extends ExpansionState_OpenVehicleDoor {
+class Expansion_Vehicles_OpenVehicleDoor_State_0: ExpansionState_OpenVehicleDoor {
 Expansion_Vehicles_FSM_0 fsm;
 void Expansion_Vehicles_OpenVehicleDoor_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -73,7 +73,7 @@ if (super.OnUpdate(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return CONTINUE;
 }
 }
-class Expansion_Vehicles_CloseVehicleDoor_State_0 extends ExpansionState_CloseVehicleDoor {
+class Expansion_Vehicles_CloseVehicleDoor_State_0: ExpansionState_CloseVehicleDoor {
 Expansion_Vehicles_FSM_0 fsm;
 void Expansion_Vehicles_CloseVehicleDoor_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -91,7 +91,7 @@ if (super.OnUpdate(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return CONTINUE;
 }
 }
-class Expansion_Vehicles_Sitting_State_0 extends eAIState {
+class Expansion_Vehicles_Sitting_State_0: eAIState {
 Expansion_Vehicles_FSM_0 fsm;
 void Expansion_Vehicles_Sitting_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -106,7 +106,7 @@ override int OnUpdate(float DeltaTime, int SimulationPrecision) {
 return EXIT;	
 }
 }
-class Expansion_Vehicles_GoToVehicle_OpenVehicleDoor_Transition_0 extends eAITransition {
+class Expansion_Vehicles_GoToVehicle_OpenVehicleDoor_Transition_0: eAITransition {
 private Expansion_Vehicles_GoToVehicle_State_0 src;
 private Expansion_Vehicles_OpenVehicleDoor_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -124,7 +124,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_OpenVehicleDoor_GetInVehicle_Transition_0 extends eAITransition {
+class Expansion_Vehicles_OpenVehicleDoor_GetInVehicle_Transition_0: eAITransition {
 private Expansion_Vehicles_OpenVehicleDoor_State_0 src;
 private Expansion_Vehicles_GetInVehicle_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -144,7 +144,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_GetInVehicle_CloseVehicleDoor_Transition_0 extends eAITransition {
+class Expansion_Vehicles_GetInVehicle_CloseVehicleDoor_Transition_0: eAITransition {
 private Expansion_Vehicles_GetInVehicle_State_0 src;
 private Expansion_Vehicles_CloseVehicleDoor_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -161,7 +161,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_CloseVehicleDoor_Sitting_Transition_0 extends eAITransition {
+class Expansion_Vehicles_CloseVehicleDoor_Sitting_Transition_0: eAITransition {
 private Expansion_Vehicles_CloseVehicleDoor_State_0 src;
 private Expansion_Vehicles_Sitting_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -179,7 +179,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_Sitting_OpenVehicleDoor_Transition_0 extends eAITransition {
+class Expansion_Vehicles_Sitting_OpenVehicleDoor_Transition_0: eAITransition {
 private Expansion_Vehicles_Sitting_State_0 src;
 private Expansion_Vehicles_OpenVehicleDoor_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -201,7 +201,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_OpenVehicleDoor_GetOutVehicle_Transition_0 extends eAITransition {
+class Expansion_Vehicles_OpenVehicleDoor_GetOutVehicle_Transition_0: eAITransition {
 private Expansion_Vehicles_OpenVehicleDoor_State_0 src;
 private Expansion_Vehicles_GetOutVehicle_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -219,7 +219,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_GetOutVehicle_CloseVehicleDoor_Transition_0 extends eAITransition {
+class Expansion_Vehicles_GetOutVehicle_CloseVehicleDoor_Transition_0: eAITransition {
 private Expansion_Vehicles_GetOutVehicle_State_0 src;
 private Expansion_Vehicles_CloseVehicleDoor_State_0 dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -236,7 +236,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_CloseVehicleDoor__Transition_0 extends eAITransition {
+class Expansion_Vehicles_CloseVehicleDoor__Transition_0: eAITransition {
 private Expansion_Vehicles_CloseVehicleDoor_State_0 src;
 private ExpansionState dst;
 Expansion_Vehicles_FSM_0 fsm;
@@ -254,7 +254,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Vehicles_FSM_0 extends eAIFSM {
+class Expansion_Vehicles_FSM_0: eAIFSM {
 EntityAI entity;
 int seat;
 void Expansion_Vehicles_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
@@ -282,7 +282,7 @@ AddTransition(new Expansion_Vehicles_CloseVehicleDoor__Transition_0(this));
 ExpansionFSM Create_Expansion_Vehicles_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
 return new Expansion_Vehicles_FSM_0(owner, parentState);
 }
-class Expansion_Fighting_Positioning_State_0 extends eAIState {
+class Expansion_Fighting_Positioning_State_0: eAIState {
 Expansion_Fighting_FSM_0 fsm;
 vector position;
 float time;
@@ -395,7 +395,7 @@ unit.RaiseWeapon(false);
 return EXIT;	
 }
 }
-class Expansion_Fighting_FireWeapon_State_0 extends eAIState {
+class Expansion_Fighting_FireWeapon_State_0: eAIState {
 Expansion_Fighting_FSM_0 fsm;
 float time;
 eAITarget target;
@@ -434,7 +434,7 @@ unit.TryFireWeapon();
 return EXIT;	
 }
 }
-class Expansion_Fighting_Melee_State_0 extends eAIState {
+class Expansion_Fighting_Melee_State_0: eAIState {
 Expansion_Fighting_FSM_0 fsm;
 float time;
 eAITarget target;
@@ -512,7 +512,7 @@ movementDirection = 0;
 return EXIT;	
 }
 }
-class Expansion_Fighting__Melee_Transition_0 extends eAITransition {
+class Expansion_Fighting__Melee_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Fighting_Melee_State_0 dst;
 Expansion_Fighting_FSM_0 fsm;
@@ -526,14 +526,14 @@ override int Guard() {
 if (unit.IsRestrained()) return FAIL;	
 // we are targetting an entity?	
 dst.target = unit.GetTarget();	
-if (!dst.target || !dst.target.IsMeleeViable(unit)) return FAIL;	
+if (!dst.target || !dst.target.IsMeleeViable(unit) || dst.target.GetThreat(unit) < 0.4) return FAIL;	
 return SUCCESS;	
 }
 override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Fighting__FireWeapon_Transition_0 extends eAITransition {
+class Expansion_Fighting__FireWeapon_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Fighting_FireWeapon_State_0 dst;
 Expansion_Fighting_FSM_0 fsm;
@@ -577,7 +577,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Fighting__Positioning_Transition_0 extends eAITransition {
+class Expansion_Fighting__Positioning_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Fighting_Positioning_State_0 dst;
 Expansion_Fighting_FSM_0 fsm;
@@ -594,7 +594,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Fighting_FSM_0 extends eAIFSM {
+class Expansion_Fighting_FSM_0: eAIFSM {
 int LastFireTime;
 int TimeBetweenFiring = 5000;
 void Expansion_Fighting_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
@@ -614,7 +614,7 @@ AddTransition(new Expansion_Fighting__Positioning_Transition_0(this));
 ExpansionFSM Create_Expansion_Fighting_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
 return new Expansion_Fighting_FSM_0(owner, parentState);
 }
-class Expansion_Reloading_Start_State_0 extends eAIState {
+class Expansion_Reloading_Start_State_0: eAIState {
 Expansion_Reloading_FSM_0 fsm;
 void Expansion_Reloading_Start_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -630,7 +630,7 @@ override int OnUpdate(float DeltaTime, int SimulationPrecision) {
 return EXIT;	
 }
 }
-class Expansion_Reloading_Reloading_State_0 extends eAIState {
+class Expansion_Reloading_Reloading_State_0: eAIState {
 Expansion_Reloading_FSM_0 fsm;
 Magazine magazine;
 float time;
@@ -680,7 +680,7 @@ fsm.failed_attempts = 0;
 return EXIT;	
 }
 }
-class Expansion_Reloading_Reloading_Fail_State_0 extends eAIState {
+class Expansion_Reloading_Reloading_Fail_State_0: eAIState {
 Expansion_Reloading_FSM_0 fsm;
 float time;
 void Expansion_Reloading_Reloading_Fail_State_0(ExpansionFSM _fsm) {
@@ -702,7 +702,7 @@ return CONTINUE;
 return EXIT;	
 }
 }
-class Expansion_Reloading_Removing_State_0 extends eAIState {
+class Expansion_Reloading_Removing_State_0: eAIState {
 Expansion_Reloading_FSM_0 fsm;
 void Expansion_Reloading_Removing_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -721,7 +721,7 @@ unit.eAI_DropItem(fsm.weapon);
 return CONTINUE;	
 }
 }
-class Expansion_Reloading_Start_Reloading_Transition_0 extends eAITransition {
+class Expansion_Reloading_Start_Reloading_Transition_0: eAITransition {
 private Expansion_Reloading_Start_State_0 src;
 private Expansion_Reloading_Reloading_State_0 dst;
 Expansion_Reloading_FSM_0 fsm;
@@ -745,7 +745,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Reloading_Start_Reloading_Fail_Transition_0 extends eAITransition {
+class Expansion_Reloading_Start_Reloading_Fail_Transition_0: eAITransition {
 private Expansion_Reloading_Start_State_0 src;
 private Expansion_Reloading_Reloading_Fail_State_0 dst;
 Expansion_Reloading_FSM_0 fsm;
@@ -762,7 +762,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Reloading_Reloading_Fail_Removing_Transition_0 extends eAITransition {
+class Expansion_Reloading_Reloading_Fail_Removing_Transition_0: eAITransition {
 private Expansion_Reloading_Reloading_Fail_State_0 src;
 private Expansion_Reloading_Removing_State_0 dst;
 Expansion_Reloading_FSM_0 fsm;
@@ -779,7 +779,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Reloading_Reloading__Transition_0 extends eAITransition {
+class Expansion_Reloading_Reloading__Transition_0: eAITransition {
 private Expansion_Reloading_Reloading_State_0 src;
 private ExpansionState dst;
 Expansion_Reloading_FSM_0 fsm;
@@ -796,7 +796,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Reloading_Removing__Transition_0 extends eAITransition {
+class Expansion_Reloading_Removing__Transition_0: eAITransition {
 private Expansion_Reloading_Removing_State_0 src;
 private ExpansionState dst;
 Expansion_Reloading_FSM_0 fsm;
@@ -813,7 +813,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Reloading_FSM_0 extends eAIFSM {
+class Expansion_Reloading_FSM_0: eAIFSM {
 Weapon_Base weapon;
 int last_attempt_time;
 int failed_attempts;
@@ -837,7 +837,7 @@ AddTransition(new Expansion_Reloading_Removing__Transition_0(this));
 ExpansionFSM Create_Expansion_Reloading_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
 return new Expansion_Reloading_FSM_0(owner, parentState);
 }
-class Expansion_Master_Idle_State_0 extends eAIState {
+class Expansion_Master_Idle_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 void Expansion_Master_Idle_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -867,7 +867,7 @@ override int OnUpdate(float DeltaTime, int SimulationPrecision) {
 return EXIT;	
 }
 }
-class Expansion_Master_Unconscious_State_0 extends eAIState {
+class Expansion_Master_Unconscious_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 float time;
 void Expansion_Master_Unconscious_State_0(ExpansionFSM _fsm) {
@@ -893,7 +893,7 @@ time += DeltaTime;  //! Allow time to stand up so we don't instantly start firin
 return CONTINUE;	
 }
 }
-class Expansion_Master_Trading_State_0 extends eAIState {
+class Expansion_Master_Trading_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 void Expansion_Master_Trading_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -913,7 +913,7 @@ return CONTINUE;
 return EXIT;	
 }
 }
-class Expansion_Master_FollowFormation_State_0 extends eAIState {
+class Expansion_Master_FollowFormation_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 eAIGroup group;
 int speedLimit;
@@ -938,7 +938,7 @@ unit.SetMovementSpeedLimit(3);  //! Make sure AI can reach formation positions w
 return EXIT;	
 }
 }
-class Expansion_Master_TraversingWaypoints_State_0 extends eAIState {
+class Expansion_Master_TraversingWaypoints_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 ref TVectorArray path;
 eAIWaypointBehavior behaviour;
@@ -1028,7 +1028,7 @@ unit.GetGroup().m_BackTracking = backtracking;
 return EXIT;	
 }
 }
-class Expansion_Master_Vehicles_State_0 extends eAIState {
+class Expansion_Master_Vehicles_State_0: eAIState {
 Expansion_Vehicles_FSM_0 sub_fsm;
 Expansion_Master_FSM_0 fsm;
 void Expansion_Master_Vehicles_State_0(ExpansionFSM _fsm) {
@@ -1066,7 +1066,7 @@ if (hasDoor && sub_fsm.entity.GetAnimationPhase(source) > 0.5) return CONTINUE;
 return EXIT;	
 }
 }
-class Expansion_Master_Fighting_State_0 extends eAIState {
+class Expansion_Master_Fighting_State_0: eAIState {
 Expansion_Fighting_FSM_0 sub_fsm;
 Expansion_Master_FSM_0 fsm;
 void Expansion_Master_Fighting_State_0(ExpansionFSM _fsm) {
@@ -1090,7 +1090,7 @@ if (m_SubFSM.Update(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return EXIT;	
 }
 }
-class Expansion_Master_Weapon_Reloading_State_0 extends eAIState {
+class Expansion_Master_Weapon_Reloading_State_0: eAIState {
 Expansion_Reloading_FSM_0 sub_fsm;
 Expansion_Master_FSM_0 fsm;
 void Expansion_Master_Weapon_Reloading_State_0(ExpansionFSM _fsm) {
@@ -1114,7 +1114,7 @@ if (m_SubFSM.Update(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
 return CONTINUE;
 }
 }
-class Expansion_Master_Weapon_Unjamming_State_0 extends eAIState {
+class Expansion_Master_Weapon_Unjamming_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 Weapon_Base weapon;
 float time;
@@ -1168,7 +1168,7 @@ failed_attempts = 0;
 return EXIT;	
 }
 }
-class Expansion_Master_TakeItemToHands_State_0 extends eAIState {
+class Expansion_Master_TakeItemToHands_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 ItemBase item;
 float time;
@@ -1193,7 +1193,7 @@ return CONTINUE;
 return EXIT;	
 }
 }
-class Expansion_Master_TakeItemToInventory_State_0 extends eAIState {
+class Expansion_Master_TakeItemToInventory_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 ItemBase item;
 float time;
@@ -1218,7 +1218,7 @@ return CONTINUE;
 return EXIT;	
 }
 }
-class Expansion_Master_Bandaging_Self_State_0 extends eAIState {
+class Expansion_Master_Bandaging_Self_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 int last_bandage_attempt_time;
 ItemBase bandage;
@@ -1242,7 +1242,7 @@ override void OnExit(string Event, bool Aborted, ExpansionState To) {
 unit.Expansion_GetUp(true);	
 if (bandage)	
 {	
-if (bandage.GetHealth() <= 0.0 || !unit.eAI_TakeItemToInventory(bandage))	
+if (bandage.IsDamageDestroyed() || !unit.eAI_TakeItemToInventory(bandage))	
 {	
 unit.eAI_DropItem(bandage);	
 }	
@@ -1266,7 +1266,7 @@ else
 {	
 if (bandage)	
 {	
-if (unit.IsBleeding() && bandage.GetHealth() > 0.0)	
+if (unit.IsBleeding() && !bandage.IsDamageDestroyed())	
 {	
 last_bandage_attempt_time = GetGame().GetTime();	
 time = 0;	
@@ -1278,7 +1278,7 @@ return CONTINUE;
 return EXIT;	
 }
 }
-class Expansion_Master_PlayEmote_State_0 extends eAIState {
+class Expansion_Master_PlayEmote_State_0: eAIState {
 Expansion_Master_FSM_0 fsm;
 void Expansion_Master_PlayEmote_State_0(ExpansionFSM _fsm) {
 Class.CastTo(fsm, _fsm);
@@ -1294,7 +1294,7 @@ override int OnUpdate(float DeltaTime, int SimulationPrecision) {
 return EXIT;	
 }
 }
-class Expansion_Master__Unconscious_Transition_0 extends eAITransition {
+class Expansion_Master__Unconscious_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Unconscious_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1312,7 +1312,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Unconscious_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Unconscious_Idle_Transition_0: eAITransition {
 private Expansion_Master_Unconscious_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1330,7 +1330,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__Trading_Transition_0 extends eAITransition {
+class Expansion_Master__Trading_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Trading_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1348,7 +1348,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Trading_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Trading_Idle_Transition_0: eAITransition {
 private Expansion_Master_Trading_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1366,7 +1366,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__Bandaging_Self_Transition_0 extends eAITransition {
+class Expansion_Master__Bandaging_Self_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Bandaging_Self_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1383,7 +1383,7 @@ if (!unit.IsBleeding()) return FAIL;
 if (GetGame().GetTime() - dst.last_bandage_attempt_time < 4000) return FAIL;	
 auto hands = unit.GetItemInHands();	
 if (!hands) return FAIL;	
-if (!hands.Expansion_CanBeUsedToBandage() || hands.GetHealth() <= 0.0) return FAIL;	
+if (!hands.Expansion_CanBeUsedToBandage() || hands.IsDamageDestroyed()) return FAIL;	
 dst.bandage = hands;	
 return SUCCESS;	
 }
@@ -1391,7 +1391,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Bandaging_Self_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Bandaging_Self_Idle_Transition_0: eAITransition {
 private Expansion_Master_Bandaging_Self_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1410,7 +1410,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Idle_FollowFormation_Transition_0 extends eAITransition {
+class Expansion_Master_Idle_FollowFormation_Transition_0: eAITransition {
 private Expansion_Master_Idle_State_0 src;
 private Expansion_Master_FollowFormation_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1433,7 +1433,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Idle_TraversingWaypoints_Transition_0 extends eAITransition {
+class Expansion_Master_Idle_TraversingWaypoints_Transition_0: eAITransition {
 private Expansion_Master_Idle_State_0 src;
 private Expansion_Master_TraversingWaypoints_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1456,7 +1456,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_TraversingWaypoints_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_TraversingWaypoints_Idle_Transition_0: eAITransition {
 private Expansion_Master_TraversingWaypoints_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1475,7 +1475,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_FollowFormation_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_FollowFormation_Idle_Transition_0: eAITransition {
 private Expansion_Master_FollowFormation_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1495,7 +1495,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__Weapon_Reloading_Transition_0 extends eAITransition {
+class Expansion_Master__Weapon_Reloading_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Weapon_Reloading_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1522,7 +1522,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__TakeItemToHands_Transition_0 extends eAITransition {
+class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_TakeItemToHands_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1538,17 +1538,23 @@ if (unit.IsRestrained()) return FAIL;
 //! Taking items to hands while raised breaks hands! Wait until lowered	
 if (unit.IsRaised()) return FAIL;	
 ItemBase hands = unit.GetItemInHands();	
+//! If ruined, drop	
+if (hands && hands.IsDamageDestroyed())	
+{	
+unit.eAI_DropItem(hands);	
+hands = null;	
+}	
 //! First check if we want to switch to bandage	
 if (unit.IsBleeding() && unit.GetThreatToSelf(true) < 0.4)	
 {	
-if (!hands || !hands.Expansion_CanBeUsedToBandage() || hands.GetHealth() <= 0.0)	
+if (!hands || !hands.Expansion_CanBeUsedToBandage())	
 {	
 //! Item in hand is either not bandage/rag or is ruined	
 dst.item = unit.GetBandageToUse();	
 if (dst.item)	
 {	
-//! If ruined, drop, else put in inventory (shoulder slot or cargo)	
-if (hands && (hands.GetHealth() <= 0.0 || !unit.eAI_TakeItemToInventory(hands)))	
+//! Try to put in inventory (shoulder slot or cargo), drop if not possible	
+if (hands && !unit.eAI_TakeItemToInventory(hands))	
 unit.eAI_DropItem(hands);	
 return SUCCESS;	
 }	
@@ -1579,7 +1585,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_TakeItemToHands_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_TakeItemToHands_Idle_Transition_0: eAITransition {
 private Expansion_Master_TakeItemToHands_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1596,7 +1602,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__TakeItemToInventory_Transition_0 extends eAITransition {
+class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_TakeItemToInventory_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1613,6 +1619,8 @@ if (unit.IsRaised()) return FAIL;
 eAITarget target = unit.GetTarget();	
 ItemBase targetItem;	
 if (!target || !Class.CastTo(targetItem, target.GetEntity()) || targetItem.GetHierarchyRootPlayer() || targetItem.IsSetForDeletion())	
+return FAIL;	
+if (target.GetDistanceSq(unit, true) >= 2.25)	
 return FAIL;	
 if (targetItem.IsWeapon() || targetItem.IsMagazine())	
 {	
@@ -1633,8 +1641,6 @@ else if (targetItem.Expansion_IsMeleeWeapon())
 {	
 return FAIL;	
 }	
-if (target.GetDistanceSq(unit, true) >= 2.25)	
-return FAIL;	
 if (target.GetThreat(unit) <= 0.1)	
 return FAIL;	
 if (!unit.eAI_FindFreeInventoryLocationFor(targetItem))	
@@ -1646,7 +1652,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_TakeItemToInventory_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_TakeItemToInventory_Idle_Transition_0: eAITransition {
 private Expansion_Master_TakeItemToInventory_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1663,7 +1669,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__Weapon_Unjamming_Transition_0 extends eAITransition {
+class Expansion_Master__Weapon_Unjamming_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Weapon_Unjamming_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1684,7 +1690,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Weapon_Reloading_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Weapon_Reloading_Idle_Transition_0: eAITransition {
 private Expansion_Master_Weapon_Reloading_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1701,7 +1707,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Weapon_Unjamming_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Weapon_Unjamming_Idle_Transition_0: eAITransition {
 private Expansion_Master_Weapon_Unjamming_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1718,7 +1724,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__Fighting_Transition_0 extends eAITransition {
+class Expansion_Master__Fighting_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Fighting_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1738,7 +1744,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Fighting_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Fighting_Idle_Transition_0: eAITransition {
 private Expansion_Master_Fighting_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1757,7 +1763,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_Vehicles_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_Vehicles_Idle_Transition_0: eAITransition {
 private Expansion_Master_Vehicles_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1775,7 +1781,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__Vehicles_Transition_0 extends eAITransition {
+class Expansion_Master__Vehicles_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_Vehicles_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1812,7 +1818,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master__PlayEmote_Transition_0 extends eAITransition {
+class Expansion_Master__PlayEmote_Transition_0: eAITransition {
 private ExpansionState src;
 private Expansion_Master_PlayEmote_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1839,7 +1845,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_PlayEmote_Idle_Transition_0 extends eAITransition {
+class Expansion_Master_PlayEmote_Idle_Transition_0: eAITransition {
 private Expansion_Master_PlayEmote_State_0 src;
 private Expansion_Master_Idle_State_0 dst;
 Expansion_Master_FSM_0 fsm;
@@ -1856,7 +1862,7 @@ override ExpansionState GetSource() { return src; }
 override ExpansionState GetDestination() { return dst; }
 override string GetEvent() { return ""; }
 }
-class Expansion_Master_FSM_0 extends eAIFSM {
+class Expansion_Master_FSM_0: eAIFSM {
 void Expansion_Master_FSM_0(ExpansionFSMOwnerType owner, ExpansionState parentState) {
 m_Name = "Master";
 m_DefaultState = "Expansion_Master_Idle_State_0";
