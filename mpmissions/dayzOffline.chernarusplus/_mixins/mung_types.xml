@@ -137,7 +137,7 @@
     <nominal>5</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -153,7 +153,7 @@
     <nominal>5</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -169,7 +169,7 @@
     <nominal>5</nominal>
     <lifetime>1440</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

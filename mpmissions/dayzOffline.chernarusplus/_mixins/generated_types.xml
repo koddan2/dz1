@@ -69,8 +69,8 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_quad_tan">
-    <nominal>34</nominal>
-    <min>17</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <usage name="Police" />
