@@ -430,6 +430,16 @@ return EXIT;
 // waiting for the weapon to be raised	
 return CONTINUE;	
 }	
+auto direction = vector.Direction(unit.GetPosition() + "0 1.5 0", aimPosition).Normalized();	
+if (vector.Dot(unit.GetAimDirection(), direction) < 0.75)	
+{	
+if (time >= 0.5)	
+{	
+return EXIT;	
+}	
+// waiting for unit to face target	
+return CONTINUE;	
+}	
 unit.TryFireWeapon();	
 return EXIT;	
 }
@@ -901,7 +911,7 @@ m_ClassName = "Expansion_Master_Trading_State_0";
 m_Name = "Trading";
 }
 override void OnEntry(string Event, ExpansionState From) {
-unit.OverrideTargetPosition(unit.GetPosition());	
+unit.OverrideTargetPosition(unit.GetPosition() + unit.GetDirection() * unit.Expansion_GetMovementSpeed());	
 }
 override void OnExit(string Event, bool Aborted, ExpansionState To) {
 }
@@ -956,7 +966,7 @@ override void OnEntry(string Event, ExpansionState From) {
 path = unit.GetGroup().GetWaypoints();	
 if (path.Count() == 0)	
 {	
-path = { unit.GetPosition() };	
+path = { unit.GetPosition() + unit.GetDirection() * unit.Expansion_GetMovementSpeed() };	
 }	
 behaviour = unit.GetGroup().GetWaypointBehaviour();	
 unit.Expansion_GetUp();	
