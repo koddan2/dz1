@@ -61,6 +61,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
 		<file name="FOG_Types.xml" type="types" />
 
+		<file name="AJs_Creatures_Types.xml" type="types" />
+
 		<file name="rffsheli_types.xml" type="types" />
 		<file name="rffsheli_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
