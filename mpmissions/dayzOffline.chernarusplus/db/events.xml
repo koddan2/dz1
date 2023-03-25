@@ -209,6 +209,9 @@
 
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="13" type="CDAJ_ZmbM_Mutant" />
+
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedArmyHard">
@@ -300,6 +303,8 @@
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant_Bloody" />
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant_Pale" />
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedCityTier1">
@@ -331,6 +336,8 @@
 
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedFirefighter">
@@ -351,6 +358,8 @@
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedIndustrial">
@@ -395,6 +404,8 @@
             <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Yellow"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedMedic">
@@ -426,6 +437,8 @@
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_PatientSkinny"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedNBC">
@@ -482,6 +495,8 @@
             <child lootmax="5" lootmin="0" max="20" min="0" type="ZmbM_PolicemanSpecForce_Heavy"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedPoliceHard">
@@ -502,6 +517,8 @@
             <child lootmax="5" lootmin="0" max="10" min="0" type="ZmbM_PrisonerSkinny"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedPrisoner">
@@ -521,6 +538,8 @@
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_PrisonerSkinny"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedReligious">
@@ -540,6 +559,8 @@
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_priestPopSkinny"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedSanta">
@@ -594,6 +615,8 @@
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Winter"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedVillage">
@@ -636,6 +659,8 @@
             <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_VillagerOld_White"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="InfectedVillageTier1">
@@ -662,6 +687,8 @@
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_VillagerOld_Green"/>
             <!-- LUL -->
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
+            <!-- LEWL -->
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="ItemPlanks">
