@@ -2,8 +2,8 @@
 <types>
   <type name="CDAJ_ZmbM_Clown">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
-    <restock>0</restock>
+    <lifetime>7200</lifetime>
+    <restock>7200</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -13,8 +13,8 @@
   </type>
   <type name="CDAJ_ZmbM_Dark_Heavy">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
-    <restock>0</restock>
+    <lifetime>7200</lifetime>
+    <restock>7200</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -27,7 +27,7 @@
   </type>
   <type name="CDAJ_ZmbM_Demon">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -37,7 +37,7 @@
   </type>
   <type name="CDAJ_ZmbM_LostInfected">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -47,7 +47,7 @@
   </type>
   <type name="CDAJ_ZmbM_Mutant">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -57,7 +57,7 @@
   </type>
   <type name="CDAJ_ZmbM_Mutant_Bloody">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -67,7 +67,7 @@
   </type>
   <type name="CDAJ_ZmbM_Mutant_Pale">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -77,7 +77,7 @@
   </type>
   <type name="CDAJ_ZmbM_TribeDemon">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -87,7 +87,7 @@
   </type>
   <type name="CDAJ_ZmbM_TribeDemon_Pale">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -97,7 +97,7 @@
   </type>
   <type name="CDAJ_ZmbM_TribeDemon_White">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -107,7 +107,7 @@
   </type>
   <type name="CDAJ_ZmbM_NBC_Red">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -117,7 +117,7 @@
   </type>
   <type name="CDAJ_ZmbM_NBC_BlueLight">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -127,7 +127,7 @@
   </type>
   <type name="CDAJ_ZmbM_NBC_Green">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -137,7 +137,7 @@
   </type>
   <type name="CDAJ_ZmbM_NBC_Rainbow">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -147,7 +147,7 @@
   </type>
   <type name="CDAJ_ZmbM_NBC_Space">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -157,7 +157,7 @@
   </type>
   <type name="CDAJ_ZmbM_NBC_ERDL">
     <nominal>0</nominal>
-    <lifetime>900</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>

@@ -1187,7 +1187,7 @@
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant_Bloody" />
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant_Pale" />
             <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
-            <child lootmax="5" lootmin="0" max="0" min="5" type="CDAJ_ZmbM_Clown" />
+            <!-- <child lootmax="5" lootmin="0" max="0" min="5" type="CDAJ_ZmbM_Clown" /> -->
         </children>
     </event>
     <event name="InfectedNBC">
