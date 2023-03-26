@@ -64,10 +64,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_kar98k">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -75,9 +75,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -2726,10 +2723,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_Barrel_762">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2737,9 +2734,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -2747,10 +2741,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_Barrel_556">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2758,9 +2752,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -2812,10 +2803,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_LeeEnfield">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2823,9 +2814,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -2833,10 +2821,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_M1Garand">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2844,9 +2832,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -3857,10 +3842,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Barrel_76239">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3868,9 +3853,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -3878,10 +3860,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Barrel_76254">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3889,9 +3871,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -4804,10 +4783,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Deagle">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4815,9 +4794,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -4825,10 +4801,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Deagle_Magazine_7rnd">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -4836,9 +4812,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5078,10 +5051,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_PP91">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5089,9 +5062,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5099,10 +5069,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_PP91_Mag_20rnd">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -5110,9 +5080,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5289,10 +5256,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MP7A1">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5300,9 +5267,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5310,10 +5274,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MP7A1_Mag_40rnd">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -5321,9 +5285,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5541,10 +5502,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_STG44">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5552,9 +5513,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5562,10 +5520,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_STG44_Magazine_30rnd">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -5573,9 +5531,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5625,10 +5580,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_BAR">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5636,9 +5591,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -5646,10 +5598,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_BAR_Magazine_20rnd">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -5657,9 +5609,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -6249,10 +6198,10 @@
   </type>
   <!-- Update 1.15.5 -->
   <type name="TTC_44Magnum">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>0</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -6260,9 +6209,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -6270,10 +6216,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_44Magnum_Black">
-    <nominal>3</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>8</min>
     <quantmin>0</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -6281,9 +6227,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -6291,10 +6234,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AmmoBox_44Mag">
-    <nominal>40</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6302,9 +6245,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />
@@ -6312,10 +6252,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Ammo_44Mag">
-    <nominal>40</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>10</quantmin>
     <quantmax>40</quantmax>
     <cost>100</cost>
@@ -6324,9 +6264,6 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Village" />
     <usage name="Town" />

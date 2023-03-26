@@ -18150,7 +18150,7 @@
     },
     {
       "ClassName": "TTC_kar98k",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22956,7 +22956,7 @@
     },
     {
       "ClassName": "TTC_LeeEnfield",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22975,7 +22975,7 @@
     },
     {
       "ClassName": "TTC_M1Garand",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26588,7 +26588,7 @@
     },
     {
       "ClassName": "TTC_Deagle",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26632,7 +26632,7 @@
     },
     {
       "ClassName": "TTC_Deagle_Magazine_7rnd",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27201,7 +27201,7 @@
     },
     {
       "ClassName": "TTC_PP91",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27245,7 +27245,7 @@
     },
     {
       "ClassName": "TTC_PP91_Mag_20rnd",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27514,7 +27514,7 @@
     },
     {
       "ClassName": "TTC_MP7A1",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27606,7 +27606,7 @@
     },
     {
       "ClassName": "TTC_MP7A1_Mag_40rnd",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27912,7 +27912,7 @@
     },
     {
       "ClassName": "TTC_STG44",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27956,7 +27956,7 @@
     },
     {
       "ClassName": "TTC_STG44_Magazine_30rnd",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28013,7 +28013,7 @@
     },
     {
       "ClassName": "TTC_BAR",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28057,7 +28057,7 @@
     },
     {
       "ClassName": "TTC_BAR_Magazine_20rnd",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29451,7 +29451,7 @@
     },
     {
       "ClassName": "TTC_44Magnum",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29470,7 +29470,7 @@
     },
     {
       "ClassName": "TTC_44Magnum_Black",
-      "Chance": 0.003333333432674408,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29489,7 +29489,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_44Mag",
-      "Chance": 0.0444444465637207,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29508,7 +29508,7 @@
     },
     {
       "ClassName": "TTC_Ammo_44Mag",
-      "Chance": 0.0444444465637207,
+      "Chance": 0.02222222328186035,
       "Quantity": {
         "Min": 0,
         "Max": 0
