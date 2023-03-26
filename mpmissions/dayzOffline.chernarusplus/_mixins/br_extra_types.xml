@@ -7,7 +7,7 @@
   <!-- Advanced Weapon Scopes Mod Start -->
   <type name="AD_B13Mount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -25,7 +25,7 @@
   </type>
   <type name="AD_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -43,7 +43,7 @@
   </type>
   <type name="AD_ACOG">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -61,7 +61,7 @@
   </type>
   <type name="AD_ACOG_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -79,7 +79,7 @@
   </type>
   <type name="AD_ACOG_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -97,7 +97,7 @@
   </type>
   <type name="AD_SpecterDR">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -115,7 +115,7 @@
   </type>
   <type name="AD_SpecterDR_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -133,7 +133,7 @@
   </type>
   <type name="AD_SpecterDR_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -151,7 +151,7 @@
   </type>
   <type name="AD_ACOG_RMR">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -169,7 +169,7 @@
   </type>
   <type name="AD_ACOG_RMR_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -187,7 +187,7 @@
   </type>
   <type name="AD_ACOG_RMR_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -205,7 +205,7 @@
   </type>
   <type name="AD_DHF5">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -223,7 +223,7 @@
   </type>
   <type name="AD_DHF5_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -241,7 +241,7 @@
   </type>
   <type name="AD_DHF5_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -259,7 +259,7 @@
   </type>
   <type name="AD_MRS">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -277,7 +277,7 @@
   </type>
   <type name="AD_MRS_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -295,7 +295,7 @@
   </type>
   <type name="AD_MRS_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -313,7 +313,7 @@
   </type>
   <type name="AD_NFATACR">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -331,7 +331,7 @@
   </type>
   <type name="AD_NFATACR_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -349,7 +349,7 @@
   </type>
   <type name="AD_NFATACR_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -367,7 +367,7 @@
   </type>
   <type name="AD_NFATACR_1_8">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -385,7 +385,7 @@
   </type>
   <type name="AD_NFATACR_1_8_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -403,7 +403,7 @@
   </type>
   <type name="AD_NFATACR_1_8_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -421,7 +421,7 @@
   </type>
   <type name="AD_OKP7">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -439,7 +439,7 @@
   </type>
   <type name="AD_OKP7_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -457,7 +457,7 @@
   </type>
   <type name="AD_OKP7_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -475,7 +475,7 @@
   </type>
   <type name="AD_PVS4">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -493,7 +493,7 @@
   </type>
   <type name="AD_PVS4_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -511,7 +511,7 @@
   </type>
   <type name="AD_PVS4_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -529,7 +529,7 @@
   </type>
   <type name="AD_RMR">
     <nominal>8</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -546,7 +546,7 @@
   </type>
   <type name="AD_RMR_LM">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -564,7 +564,7 @@
   </type>
   <type name="AD_RMR_LM_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -582,7 +582,7 @@
   </type>
   <type name="AD_RMR_LM_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -600,7 +600,7 @@
   </type>
   <type name="AD_RMR_TM">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -618,7 +618,7 @@
   </type>
   <type name="AD_RMR_TM_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -636,7 +636,7 @@
   </type>
   <type name="AD_RMR_TM_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -654,7 +654,7 @@
   </type>
   <type name="AD_M16A2">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -672,7 +672,7 @@
   </type>
   <type name="AD_XPS34">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -690,7 +690,7 @@
   </type>
   <type name="AD_XPS34_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -708,7 +708,7 @@
   </type>
   <type name="AD_XPS34_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -726,7 +726,7 @@
   </type>
   <type name="AD_XPS34_HHS">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -744,7 +744,7 @@
   </type>
   <type name="AD_XPS34_HHS_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -762,7 +762,7 @@
   </type>
   <type name="AD_XPS34_HHS_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -780,7 +780,7 @@
   </type>
   <type name="AD_G33">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -798,7 +798,7 @@
   </type>
   <type name="AD_G33_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -816,7 +816,7 @@
   </type>
   <type name="AD_G33_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -834,7 +834,7 @@
   </type>
   <type name="AD_LeupoldMk4">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -852,7 +852,7 @@
   </type>
   <type name="AD_LeupoldMk4_MosinMount">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -870,7 +870,7 @@
   </type>
   <type name="AD_LeupoldMk4_B13">
     <nominal>2</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>

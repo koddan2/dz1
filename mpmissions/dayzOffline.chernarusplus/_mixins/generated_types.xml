@@ -2,7 +2,7 @@
 <types>
   <type name="JuggernautLVL5_Black">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -19,7 +19,7 @@
   </type>
   <type name="JuggernautLVL1_Suit_Black">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -36,7 +36,7 @@
   </type>
   <type name="Juggernaut_Buttpack_Black">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -53,7 +53,7 @@
   </type>
   <type name="Juggernaut_Pouches_Black">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>

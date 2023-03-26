@@ -2,7 +2,7 @@
 <types>
   <type name="mmg_cargobelt_black">
     <nominal>23</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -18,7 +18,7 @@
   </type>
   <type name="mmg_cargobelt_green">
     <nominal>23</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -34,7 +34,7 @@
   </type>
   <type name="mmg_cargobelt_tan">
     <nominal>23</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -51,7 +51,7 @@
   <!--DUMP POUCH-->
   <type name="mmg_dump_pouch_black">
     <nominal>23</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -67,7 +67,7 @@
   </type>
   <type name="mmg_dump_pouch_green">
     <nominal>23</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -83,7 +83,7 @@
   </type>
   <type name="mmg_dump_pouch_tan">
     <nominal>23</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>

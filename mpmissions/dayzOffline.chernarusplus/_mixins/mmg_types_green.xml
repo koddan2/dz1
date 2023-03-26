@@ -3,7 +3,7 @@
 <types>
   <type name="MMG_JPC_Vest_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -19,7 +19,7 @@
   </type>
   <type name="MMG_MK_III_Armor_green">
     <nominal>3</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -34,7 +34,7 @@
   </type>
   <type name="MMG_chestrig_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -50,7 +50,7 @@
   </type>
   <type name="MMG_tt_Vest_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -66,7 +66,7 @@
   </type>
   <type name="MMG_MK_V_Armor_green">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -82,7 +82,7 @@
   <!--POUCHES-->
   <type name="MMG_Mag_Pouch_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -98,7 +98,7 @@
   </type>
   <type name="MMG_triple_magpouch_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -114,7 +114,7 @@
   </type>
   <type name="MMG_double_magpouch_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -130,7 +130,7 @@
   </type>
   <type name="MMG_Med_Pouch_Olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -146,7 +146,7 @@
   </type>
   <type name="MMG_ammo_pouch_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -162,7 +162,7 @@
   </type>
   <type name="MMG_tactical_pouch_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -178,7 +178,7 @@
   </type>
   <type name="MMG_holster_pouch_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -194,7 +194,7 @@
   </type>
   <type name="MMG_mk5_utility_pouch_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -210,7 +210,7 @@
   </type>
   <type name="MMG_mk_V_grenade_pouch_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -227,7 +227,7 @@
   <!--Backpacks-->
   <type name="MMG_carrier_backpack_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -243,7 +243,7 @@
   </type>
   <type name="MMG_supplybag_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -259,7 +259,7 @@
   </type>
   <type name="MMG_assault_pack_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -275,7 +275,7 @@
   </type>
   <type name="MMG_camelback_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -291,7 +291,7 @@
   </type>
   <type name="MMG_mmps_bag_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -308,7 +308,7 @@
   <!--BELTS-->
   <type name="MMG_falcon_b1_belt_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -325,7 +325,7 @@
   <!--HELMETS-->
   <type name="MMG_tactical_helmet_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -341,7 +341,7 @@
   </type>
   <type name="MMG_striker_helmet_green">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -356,7 +356,7 @@
   </type>
   <type name="mmg_armored_helmet_green">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -370,7 +370,7 @@
   </type>
   <type name="mmg_armored_helmet_visor_green">
     <nominal>1</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -384,7 +384,7 @@
   </type>
   <type name="MMG_headphones_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -401,7 +401,7 @@
   <!--ITEMS-->
   <type name="MMG_sheath_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -417,7 +417,7 @@
   </type>
   <type name="MMG_bottle_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -433,7 +433,7 @@
   </type>
   <type name="MMG_Holster_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -449,7 +449,7 @@
   </type>
   <type name="mmg_tac_goggles_red_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -466,7 +466,7 @@
   <!--CLOTHING-->
   <type name="MMG_operatorshirt_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -482,7 +482,7 @@
   </type>
   <type name="MMG_tactical_shirt_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -498,7 +498,7 @@
   </type>
   <type name="MMG_combatshirt_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -514,7 +514,7 @@
   </type>
   <type name="MMG_combatpants_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -530,7 +530,7 @@
   </type>
   <type name="mmg_tactical_pants_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -546,7 +546,7 @@
   </type>
   <type name="mmg_tactical_gloves_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -562,7 +562,7 @@
   </type>
   <type name="MMG_boots_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -578,7 +578,7 @@
   </type>
   <type name="MMG_facemask_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -594,7 +594,7 @@
   </type>
   <type name="MMG_balaclava_olive">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -610,7 +610,7 @@
   </type>
   <type name="mmg_boonie_green">
     <nominal>10</nominal>
-    <lifetime>1440</lifetime>
+    <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
