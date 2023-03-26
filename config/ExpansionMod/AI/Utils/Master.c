@@ -1091,9 +1091,11 @@ if (Event != "") m_SubFSM.Start(Event);
 else m_SubFSM.StartDefault();
 if (unit.GetEmoteManager().IsEmotePlaying())	
 unit.GetEmoteManager().ServerRequestEmoteCancel();	
+unit.eAI_SetIsFightingFSM(true);	
 }
 override void OnExit(string Event, bool Aborted, ExpansionState To) {
 if (Aborted) m_SubFSM.Abort(Event);
+unit.eAI_SetIsFightingFSM(false);	
 }
 override int OnUpdate(float DeltaTime, int SimulationPrecision) {
 if (m_SubFSM.Update(DeltaTime, SimulationPrecision) == EXIT) return EXIT;
