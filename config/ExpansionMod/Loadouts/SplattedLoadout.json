@@ -11948,7 +11948,7 @@
     },
     {
       "ClassName": "Izh18",
-      "Chance": 0.04,
+      "Chance": 0.14,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11967,7 +11967,7 @@
     },
     {
       "ClassName": "Izh18Shotgun",
-      "Chance": 0.04199999809265137,
+      "Chance": 0.14,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -11986,7 +11986,7 @@
     },
     {
       "ClassName": "Izh43Shotgun",
-      "Chance": 0.03200000047683716,
+      "Chance": 0.14,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13483,7 +13483,7 @@
     },
     {
       "ClassName": "Mag_IJ70_8Rnd",
-      "Chance": 0.045999999046325686,
+      "Chance": 0.14,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -13863,7 +13863,7 @@
     },
     {
       "ClassName": "MakarovIJ70",
-      "Chance": 0.05199999809265137,
+      "Chance": 0.14,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15831,6 +15831,63 @@
     {
       "ClassName": "SardinesCan",
       "Chance": 0.012000000476837159,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "SawedoffIzh18",
+      "Chance": 0.14,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "SawedoffIzh18Shotgun",
+      "Chance": 0.14,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "SawedoffIzh43Shotgun",
+      "Chance": 0.14,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19347,7 +19404,7 @@
     },
     {
       "ClassName": "TTC_Ammo_8mm",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19366,7 +19423,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_8mm_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19934,7 +19991,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_338mm_10Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -19953,7 +20010,7 @@
     },
     {
       "ClassName": "TTC_Ammo_338",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -20474,7 +20531,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_300blk_20rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -20493,7 +20550,7 @@
     },
     {
       "ClassName": "TTC_Ammo_300blk",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21379,7 +21436,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_50Beo_20rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21398,7 +21455,7 @@
     },
     {
       "ClassName": "TTC_Ammo_50Beo",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22655,7 +22712,7 @@
     },
     {
       "ClassName": "TTC_Ammobox_50BMG_10rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22674,7 +22731,7 @@
     },
     {
       "ClassName": "TTC_Ammo_50BMG",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23309,7 +23366,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_303_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23328,7 +23385,7 @@
     },
     {
       "ClassName": "TTC_Ammo_303",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23347,7 +23404,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_3006_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23366,7 +23423,7 @@
     },
     {
       "ClassName": "TTC_Ammo_3006",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23385,7 +23442,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_4570_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23404,7 +23461,7 @@
     },
     {
       "ClassName": "TTC_Ammo_4570",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24211,7 +24268,80 @@
           "Zone": ""
         }
       ],
-      "InventoryAttachments": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_AKMod_bttstk",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_AKMod_Hndguard",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "Mag_AKM_Palm30Rnd",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
@@ -24325,7 +24455,80 @@
           "Zone": ""
         }
       ],
-      "InventoryAttachments": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_AKMod_bttstk",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_AKMod_Hndguard",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_AKMod_762x54_30rnd",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
@@ -26448,7 +26651,7 @@
     },
     {
       "ClassName": "TTC_Ammo_50AE",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27422,7 +27625,7 @@
     },
     {
       "ClassName": "TTC_Ammo_4630",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27441,7 +27644,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_4630_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27772,7 +27975,7 @@
     },
     {
       "ClassName": "TTC_Ammo_792x33",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27791,7 +27994,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_792x33_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28588,7 +28791,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_50AE",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28950,7 +29153,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_277_20Rnd",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28969,7 +29172,7 @@
     },
     {
       "ClassName": "TTC_Ammo_277",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29286,7 +29489,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_44Mag",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29305,7 +29508,7 @@
     },
     {
       "ClassName": "TTC_Ammo_44Mag",
-      "Chance": 0.05,
+      "Chance": 0.0444444465637207,
       "Quantity": {
         "Min": 0,
         "Max": 0

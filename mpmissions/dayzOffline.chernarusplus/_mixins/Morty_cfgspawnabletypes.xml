@@ -947,4 +947,26 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="TTC_AKMod">
+		<attachments chance="1.00">
+			<item name="TTC_AKMod_bttstk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTC_AKMod_Hndguard" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="Mag_AKM_Palm30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TTC_AKModPK">
+		<attachments chance="1.00">
+			<item name="TTC_AKMod_bttstk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTC_AKMod_Hndguard" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TTC_AKMod_762x54_30rnd" chance="1.00" />
+		</attachments>
+	</type>
 </spawnabletypes>
