@@ -992,7 +992,8 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="Apple"/>
+            <!-- <child lootmax="0" lootmin="0" max="0" min="0" type="Apple"/> -->
+            <child lootmax="0" lootmin="0" max="0" min="0" type="Banana"/>
         </children>
     </event>
     <event name="TrajectoryCanina">
@@ -1079,7 +1080,8 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="Pear"/>
+            <!-- <child lootmax="0" lootmin="0" max="0" min="0" type="Pear"/> -->
+            <child lootmax="0" lootmin="0" max="0" min="0" type="Banana"/>
         </children>
     </event>
     <event name="TrajectoryPlum">
@@ -1096,7 +1098,8 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/>
+            <!-- <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/> -->
+            <child lootmax="0" lootmin="0" max="0" min="0" type="Banana"/>
         </children>
     </event>
     <event name="TrajectorySambucus">

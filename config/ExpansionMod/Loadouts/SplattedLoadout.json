@@ -9025,6 +9025,155 @@
       "Sets": []
     },
     {
+      "ClassName": "ASVAL",
+      "Chance": 0.015,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "Mag_VAL_20Rnd",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "BUISOptic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "M4_T3NRDSOptic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "ReflexOptic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "ACOGOptic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TLRLight",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "AlarmClock_Blue",
       "Chance": 0.0125,
       "Quantity": {
@@ -15112,7 +15261,7 @@
     },
     {
       "ClassName": "Mag_VAL_20Rnd",
-      "Chance": 0.00125,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15131,7 +15280,7 @@
     },
     {
       "ClassName": "Mag_VSS_10Rnd",
-      "Chance": 0.0025,
+      "Chance": 0.015,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -18553,6 +18702,117 @@
       "Sets": []
     },
     {
+      "ClassName": "VSS",
+      "Chance": 0.015,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "KashtanOptic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "PSO1Optic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "PSO11Optic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "Mag_VSS_10Rnd",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "VitaminBottle",
       "Chance": 0.025,
       "Quantity": {
@@ -21331,7 +21591,7 @@
     },
     {
       "ClassName": "TTC_M4DMR",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21447,7 +21707,7 @@
     },
     {
       "ClassName": "TTC_M4DMROD",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21563,7 +21823,7 @@
     },
     {
       "ClassName": "TTC_M4DMRDesert",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21679,7 +21939,7 @@
     },
     {
       "ClassName": "TTC_DMR_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21698,7 +21958,7 @@
     },
     {
       "ClassName": "TTC_DMR_HndguardOD",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21717,7 +21977,7 @@
     },
     {
       "ClassName": "TTC_DMR_HndguardDesert",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23363,7 +23623,7 @@
     },
     {
       "ClassName": "TTC_ModDMR_556",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23382,7 +23642,7 @@
     },
     {
       "ClassName": "TTC_ModDMRTan_556",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23401,7 +23661,7 @@
     },
     {
       "ClassName": "TTC_ModDMRTwotone_556",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23420,26 +23680,7 @@
     },
     {
       "ClassName": "TTC_ModDMRCamo_556",
-      "Chance": 0.0027272728085517882,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_ModDMRDigiTan_556",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23458,7 +23699,7 @@
     },
     {
       "ClassName": "TTC_ModDMRUPC_556",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23477,7 +23718,7 @@
     },
     {
       "ClassName": "TTC_ModDMRSnow_556",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23496,7 +23737,7 @@
     },
     {
       "ClassName": "TTC_ModDMR_762",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23515,7 +23756,7 @@
     },
     {
       "ClassName": "TTC_ModDMRTan_762",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23534,7 +23775,7 @@
     },
     {
       "ClassName": "TTC_ModDMRTwotone_762",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23553,26 +23794,7 @@
     },
     {
       "ClassName": "TTC_ModDMRCamo_762",
-      "Chance": 0.0027272728085517882,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_ModDMRDigiTan_762",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23591,7 +23813,7 @@
     },
     {
       "ClassName": "TTC_ModDMRUPC_762",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23610,7 +23832,7 @@
     },
     {
       "ClassName": "TTC_ModDMRSnow_762",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23802,27 +24024,8 @@
       "Sets": []
     },
     {
-      "ClassName": "TTC_DMR_556Stanag_30rnd_Digitan",
-      "Chance": 0.0027272728085517882,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "TTC_DMR_556Stanag_30rnd_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23841,7 +24044,7 @@
     },
     {
       "ClassName": "TTC_DMR_556Stanag_30rnd_UPC",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23879,25 +24082,6 @@
     },
     {
       "ClassName": "TTC_DMR_556Stanag_100rnd_camo",
-      "Chance": 0.001,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_DMR_556Stanag_100rnd_Digitan",
       "Chance": 0.001,
       "Quantity": {
         "Min": 0,
@@ -23992,25 +24176,6 @@
       "Sets": []
     },
     {
-      "ClassName": "TTC_DMR_556Pmag_30rnd_Digitan",
-      "Chance": 0.05,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "TTC_DMR_556Pmag_30rnd_Tan",
       "Chance": 0.05,
       "Quantity": {
@@ -24069,25 +24234,6 @@
     },
     {
       "ClassName": "TTC_DMR_556Pmag_40rnd_camo",
-      "Chance": 0.004545454680919647,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_DMR_556Pmag_40rnd_Digitan",
       "Chance": 0.004545454680919647,
       "Quantity": {
         "Min": 0,
@@ -24182,25 +24328,6 @@
       "Sets": []
     },
     {
-      "ClassName": "TTC_DMR_556Pmag_100rnd_Digitan",
-      "Chance": 0.001,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "TTC_DMR_556Pmag_100rnd_Tan",
       "Chance": 0.001,
       "Quantity": {
@@ -24240,7 +24367,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24259,26 +24386,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_camo",
-      "Chance": 0.0027272728085517882,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_DMR_762Stanag_20rnd_Digitan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24297,7 +24405,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24316,7 +24424,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_UPC",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24335,7 +24443,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24354,26 +24462,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_camo",
-      "Chance": 0.0027272728085517882,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_DMR_762Stanag_10rnd_Digitan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24392,7 +24481,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24411,7 +24500,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_UPC",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24430,7 +24519,7 @@
     },
     {
       "ClassName": "TTC_DMR_Bipod",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24449,7 +24538,7 @@
     },
     {
       "ClassName": "TTC_DMR_AFG",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24468,7 +24557,7 @@
     },
     {
       "ClassName": "TTC_DMR_AFG_Green",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24487,7 +24576,7 @@
     },
     {
       "ClassName": "TTC_DMR_AFG_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24506,7 +24595,7 @@
     },
     {
       "ClassName": "TTC_DMR_VFG",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24525,7 +24614,7 @@
     },
     {
       "ClassName": "TTC_DMR_VFG_Green",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24544,7 +24633,7 @@
     },
     {
       "ClassName": "TTC_DMR_VFG_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24619,25 +24708,6 @@
       "Sets": []
     },
     {
-      "ClassName": "TTC_Buttstock_Digitan",
-      "Chance": 0.0027272728085517882,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "TTC_Buttstock_Tan",
       "Chance": 0.0027272728085517882,
       "Quantity": {
@@ -24677,7 +24747,7 @@
     },
     {
       "ClassName": "TTC_DMR_RifleFrame",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26107,7 +26177,7 @@
     },
     {
       "ClassName": "TTC_AKMod",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26199,7 +26269,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Gold",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26218,7 +26288,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Snow",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26237,7 +26307,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Multi",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26256,7 +26326,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Digi",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26275,7 +26345,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26294,7 +26364,7 @@
     },
     {
       "ClassName": "TTC_AKModPK",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26386,7 +26456,7 @@
     },
     {
       "ClassName": "TTC_AKModPK_Gold",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26405,7 +26475,7 @@
     },
     {
       "ClassName": "TTC_AKModPK_Snow",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26424,7 +26494,7 @@
     },
     {
       "ClassName": "TTC_AKModPK_Multi",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26443,7 +26513,7 @@
     },
     {
       "ClassName": "TTC_AKModPK_Digi",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26462,7 +26532,7 @@
     },
     {
       "ClassName": "TTC_AKModPK_Tan",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26728,7 +26798,7 @@
     },
     {
       "ClassName": "TTC_AKMod_RifleFrame",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26747,7 +26817,7 @@
     },
     {
       "ClassName": "TTC_AKMod_bttstk",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26766,7 +26836,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Gold_bttstk",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26785,7 +26855,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Snow_bttstk",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26804,7 +26874,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Multi_bttstk",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26823,7 +26893,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Digi_bttstk",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26842,7 +26912,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Tan_bttstk",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26861,7 +26931,7 @@
     },
     {
       "ClassName": "TTC_AKMod_762x54_30rnd",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26880,7 +26950,7 @@
     },
     {
       "ClassName": "TTC_AKMod_762x54_65rnd",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26899,7 +26969,7 @@
     },
     {
       "ClassName": "TTC_AKMOD_AFG",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26937,7 +27007,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26956,7 +27026,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Gold_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26975,7 +27045,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Snow_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26994,7 +27064,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Multi_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27013,7 +27083,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Digi_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27032,7 +27102,7 @@
     },
     {
       "ClassName": "TTC_AKMod_Tan_Hndguard",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29628,7 +29698,7 @@
     },
     {
       "ClassName": "TTC_M4DMRSNOW",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29744,7 +29814,7 @@
     },
     {
       "ClassName": "TTC_DMR_HndguardSnow",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -30460,7 +30530,7 @@
     },
     {
       "ClassName": "TTC_TAVOR_DMR",
-      "Chance": 0.0027272728085517882,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -38824,6 +38894,102 @@
         },
         {
           "ClassName": "",
+          "Chance": 0.15000000596046448,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "WEAPON",
+      "Chance": 0.5,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Hands",
+          "Items": [
+            {
+              "ClassName": "CZ75",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "Mag_CZ75_15Rnd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                },
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "TTC_PistolSuppressor",
+                      "Chance": 0.5,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "Mag_CZ75_15Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Mag_CZ75_15Rnd",
           "Chance": 0.15000000596046448,
           "Quantity": {
             "Min": 0,

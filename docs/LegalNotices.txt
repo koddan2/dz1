@@ -45,6 +45,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 --------------------------------------------------------------------------
 DayZ Server Software
 --------------------------------------------------------------------------
-Copyright © 2018 Bohemia Interactive. All Rights Reserved.
+Copyright © 2023 Bohemia Interactive. All Rights Reserved.
 DAYZ® and Bohemia Interactive® are trademarks of Bohemia Interactive.
 “Portions of this software utilize True Sky technology (© 2015 Simul Software Ltd, all rights reserved.)”

@@ -581,132 +581,84 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_M4DMR">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_M4DMROD">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_M4DMRDesert">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_HndguardOD">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_HndguardDesert">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_308Stanag">
@@ -1400,240 +1352,124 @@
   <!-- Update 1.10.1-->
   <type name="TTC_ModDMR_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRTan_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRTwotone_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRCamo_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRDigiTan_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRUPC_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRSnow_556">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMR_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRTan_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRTwotone_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRCamo_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRDigiTan_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRUPC_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_ModDMRSnow_762">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_Suppressor">
@@ -1717,66 +1553,40 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Stanag_30rnd_Digitan">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Stanag_30rnd_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Stanag_30rnd_UPC">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd">
@@ -1806,16 +1616,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd_Digitan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier4" />
-    <usage name="Military" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd_Tan">
@@ -1887,24 +1695,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Pmag_30rnd_Digitan">
-    <nominal>55</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Pmag_30rnd_Tan">
@@ -1978,17 +1776,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Pmag_40rnd_Digitan">
-    <nominal>5</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Pmag_40rnd_Tan">
@@ -2046,16 +1841,14 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Pmag_100rnd_Digitan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier4" />
-    <usage name="Military" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_556Pmag_100rnd_Tan">
@@ -2085,367 +1878,227 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_camo">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_Digitan">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_UPC">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_camo">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_Digitan">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_UPC">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_Bipod">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_AFG">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_AFG_Green">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_AFG_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_VFG">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_VFG_Green">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_VFG_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Ammobox_50BMG_10rnd">
@@ -2514,25 +2167,15 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Buttstock_Digitan">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Buttstock_Tan">
@@ -2580,24 +2223,16 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_RifleFrame">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_Barrel_762">
@@ -3405,206 +3040,110 @@
   <!-- Update 1.12 -->
   <type name="TTC_AKMod">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Gold">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Snow">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Multi">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Digi">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Tan">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKModPK">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKModPK_Gold">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKModPK_Snow">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKModPK_Multi">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKModPK_Digi">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKModPK_Tan">
     <lifetime>14400</lifetime>
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <restock>0</restock>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_M110">
@@ -3692,24 +3231,16 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_RifleFrame">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Barrel_76239">
@@ -3749,193 +3280,121 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_bttstk">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Gold_bttstk">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Snow_bttstk">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Multi_bttstk">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Digi_bttstk">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Tan_bttstk">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_762x54_30rnd">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>10</quantmin>
     <quantmax>60</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_762x54_65rnd">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>10</quantmin>
     <quantmax>60</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMOD_AFG">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Suppressor">
@@ -3956,129 +3415,81 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Gold_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Snow_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Multi_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Digi_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AKMod_Tan_Hndguard">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_HAMR">
@@ -5319,46 +4730,30 @@
   </type>
   <!-- Update 1.13.5 -->
   <type name="TTC_M4DMRSNOW">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_DMR_HndguardSnow">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_STG44">
@@ -5672,24 +5067,16 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_TAVOR_DMR">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_TAVOR_Magazine_30rnd">
