@@ -39,41 +39,61 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_colorbase_mung">
-    <nominal>14</nominal>
-    <lifetime>14400</lifetime>
+    <nominal>120</nominal>
+    <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <category name="clothes" />
+    <category name="weapons" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <usage name="Hunting" />
     <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_black_mung">
-    <nominal>14</nominal>
-    <lifetime>14400</lifetime>
+    <nominal>120</nominal>
+    <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <category name="clothes" />
+    <category name="weapons" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
     <usage name="Police" />
-    <usage name="Hunting" />
     <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleholster_black_mung">

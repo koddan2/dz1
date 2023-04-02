@@ -769,7 +769,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_12gaRubberSlug_10Rnd">
@@ -785,7 +794,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_12gaSlug_10Rnd">
@@ -804,7 +822,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_22_50Rnd">
@@ -820,7 +847,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_308WinTracer_20Rnd">
@@ -838,7 +874,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_308Win_20Rnd">
@@ -857,7 +902,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_357_20Rnd">
@@ -873,7 +927,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_380_35rnd">
@@ -889,7 +952,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_45ACP_25rnd">
@@ -905,7 +977,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_545x39Tracer_20Rnd">
@@ -923,7 +1004,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_545x39_20Rnd">
@@ -941,7 +1031,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_556x45Tracer_20Rnd">
@@ -959,7 +1058,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_556x45_20Rnd">
@@ -977,7 +1085,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x39Tracer_20Rnd">
@@ -995,7 +1112,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x39_20Rnd">
@@ -1013,7 +1139,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x54Tracer_20Rnd">
@@ -1031,7 +1166,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_762x54_20Rnd">
@@ -1050,7 +1194,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_9x19_25rnd">
@@ -1066,7 +1219,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_9x39AP_20Rnd">
@@ -1083,7 +1245,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="AmmoBox_9x39_20Rnd">
@@ -1099,7 +1270,16 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
+    <usage name="Town" />
     <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="Firefighter" />
+    <usage name="Prison" />
+    <usage name="Medic" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Ammo_12gaPellets">
@@ -4088,10 +4268,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="CZ550">
@@ -4106,10 +4293,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="CZ61">
@@ -4124,10 +4318,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="CZ75">
@@ -4142,10 +4343,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="CableReel">
@@ -5884,10 +6092,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Deagle_Gold">
@@ -5902,10 +6117,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="DeerPelt">
@@ -7847,10 +8069,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="GlowPlug">
@@ -9736,10 +9965,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Izh18Shotgun">
@@ -9754,10 +9990,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Izh43Shotgun">
@@ -9772,10 +10015,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Jeans_Black">
@@ -12133,10 +12383,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ManSuit_Beige">
@@ -14612,7 +14869,7 @@
     <usage name="Hunting" />
   </type>
   <type name="PortableGasStove">
-    <nominal>85</nominal>
+    <nominal>45</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>30</min>
@@ -14629,7 +14886,7 @@
     <usage name="Farm" />
   </type>
   <type name="Pot">
-    <nominal>85</nominal>
+    <nominal>45</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>30</min>
@@ -15636,10 +15893,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SawedoffIzh18Shotgun">
@@ -15654,10 +15918,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SawedoffIzh43Shotgun">
@@ -15672,10 +15943,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SawedoffMagnum">
@@ -15787,10 +16065,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Scout_Chernarus">
@@ -15805,10 +16090,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Scout_Livonia">
@@ -15823,10 +16115,17 @@
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Screwdriver">
@@ -18862,7 +19161,7 @@
     <usage name="Coast" />
   </type>
   <type name="WeaponCleaningKit">
-    <nominal>85</nominal>
+    <nominal>45</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>30</min>
