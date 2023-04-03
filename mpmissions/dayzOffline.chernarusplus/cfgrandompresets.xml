@@ -856,4 +856,30 @@
 		<item name="DuctTape" chance="0.15" />
 		<item name="SewingKit" chance="0.15" />
 	</cargo>
+	<cargo chance="1" name="mutants_wep0">
+		<item name="TTC_PistolSuppressor" chance="0.45" />
+		<item name="TTC_Universal_Suppressor_BLACK" chance="0.08" />
+
+		<item name="SNAFU_SR25_Mag" chance="0.05" />
+		<item name="SNAFU_SR25_Gun" chance="0.01" />
+	</cargo>
+	<cargo chance="1" name="mutants_wep1">
+		<item name="TTC_PistolSuppressor" chance="0.45" />
+		<item name="TTC_Universal_Suppressor_BLACK" chance="0.08" />
+
+		<item name="Snafu_pkp_250RND_Mag" chance="0.05" />
+		<item name="Snafu_pkp_Black_GUN" chance="0.01" />
+	</cargo>
+	<cargo chance="1" name="mutants_medical0">
+		<item name="BandageDressing" chance="0.45" />
+		<item name="SalineBag" chance="0.45" />
+		<item name="StartKitIV" chance="0.45" />
+		<item name="IodineTincture" chance="0.45" />
+	</cargo>
+	<cargo chance="1" name="mutants_medical1">
+		<item name="StartKitIV" chance="0.45" />
+		<item name="IodineTincture" chance="0.45" />
+		<item name="BandageDressing" chance="0.45" />
+		<item name="SalineBag" chance="0.45" />
+	</cargo>
 </randompresets>
