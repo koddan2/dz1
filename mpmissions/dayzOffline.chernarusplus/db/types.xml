@@ -11615,24 +11615,17 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mag_AKM_Drum75Rnd">
-    <nominal>45</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>1</min>
     <quantmin>5</quantmin>
     <quantmax>40</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mag_AKM_Palm30Rnd">
@@ -12161,24 +12154,17 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mag_STANAG_60Rnd">
-    <nominal>45</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>1</min>
     <quantmin>5</quantmin>
     <quantmax>40</quantmax>
     <cost>100</cost>
     <category name="weapons" />
-    <value name="Tier1" />
-    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Police" />
-    <usage name="Hunting" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mag_SVD_10Rnd">

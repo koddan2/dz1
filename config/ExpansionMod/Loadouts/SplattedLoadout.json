@@ -15031,7 +15031,7 @@
     },
     {
       "ClassName": "Mag_AKM_Drum75Rnd",
-      "Chance": 0.03214285612106323,
+      "Chance": 0.002142857164144516,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15525,7 +15525,7 @@
     },
     {
       "ClassName": "Mag_STANAG_60Rnd",
-      "Chance": 0.03214285612106323,
+      "Chance": 0.002142857164144516,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22488,7 +22488,7 @@
     },
     {
       "ClassName": "TTC_308Stanag",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23096,7 +23096,7 @@
     },
     {
       "ClassName": "TTC_300Stanag",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24517,7 +24517,7 @@
     },
     {
       "ClassName": "TTC_DMR_556Stanag_30rnd_Digitan",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24536,7 +24536,7 @@
     },
     {
       "ClassName": "TTC_DMR_556Stanag_30rnd_Tan",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24555,7 +24555,7 @@
     },
     {
       "ClassName": "TTC_DMR_556Stanag_30rnd_UPC",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24954,7 +24954,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24973,7 +24973,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_camo",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24992,7 +24992,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_Digitan",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25011,7 +25011,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_Tan",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25030,7 +25030,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_UPC",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25049,7 +25049,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25068,7 +25068,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_camo",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25087,7 +25087,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_Digitan",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25106,7 +25106,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_Tan",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25125,7 +25125,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_UPC",
-      "Chance": 0.025,
+      "Chance": 0.003333333432674408,
       "Quantity": {
         "Min": 0,
         "Max": 0
