@@ -40099,6 +40099,212 @@
     },
     {
       "ClassName": "WEAPON",
+      "Chance": 0.02,
+      "Quantity": null,
+      "Health": [
+        {
+          "Min": 0.2,
+          "Max": 0.8,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Hands",
+          "Items": [
+            {
+              "ClassName": "Snafu_pkp_Black_GUN",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "Snafu_pkp_250RND_Mag",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "Snafu_pkp_250RND_Mag",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Ammo_762x54",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Ammo_762x54",
+          "Chance": 0.5,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": null,
+      "Sets": null
+    },
+    {
+      "ClassName": "WEAPON",
+      "Chance": 0.05,
+      "Quantity": null,
+      "Health": [
+        {
+          "Min": 0.2,
+          "Max": 0.8,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Hands",
+          "Items": [
+            {
+              "ClassName": "SNAFU_SR25_Gun",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "SNAFU_SR25_Mag",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                },
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "SNAFU_SR25_Supp",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "SNAFU_SR25_Mag",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Ammo_308Win",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Ammo_308Win",
+          "Chance": 0.5,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": null,
+      "Sets": null
+    },
+    {
+      "ClassName": "WEAPON",
       "Chance": 0.25,
       "Quantity": {
         "Min": 0,
