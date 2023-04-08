@@ -7,6 +7,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_wep0" />
 		<cargo preset="mutants_wep1" />
@@ -16,6 +17,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -25,6 +27,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -34,6 +37,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -43,6 +47,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -52,6 +57,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -61,6 +67,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -70,6 +77,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -79,6 +87,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -88,6 +97,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -97,6 +107,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -106,6 +117,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -115,6 +127,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -124,6 +137,7 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
@@ -133,7 +147,17 @@
 		<cargo preset="mutants_ammo1" />
 		<cargo preset="mutants_ammo2" />
 		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="ZmbM_Mummy">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
 		<cargo preset="mutants_medical0" />
 		<cargo preset="mutants_medical1" />
 	</type>

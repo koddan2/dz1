@@ -14936,7 +14936,7 @@
     },
     {
       "ClassName": "Mag_1911_7Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14955,7 +14955,7 @@
     },
     {
       "ClassName": "Mag_AK101_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14974,7 +14974,7 @@
     },
     {
       "ClassName": "Mag_AK74_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -14993,7 +14993,7 @@
     },
     {
       "ClassName": "Mag_AK74_45Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15012,7 +15012,7 @@
     },
     {
       "ClassName": "Mag_AKM_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15031,7 +15031,7 @@
     },
     {
       "ClassName": "Mag_AKM_Drum75Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15050,7 +15050,7 @@
     },
     {
       "ClassName": "Mag_AKM_Palm30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15069,7 +15069,7 @@
     },
     {
       "ClassName": "Mag_Aug_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15088,7 +15088,7 @@
     },
     {
       "ClassName": "Mag_CMAG_10Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15107,7 +15107,7 @@
     },
     {
       "ClassName": "Mag_CMAG_20Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15126,7 +15126,7 @@
     },
     {
       "ClassName": "Mag_CMAG_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15145,7 +15145,7 @@
     },
     {
       "ClassName": "Mag_CMAG_40Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15164,7 +15164,7 @@
     },
     {
       "ClassName": "Mag_CZ527_5rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15183,7 +15183,7 @@
     },
     {
       "ClassName": "Mag_CZ550_10Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15202,7 +15202,7 @@
     },
     {
       "ClassName": "Mag_CZ61_20Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15221,7 +15221,7 @@
     },
     {
       "ClassName": "Mag_CZ75_15Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15240,7 +15240,7 @@
     },
     {
       "ClassName": "Mag_Deagle_9rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15259,7 +15259,7 @@
     },
     {
       "ClassName": "Mag_FAL_20Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15278,7 +15278,7 @@
     },
     {
       "ClassName": "Mag_FAMAS_25Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15297,7 +15297,7 @@
     },
     {
       "ClassName": "Mag_FNX45_15Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15316,7 +15316,7 @@
     },
     {
       "ClassName": "Mag_Glock_15Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15335,7 +15335,7 @@
     },
     {
       "ClassName": "Mag_IJ70_8Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15354,7 +15354,7 @@
     },
     {
       "ClassName": "Mag_MKII_10Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15373,7 +15373,7 @@
     },
     {
       "ClassName": "Mag_MP5_15Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15392,7 +15392,7 @@
     },
     {
       "ClassName": "Mag_MP5_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15411,7 +15411,7 @@
     },
     {
       "ClassName": "Mag_P1_8Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15430,7 +15430,7 @@
     },
     {
       "ClassName": "Mag_PP19_64Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15449,7 +15449,7 @@
     },
     {
       "ClassName": "Mag_Ruger1022_15Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15468,7 +15468,7 @@
     },
     {
       "ClassName": "Mag_Ruger1022_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15487,7 +15487,7 @@
     },
     {
       "ClassName": "Mag_SSG82_5rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15506,7 +15506,7 @@
     },
     {
       "ClassName": "Mag_STANAG_30Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15525,7 +15525,7 @@
     },
     {
       "ClassName": "Mag_STANAG_60Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15544,7 +15544,7 @@
     },
     {
       "ClassName": "Mag_SVD_10Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15563,7 +15563,7 @@
     },
     {
       "ClassName": "Mag_Saiga_5Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15582,7 +15582,7 @@
     },
     {
       "ClassName": "Mag_Saiga_8Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15601,7 +15601,7 @@
     },
     {
       "ClassName": "Mag_Saiga_Drum20Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15620,7 +15620,7 @@
     },
     {
       "ClassName": "Mag_Scout_5Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15639,7 +15639,7 @@
     },
     {
       "ClassName": "Mag_UMP_25Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15658,7 +15658,7 @@
     },
     {
       "ClassName": "Mag_VAL_20Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15677,7 +15677,7 @@
     },
     {
       "ClassName": "Mag_VSS_10Rnd",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -15696,7 +15696,7 @@
     },
     {
       "ClassName": "Magnum",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -17834,7 +17834,7 @@
     },
     {
       "ClassName": "SawedoffMagnum",
-      "Chance": 0.025,
+      "Chance": 0.03214285612106323,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -20128,6 +20128,63 @@
       "Sets": []
     },
     {
+      "ClassName": "AD_Pilad",
+      "Chance": 0.001428571492433548,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "AD_Pilad_MosinMount",
+      "Chance": 0.001428571492433548,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "AD_Pilad_B13",
+      "Chance": 0.001428571492433548,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "AD_PVS4",
       "Chance": 0.001428571492433548,
       "Quantity": {
@@ -20658,7 +20715,7 @@
     },
     {
       "ClassName": "TTC_MAS36",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.03055555582046509,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21950,7 +22007,7 @@
     },
     {
       "ClassName": "TTC_Ammo_8mm",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -21969,7 +22026,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_8mm_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22431,7 +22488,7 @@
     },
     {
       "ClassName": "TTC_308Stanag",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22537,7 +22594,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_338mm_10Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -22556,7 +22613,7 @@
     },
     {
       "ClassName": "TTC_Ammo_338",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23039,7 +23096,7 @@
     },
     {
       "ClassName": "TTC_300Stanag",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23077,7 +23134,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_300blk_20rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23096,7 +23153,7 @@
     },
     {
       "ClassName": "TTC_Ammo_300blk",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -23982,7 +24039,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_50Beo_20rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24001,7 +24058,7 @@
     },
     {
       "ClassName": "TTC_Ammo_50Beo",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24459,8 +24516,46 @@
       "Sets": []
     },
     {
+      "ClassName": "TTC_DMR_556Stanag_30rnd_Digitan",
+      "Chance": 0.025,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_DMR_556Stanag_30rnd_Tan",
+      "Chance": 0.025,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "TTC_DMR_556Stanag_30rnd_UPC",
-      "Chance": 0.001,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24859,7 +24954,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd",
-      "Chance": 0.001,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24878,7 +24973,45 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_camo",
-      "Chance": 0.001,
+      "Chance": 0.025,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_DMR_762Stanag_20rnd_Digitan",
+      "Chance": 0.025,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_DMR_762Stanag_20rnd_Tan",
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24897,7 +25030,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_20rnd_UPC",
-      "Chance": 0.001,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24916,7 +25049,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd",
-      "Chance": 0.001,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24935,7 +25068,45 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_camo",
-      "Chance": 0.001,
+      "Chance": 0.025,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_DMR_762Stanag_10rnd_Digitan",
+      "Chance": 0.025,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_DMR_762Stanag_10rnd_Tan",
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -24954,7 +25125,7 @@
     },
     {
       "ClassName": "TTC_DMR_762Stanag_10rnd_UPC",
-      "Chance": 0.001,
+      "Chance": 0.025,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25106,7 +25277,7 @@
     },
     {
       "ClassName": "TTC_Ammobox_50BMG_10rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25125,7 +25296,7 @@
     },
     {
       "ClassName": "TTC_Ammo_50BMG",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25741,7 +25912,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_303_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25760,7 +25931,7 @@
     },
     {
       "ClassName": "TTC_Ammo_303",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25779,7 +25950,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_3006_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25798,7 +25969,7 @@
     },
     {
       "ClassName": "TTC_Ammo_3006",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25817,7 +25988,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_4570_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -25836,7 +26007,7 @@
     },
     {
       "ClassName": "TTC_Ammo_4570",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26338,7 +26509,7 @@
     },
     {
       "ClassName": "TTC_Kimber",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.03055555582046509,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -26401,7 +26572,7 @@
     },
     {
       "ClassName": "TTC_Mossberg",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.03055555582046509,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -27170,7 +27341,7 @@
     },
     {
       "ClassName": "TTC_Maverick",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.03055555582046509,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -28969,7 +29140,7 @@
     },
     {
       "ClassName": "TTC_Ammo_50AE",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29943,7 +30114,7 @@
     },
     {
       "ClassName": "TTC_Ammo_4630",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -29962,7 +30133,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_4630_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -30293,7 +30464,7 @@
     },
     {
       "ClassName": "TTC_Ammo_792x33",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -30312,7 +30483,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_792x33_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -31109,7 +31280,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_50AE",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -31471,7 +31642,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_277_20Rnd",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -31490,7 +31661,7 @@
     },
     {
       "ClassName": "TTC_Ammo_277",
-      "Chance": 0.02222222328186035,
+      "Chance": 0.03333333253860474,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -31845,7 +32016,7 @@
     },
     {
       "ClassName": "TTC_P320",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.03055555582046509,
       "Quantity": {
         "Min": 0,
         "Max": 0
@@ -31961,7 +32132,7 @@
     },
     {
       "ClassName": "TTC_P320_17Rnd",
-      "Chance": 0.001666666716337204,
+      "Chance": 0.03055555582046509,
       "Quantity": {
         "Min": 0,
         "Max": 0
