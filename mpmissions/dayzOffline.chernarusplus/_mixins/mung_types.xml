@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="meleesling_colorbase_mung">
-    <nominal>14</nominal>
-    <lifetime>14400</lifetime>
+    <nominal>0</nominal>
+    <lifetime>0</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -20,10 +20,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="meleesling_black_mung">
-    <nominal>14</nominal>
-    <lifetime>14400</lifetime>
+    <nominal>0</nominal>
+    <lifetime>0</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -39,10 +39,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_colorbase_mung">
-    <nominal>120</nominal>
-    <lifetime>28800</lifetime>
+    <nominal>0</nominal>
+    <lifetime>0</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -68,10 +68,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_black_mung">
-    <nominal>120</nominal>
-    <lifetime>28800</lifetime>
+    <nominal>0</nominal>
+    <lifetime>0</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
