@@ -7,7 +7,7 @@
     "HuntMode": 6,
     "Points_Enabled": 0,
     "EngageTimer": 300000,
-    "CleanupTimer": 360000,
+    "CleanupTimer": 1360000,
     "PlayerChecks": 0,
     "MaxAI": 20,
     "MessageType": 1,
