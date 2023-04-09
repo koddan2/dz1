@@ -4716,6 +4716,63 @@
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
+        },
+        {
+          "ClassName": "quad_gen2_Suit",
+          "Chance": 0.07,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "quad_Gen2_Black",
+          "Chance": 0.07,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "quad_Gen2_Green",
+          "Chance": 0.07,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
         }
       ]
     },
@@ -7158,6 +7215,44 @@
         },
         {
           "ClassName": "bag_6B38_LETO_mung",
+          "Chance": 0.07,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "rifleholster_black_mung",
+          "Chance": 0.07,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.5,
+              "Max": 0.9,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "rifleholster_TTsKO_mung",
           "Chance": 0.07,
           "Quantity": {
             "Min": 0,
@@ -19484,6 +19579,253 @@
     {
       "ClassName": "ZucchiniSeedsPack",
       "Chance": 0.013636363744735718,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "riflesling_quad_green",
+      "Chance": 0.1818181800842285,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "rifleslingfront_quad_green",
+      "Chance": 0.1818181800842285,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "rifleslingback_quad_green",
+      "Chance": 0.1818181800842285,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "rifleholster_TTsKO_mung",
+      "Chance": 0.1818181800842285,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "quad_gen2_Suit",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "quad_Gen2_Black",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "quad_Gen2_Green",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TacticalPouch_Green",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TacticalPouch_Black",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TacticalPouch_Tan",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TacticalPouch_Flora",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "quad_Ronin_Helmet",
+      "Chance": 0.0036363637447357176,
+      "Quantity": {
+        "Min": 0.06,
+        "Max": 0.86
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "quad_Ronin_Gold",
+      "Chance": 0.0036363637447357176,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
