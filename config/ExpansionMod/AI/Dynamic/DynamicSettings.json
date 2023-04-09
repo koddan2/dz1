@@ -3,8 +3,8 @@
     "Dynamic_MinTimer": 300000,
     "Dynamic_MaxTimer": 900000,
     "MinDistance": 140,
-    "MaxDistance": 220,
-    "HuntMode": 6,
+    "MaxDistance": 280,
+    "HuntMode": 1,
     "Points_Enabled": 0,
     "EngageTimer": 300000,
     "CleanupTimer": 1360000,
@@ -26,21 +26,21 @@
     "Group": [
         {
             "Dynamic_MinCount": 2,
-            "Dynamic_MaxCount": 2,
+            "Dynamic_MaxCount": 4,
             "Dynamic_Weight": 200.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"
         },
         {
             "Dynamic_MinCount": 1,
-            "Dynamic_MaxCount": 3,
+            "Dynamic_MaxCount": 5,
             "Dynamic_Weight": 300.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"
         },
         {
-            "Dynamic_MinCount": 2,
-            "Dynamic_MaxCount": 5,
+            "Dynamic_MinCount": 3,
+            "Dynamic_MaxCount": 6,
             "Dynamic_Weight": 50.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"

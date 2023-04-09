@@ -273,7 +273,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_quad_green">
-    <nominal>200</nominal>
+    <nominal>140</nominal>
     <min>20</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -295,7 +295,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_green">
-    <nominal>200</nominal>
+    <nominal>140</nominal>
     <min>20</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -317,7 +317,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_green">
-    <nominal>200</nominal>
+    <nominal>140</nominal>
     <min>20</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -339,7 +339,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleholster_TTsKO_mung">
-    <nominal>200</nominal>
+    <nominal>140</nominal>
     <min>20</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -559,6 +559,182 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Quad_ArmourPlate">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="6b13Vest_FloraBrown">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="6b13Vest_PixelGreen">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="6b13Vest_PixelBlack">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Quad_SCARL">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Quad_SLR">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="tacticalbelt_quad_black">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="tacticalbelt_quad_green">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Town" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Industrial" />
+    <usage name="Coast" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="tacticalbelt_quad_tan">
     <nominal>4</nominal>
     <min>2</min>
     <lifetime>14400</lifetime>
