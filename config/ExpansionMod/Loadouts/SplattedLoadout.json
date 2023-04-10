@@ -13056,7 +13056,7 @@
     },
     {
       "ClassName": "Flag_BabyDeer",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13075,7 +13075,7 @@
     },
     {
       "ClassName": "Flag_Bohemia",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13094,7 +13094,7 @@
     },
     {
       "ClassName": "Flag_CDF",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13113,7 +13113,7 @@
     },
     {
       "ClassName": "Flag_CHEL",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13132,7 +13132,7 @@
     },
     {
       "ClassName": "Flag_CMC",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13151,7 +13151,7 @@
     },
     {
       "ClassName": "Flag_Cannibals",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13189,7 +13189,7 @@
     },
     {
       "ClassName": "Flag_Chernarus",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13208,7 +13208,7 @@
     },
     {
       "ClassName": "Flag_DayZ",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13227,7 +13227,7 @@
     },
     {
       "ClassName": "Flag_HunterZ",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13246,7 +13246,7 @@
     },
     {
       "ClassName": "Flag_NAPA",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13265,7 +13265,7 @@
     },
     {
       "ClassName": "Flag_Pirates",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13284,7 +13284,7 @@
     },
     {
       "ClassName": "Flag_RSTA",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13303,7 +13303,7 @@
     },
     {
       "ClassName": "Flag_Refuge",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13322,7 +13322,7 @@
     },
     {
       "ClassName": "Flag_Rooster",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13360,7 +13360,7 @@
     },
     {
       "ClassName": "Flag_TEC",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13379,7 +13379,7 @@
     },
     {
       "ClassName": "Flag_UEC",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13398,7 +13398,7 @@
     },
     {
       "ClassName": "Flag_White",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13417,7 +13417,7 @@
     },
     {
       "ClassName": "Flag_Wolf",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -13436,7 +13436,7 @@
     },
     {
       "ClassName": "Flag_Zenit",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -14723,7 +14723,7 @@
     },
     {
       "ClassName": "M79",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -16530,7 +16530,7 @@
     },
     {
       "ClassName": "OrientalMachete",
-      "Chance": 0.0009090909361839294,
+      "Chance": 0.001,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -19768,7 +19768,7 @@
     },
     {
       "ClassName": "riflesling_quad_green",
-      "Chance": 0.12727272987365723,
+      "Chance": 0.08,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -19787,7 +19787,7 @@
     },
     {
       "ClassName": "rifleslingfront_quad_green",
-      "Chance": 0.12727272987365723,
+      "Chance": 0.08,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -19806,7 +19806,7 @@
     },
     {
       "ClassName": "rifleslingback_quad_green",
-      "Chance": 0.12727272987365723,
+      "Chance": 0.08,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86
@@ -19825,7 +19825,7 @@
     },
     {
       "ClassName": "rifleholster_TTsKO_mung",
-      "Chance": 0.12727272987365723,
+      "Chance": 0.08,
       "Quantity": {
         "Min": 0.06,
         "Max": 0.86

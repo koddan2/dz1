@@ -4,7 +4,7 @@
     "Dynamic_MaxTimer": 900000,
     "MinDistance": 140,
     "MaxDistance": 280,
-    "HuntMode": 1,
+    "HuntMode": 6,
     "Points_Enabled": 0,
     "EngageTimer": 300000,
     "CleanupTimer": 1360000,

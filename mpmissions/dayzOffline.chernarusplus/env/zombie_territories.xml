@@ -800,8 +800,6 @@
 
 
 
-
-
     <territory color="1136576269">
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="7714.73" z="12723.7" r="60"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="3357.72" z="13141.2" r="140"/>
