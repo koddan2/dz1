@@ -9,13 +9,15 @@ _@*
 *.so
 
 
-/config/CommunityOnlineTools/Items/
-/config/CommunityOnlineTools/Vehicles/
-/config/PermissionsFramework/
+/*/CommunityOnlineTools/Items/
+/*/CommunityOnlineTools/Vehicles/
+/*/PermissionsFramework/
 
-/mpmissions/dayzOffline.chernarusplus/storage_*
-/mpmissions/dayzOffline.chernarusplus/_storage_*
-/mpmissions/dayzOffline.chernarusplus/__storage_*
+*.DayZProfile
+*.dayz_preset_User.xml
+
+/mpmissions/*/storage_*
+/mpmissions/*/*storage_*
 
 **/logs/**
 **/Logs/**

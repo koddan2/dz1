@@ -44,6 +44,13 @@
             "Dynamic_Weight": 50.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"
+        },
+        {
+            "Dynamic_MinCount": 2,
+            "Dynamic_MaxCount": 5,
+            "Dynamic_Weight": 25.0,
+            "Dynamic_Loadout": "SplattedLoadout.json",
+            "Dynamic_Faction": "Shamans"
         }
     ],
     "Point": [

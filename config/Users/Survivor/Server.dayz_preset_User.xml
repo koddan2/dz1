@@ -876,9 +876,6 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
-    <input name="UAEarPlugsToggle">
-        <btn name="kN" />
-    </input>
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
@@ -972,67 +969,6 @@
         <btn name="kRMenu">
             <btn name="kN" />
         </btn>
-    </input>
-    <input name="UARFFSCyclicForward">
-        <btn name="kW" />
-        <btn name="ps4LeftThumbUp" />
-    </input>
-    <input name="UARFFSCyclicBack">
-        <btn name="kS" />
-        <btn name="ps4LeftThumbDown" />
-    </input>
-    <input name="UARFFSCyclicLeft">
-        <btn name="kA" />
-        <btn name="ps4LeftThumbLeft" />
-    </input>
-    <input name="UARFFSCyclicRight">
-        <btn name="kD" />
-        <btn name="ps4LeftThumbRight" />
-    </input>
-    <input name="UARFFSPedalLeft">
-        <btn name="kQ" />
-        <btn name="ps4ShoulderLeft" />
-    </input>
-    <input name="UARFFSPedalRight">
-        <btn name="kE" />
-        <btn name="ps4ShoulderRight" />
-    </input>
-    <input name="UARFFSCollectiveUp">
-        <btn name="kLShift" />
-        <btn name="mWheelUp" />
-        <btn name="ps4A" />
-    </input>
-    <input name="UARFFSCollectiveDown">
-        <btn name="kZ" />
-        <btn name="mWheelDown" />
-        <btn name="ps4B" />
-    </input>
-    <input name="UARFFSLandingLights">
-        <btn name="kL" />
-    </input>
-    <input name="UARFFSToggleHUD">
-        <btn name="kB" />
-    </input>
-    <input name="UARFFSToggleCommand">
-        <btn name="kBackslash" />
-    </input>
-    <input name="UARFFSRecover">
-        <btn name="kAdd" />
-    </input>
-    <input name="UAToggleHood">
-        <btn name="kT" />
-    </input>
-    <input name="UAZBerryOpenAdminMenu">
-        <btn name="kO" />
-    </input>
-    <input name="UASchanaPartyMenu">
-        <btn name="kP" />
-    </input>
-    <input name="UASchanaPartyPing">
-        <btn name="kT" />
-    </input>
-    <input name="UASchanaPartyPingClear">
-        <btn name="kY" />
     </input>
     <input name="eAICommandMenu">
         <btn name="kT" />
