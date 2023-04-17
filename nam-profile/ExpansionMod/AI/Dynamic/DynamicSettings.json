@@ -1,13 +1,13 @@
 {
     "Version": 14,
-    "Dynamic_MinTimer": 1200000,
-    "Dynamic_MaxTimer": 1200000,
+    "Dynamic_MinTimer": 500000,
+    "Dynamic_MaxTimer": 700000,
     "MinDistance": 140,
-    "MaxDistance": 220,
+    "MaxDistance": 370,
     "HuntMode": 1,
     "Points_Enabled": 0,
     "EngageTimer": 300000,
-    "CleanupTimer": 360000,
+    "CleanupTimer": 1360000,
     "PlayerChecks": 0,
     "MaxAI": 20,
     "GroupDifficulty": 1,
@@ -15,11 +15,8 @@
     "MessageType": 1,
     "MessageTitle": "Dynamic AI",
     "MessageText": "AI Spotted in the Area. Be Careful.",
-    "Lootable": 0,
+    "Lootable": 1,
     "LootWhitelist": [
-        "Expansion_AWM",
-        "AKM",
-        "M4A1"
     ],
     "Dynamic_InVehicle": 0,
     "Dynamic_IsBleeding": 0,
@@ -31,68 +28,33 @@
     "Group": [
         {
             "Dynamic_MinCount": 2,
-            "Dynamic_MaxCount": 2,
+            "Dynamic_MaxCount": 4,
             "Dynamic_Weight": 200.0,
-            "Dynamic_Loadout": "NBCLoadout.json",
-            "Dynamic_Faction": "Guards"
+            "Dynamic_Loadout": "SplattedLoadout.json",
+            "Dynamic_Faction": "Mercenaries"
         },
         {
             "Dynamic_MinCount": 1,
-            "Dynamic_MaxCount": 3,
+            "Dynamic_MaxCount": 5,
             "Dynamic_Weight": 300.0,
-            "Dynamic_Loadout": "HumanLoadout.json",
-            "Dynamic_Faction": "Shamans"
+            "Dynamic_Loadout": "SplattedLoadout.json",
+            "Dynamic_Faction": "Mercenaries"
+        },
+        {
+            "Dynamic_MinCount": 3,
+            "Dynamic_MaxCount": 6,
+            "Dynamic_Weight": 50.0,
+            "Dynamic_Loadout": "SplattedLoadout.json",
+            "Dynamic_Faction": "Mercenaries"
         },
         {
             "Dynamic_MinCount": 2,
-            "Dynamic_MaxCount": 3,
-            "Dynamic_Weight": 350.0,
-            "Dynamic_Loadout": "EastLoadout.json",
-            "Dynamic_Faction": "Passive"
+            "Dynamic_MaxCount": 5,
+            "Dynamic_Weight": 25.0,
+            "Dynamic_Loadout": "SplattedLoadout.json",
+            "Dynamic_Faction": "Shamans"
         }
     ],
     "Point": [
-        {
-            "Dynamic_Radius": 50.0,
-            "Dynamic_ZoneLoadout": "EastLoadout.json",
-            "Dynamic_Faction": "East",
-            "Dynamic_HuntMode": 6,
-            "Dynamic_MinCount": 0,
-            "Dynamic_MaxCount": 4,
-            "Dynamic_Safe": 0,
-            "Dynamic_Position": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Dynamic_Radius": 100.0,
-            "Dynamic_ZoneLoadout": "WestLoadout.json",
-            "Dynamic_Faction": "West",
-            "Dynamic_HuntMode": 1,
-            "Dynamic_MinCount": 0,
-            "Dynamic_MaxCount": 5,
-            "Dynamic_Safe": 0,
-            "Dynamic_Position": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Dynamic_Radius": 150.0,
-            "Dynamic_ZoneLoadout": "HumanLoadout.json",
-            "Dynamic_Faction": "Civilian",
-            "Dynamic_HuntMode": 0,
-            "Dynamic_MinCount": 0,
-            "Dynamic_MaxCount": 0,
-            "Dynamic_Safe": 1,
-            "Dynamic_Position": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        }
     ]
 }

@@ -944,6 +944,7 @@ if (!group) return EXIT;
 unit.OverrideTargetPosition(group.GetFormationPosition(unit));	
 unit.OverrideMovementDirection(false, 0);	
 unit.OverrideMovementSpeed(false, 0);	
+if (unit.GetMovementSpeedLimit() > 0)	
 unit.SetMovementSpeedLimit(3);  //! Make sure AI can reach formation positions when following leader by overriding speed limit 	
 return EXIT;	
 }
