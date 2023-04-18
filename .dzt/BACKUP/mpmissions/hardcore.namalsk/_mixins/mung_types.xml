@@ -2,8 +2,8 @@
 <types>
   <type name="meleesling_colorbase_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>0</lifetime>
+    <restock>6000</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -13,12 +13,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="meleesling_black_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>0</lifetime>
+    <restock>6000</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -28,12 +32,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_colorbase_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>0</lifetime>
+    <restock>6000</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -43,12 +51,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_black_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>0</lifetime>
+    <restock>6000</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -58,12 +70,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleholster_black_mung">
     <nominal>140</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -73,12 +89,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="bag_6B38_black_mung">
     <nominal>14</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -88,12 +108,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="bag_6B38_LETO_mung">
     <nominal>14</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -103,12 +127,16 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Hunting" />
+    <usage name="Farm" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="csmcmillan_mung">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -118,12 +146,13 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Mag_cs5_10Rnd_mung">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -133,12 +162,13 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="mcmillan_buttstock">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
-    <restock>60</restock>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -148,6 +178,7 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+    <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
 </types>
