@@ -143,6 +143,9 @@
             <child lootmax="0" lootmin="0" max="0" min="15" type="ZmbM_ruSoldier_normal_Woodland2"/>
             <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_usSoldier_normal_Woodland"/>
             <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_nacSoldier_normal"/>
+
+            <!-- cdaj -->
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CDAJ_ZmbM_Dark_Heavy" />
         </children>
     </event>
     <event name="InfectedIndustrial">

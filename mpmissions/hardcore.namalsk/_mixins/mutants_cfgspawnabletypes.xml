@@ -11,6 +11,8 @@
 		<cargo preset="mutants_rep" />
 		<cargo preset="mutants_wep0" />
 		<cargo preset="mutants_wep1" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
 	</type>
 	<type name="CDAJ_ZmbM_Demon">
 		<cargo preset="mutants_ammo0" />
