@@ -9,11 +9,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
   <type name="mmg_cargobelt_green">
@@ -25,11 +26,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
   <type name="mmg_cargobelt_tan">
@@ -41,11 +43,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
   <!--DUMP POUCH-->
@@ -58,11 +61,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
   <type name="mmg_dump_pouch_green">
@@ -74,11 +78,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
   <type name="mmg_dump_pouch_tan">
@@ -90,11 +95,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
 </types>

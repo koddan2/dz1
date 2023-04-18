@@ -9,12 +9,13 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
   <!--GP-NVG-->
@@ -26,12 +27,13 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <value name="tier3" />
+    <value name="tier4" />
+    <value name="tier5" />
+    <value name="tier6" />
+    <value name="tier7" />
     <tag name="military" />
   </type>
 </types>

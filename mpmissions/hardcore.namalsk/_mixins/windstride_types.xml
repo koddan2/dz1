@@ -334,13 +334,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Military_Sweater_Red">
     <nominal>10</nominal>
@@ -351,13 +350,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Military_Sweater_Blue">
     <nominal>10</nominal>
@@ -368,13 +366,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Military_Sweater_Green">
     <nominal>10</nominal>
@@ -385,13 +382,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Military_Sweater_Black">
     <nominal>10</nominal>
@@ -402,13 +398,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Military_Sweater_White">
     <nominal>10</nominal>
@@ -419,13 +414,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="High_Knee_Sneakers">
     <nominal>20</nominal>
@@ -1044,14 +1038,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Scarf_Brown">
     <nominal>5</nominal>
@@ -1209,12 +1201,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Defender_Vest_Black">
     <nominal>5</nominal>
@@ -1225,12 +1217,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Defender_Vest_Green">
     <nominal>5</nominal>
@@ -1241,12 +1233,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <category name="clothes" />
-    <value name="Tier3" />
-    <value name="Tier4" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <tag name="civilian" />
-    <tag name="farm" />
-    <tag name="fishing" />
+    <value name="tier1" />
+    <value name="tier2" />
+    <value name="tier3" />
+    <tag name="military" />
+    <tag name="police" />
   </type>
   <type name="Galife_Pants_Olive">
     <nominal>7</nominal>
