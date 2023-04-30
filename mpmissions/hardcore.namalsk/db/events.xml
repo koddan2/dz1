@@ -303,6 +303,9 @@
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_MotobikerFat_Beige"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_MotobikerFat_Black"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_MotobikerFat_Blue"/>
+
+            <!-- cdaj -->
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CDAJ_ZmbM_Dark_Heavy" />
         </children>
     </event>
     <event name="InfectedMedic">

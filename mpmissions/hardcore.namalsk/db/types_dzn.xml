@@ -498,8 +498,8 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="dzn_printer_filament_abs">
-    <nominal>1</nominal>
-    <min>1</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>1800</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>
@@ -511,8 +511,8 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="dzn_printer_filament_tpc">
-    <nominal>1</nominal>
-    <min>1</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>1800</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>
@@ -524,8 +524,8 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="dzn_printer_filament_nylon">
-    <nominal>1</nominal>
-    <min>1</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>1800</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>

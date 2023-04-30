@@ -3656,7 +3656,7 @@
   <type name="Barrel_Green">
     <nominal>3</nominal>
     <min>2</min>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3669,7 +3669,7 @@
   <type name="Barrel_Blue">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3682,7 +3682,7 @@
   <type name="Barrel_Red">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3695,7 +3695,7 @@
   <type name="Barrel_Yellow">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -11191,22 +11191,22 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="BarrelHoles_Green">
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="BarrelHoles_Blue">
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="BarrelHoles_Red">
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="BarrelHoles_Yellow">
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>

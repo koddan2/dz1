@@ -7,8 +7,8 @@
     "HuntMode": 6,
     "Points_Enabled": 0,
     "EngageTimer": 300000,
-    "CleanupTimer": 36000000,
-    "PlayerChecks": 0,
+    "CleanupTimer": 960000,
+    "PlayerChecks": 2,
     "MaxAI": 20,
     "GroupDifficulty": 1,
     "Chance": 1,
@@ -31,28 +31,28 @@
             "Dynamic_MaxCount": 4,
             "Dynamic_Weight": 200.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
-            "Dynamic_Faction": "Raiders"
+            "Dynamic_Faction": "Mercenaries"
         },
         {
             "Dynamic_MinCount": 1,
             "Dynamic_MaxCount": 5,
             "Dynamic_Weight": 300.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
-            "Dynamic_Faction": "Raiders"
+            "Dynamic_Faction": "Mercenaries"
         },
         {
             "Dynamic_MinCount": 3,
             "Dynamic_MaxCount": 6,
             "Dynamic_Weight": 50.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
-            "Dynamic_Faction": "Raiders"
+            "Dynamic_Faction": "Mercenaries"
         },
         {
             "Dynamic_MinCount": 2,
             "Dynamic_MaxCount": 5,
             "Dynamic_Weight": 25.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
-            "Dynamic_Faction": "Raiders"
+            "Dynamic_Faction": "Mercenaries"
         }
     ],
     "Point": [

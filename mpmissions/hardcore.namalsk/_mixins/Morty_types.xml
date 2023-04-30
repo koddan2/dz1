@@ -1877,7 +1877,7 @@
   </type>
   <type name="TTC_DMR_Barrel_762">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -1892,7 +1892,7 @@
   </type>
   <type name="TTC_DMR_Barrel_556">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -2796,7 +2796,7 @@
   </type>
   <type name="TTC_AKMod_Barrel_76239">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -2811,7 +2811,7 @@
   </type>
   <type name="TTC_AKMod_Barrel_76254">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>1700000</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
