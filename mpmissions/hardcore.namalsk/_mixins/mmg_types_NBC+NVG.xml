@@ -11,11 +11,10 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier3" />
-    <value name="tier4" />
-    <value name="tier5" />
-    <value name="tier6" />
-    <value name="tier7" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
     <tag name="military" />
   </type>
   <!--GP-NVG-->
@@ -29,11 +28,10 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier3" />
-    <value name="tier4" />
-    <value name="tier5" />
-    <value name="tier6" />
-    <value name="tier7" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
     <tag name="military" />
   </type>
 </types>

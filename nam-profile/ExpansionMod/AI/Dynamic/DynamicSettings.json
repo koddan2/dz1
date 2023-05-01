@@ -1,9 +1,9 @@
 {
     "Version": 14,
     "Dynamic_MinTimer": 300000,
-    "Dynamic_MaxTimer": 480000,
+    "Dynamic_MaxTimer": 1480000,
     "MinDistance": 140,
-    "MaxDistance": 370,
+    "MaxDistance": 570,
     "HuntMode": 6,
     "Points_Enabled": 0,
     "EngageTimer": 300000,
@@ -27,16 +27,16 @@
     "Dynamic_InOwnTerritory": 0,
     "Group": [
         {
-            "Dynamic_MinCount": 2,
-            "Dynamic_MaxCount": 4,
+            "Dynamic_MinCount": 1,
+            "Dynamic_MaxCount": 2,
             "Dynamic_Weight": 200.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"
         },
         {
-            "Dynamic_MinCount": 1,
-            "Dynamic_MaxCount": 5,
-            "Dynamic_Weight": 300.0,
+            "Dynamic_MinCount": 2,
+            "Dynamic_MaxCount": 4,
+            "Dynamic_Weight": 100.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"
         },
@@ -44,13 +44,6 @@
             "Dynamic_MinCount": 3,
             "Dynamic_MaxCount": 6,
             "Dynamic_Weight": 50.0,
-            "Dynamic_Loadout": "SplattedLoadout.json",
-            "Dynamic_Faction": "Mercenaries"
-        },
-        {
-            "Dynamic_MinCount": 2,
-            "Dynamic_MaxCount": 5,
-            "Dynamic_Weight": 25.0,
             "Dynamic_Loadout": "SplattedLoadout.json",
             "Dynamic_Faction": "Mercenaries"
         }

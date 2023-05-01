@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
-	<cargo chance="0.20" name="toolsgeneral">
+	<cargo chance="0.30" name="toolsgeneral">
 		<item name="KitchenKnife" chance="0.025" />
 		<item name="HuntingKnife" chance="0.025" />
 		<item name="SteakKnife" chance="0.025" />
@@ -18,7 +18,7 @@
 		<item name="LeatherSewingKit" chance="0.05" />
 	</cargo>
 
-	<cargo chance="0.20" name="toolshunting">
+	<cargo chance="0.30" name="toolshunting">
 		<item name="HuntingKnife" chance="0.15" />
 		<item name="Matchbox" chance="0.10" />
 		<item name="Battery9V" chance="0.15" />
@@ -31,7 +31,7 @@
 		<item name="LeatherSewingKit" chance="0.05" />
 	</cargo>
 	
-	<cargo chance="0.20" name="toolsmilitary">
+	<cargo chance="0.30" name="toolsmilitary">
 		<item name="CombatKnife" chance="0.15" />
 		<item name="Battery9V" chance="0.15" />
 		<item name="UniversalLight" chance="0.10" />
@@ -41,7 +41,7 @@
 		<item name="Epinephrine" chance="0.15" />
 	</cargo>
 
-	<cargo chance="0.20" name="toolsmedic">
+	<cargo chance="0.30" name="toolsmedic">
 		<item name="Heatpack" chance="0.13" />
 		<item name="SewingKit" chance="0.10" />
 		<item name="BandageDressing" chance="0.10" />
@@ -56,7 +56,7 @@
 		<item name="SalineBagIV" chance="0.05" />
 	</cargo>
 
-	<cargo chance="0.20" name="toolspolice">
+	<cargo chance="0.30" name="toolspolice">
 		<item name="BandageDressing" chance="0.10" />
 		<item name="Battery9V" chance="0.10" />
 		<item name="PersonalRadio" chance="0.10" />
@@ -67,7 +67,7 @@
 		<item name="HandcuffKeys" chance="0.10" />
 	</cargo>
 
-	<cargo chance="0.20" name="ammocivil">
+	<cargo chance="0.30" name="ammocivil">
 		<item name="Ammo_380" chance="0.15" />
 		<item name="AmmoBox_380_35rnd" chance="0.10" />
 		<item name="Ammo_9x19" chance="0.15" />
@@ -80,7 +80,7 @@
 		<item name="TTC_AmmoBox_44Mag" chance="0.12" />
 	</cargo>
 
-	<cargo chance="0.20" name="ammopolice">
+	<cargo chance="0.30" name="ammopolice">
 		<item name="Ammo_380" chance="0.20" />
 		<item name="AmmoBox_380_35rnd" chance="0.15" />
 		<item name="Ammo_9x19" chance="0.20" />
@@ -88,6 +88,7 @@
 		<item name="Ammo_45ACP" chance="0.20" />
 		<item name="AmmoBox_45acp_25rnd" chance="0.10" />
 		<item name="TTC_AmmoBox_792x33_20Rnd" chance="0.12" />
+		<item name="TTC_AmmoBox_44Mag" chance="0.12" />
 	</cargo>
 
 	<cargo chance="0.20" name="ammohunting">

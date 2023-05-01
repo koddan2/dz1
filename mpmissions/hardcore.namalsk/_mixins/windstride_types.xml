@@ -335,9 +335,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -351,9 +351,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -367,9 +367,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -383,9 +383,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -399,9 +399,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -415,9 +415,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -1039,9 +1039,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -1202,9 +1202,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -1218,9 +1218,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
@@ -1234,9 +1234,9 @@
     <cost>100</cost>
     <category name="clothes" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="tier1" />
-    <value name="tier2" />
-    <value name="tier3" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <tag name="military" />
     <tag name="police" />
   </type>
