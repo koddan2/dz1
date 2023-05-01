@@ -2,7 +2,7 @@
 <types>
   <type name="JuggernautLVL5_Suit">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -15,7 +15,7 @@
   </type>
   <type name="JuggernautLVL5_Tan">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -28,7 +28,7 @@
   </type>
   <type name="JuggernautLVL5_Black">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -41,7 +41,7 @@
   </type>
   <type name="JuggernautLVL5_Winter">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -54,7 +54,7 @@
   </type>
   <type name="JuggernautLVL1_Suit">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -67,7 +67,7 @@
   </type>
   <type name="JuggernautLVL1_Suit_Tan">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -80,7 +80,7 @@
   </type>
   <type name="JuggernautLVL1_Suit_Black">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -93,7 +93,7 @@
   </type>
   <type name="JuggernautLVL1_Suit_Winter">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -106,7 +106,7 @@
   </type>
   <type name="Juggernaut_Suit_Buttpack">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -119,7 +119,7 @@
   </type>
   <type name="Juggernaut_Buttpack_Tan">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -132,7 +132,7 @@
   </type>
   <type name="Juggernaut_Buttpack_Black">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -145,7 +145,7 @@
   </type>
   <type name="Juggernaut_Buttpack_Winter">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -158,7 +158,7 @@
   </type>
   <type name="Juggernaut_Suit_Pouches">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -171,7 +171,7 @@
   </type>
   <type name="Juggernaut_Pouches_Tan">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -184,7 +184,7 @@
   </type>
   <type name="Juggernaut_Pouches_Black">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -197,7 +197,7 @@
   </type>
   <type name="Juggernaut_Pouches_Winter">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -211,7 +211,7 @@
   <type name="quad_gen2_Suit">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -224,7 +224,7 @@
   <type name="quad_Gen2_Black">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -237,7 +237,7 @@
   <type name="quad_Gen2_Green">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -250,7 +250,7 @@
   <type name="quad_Ronin_Helmet">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -263,7 +263,7 @@
   <type name="quad_Ronin_Gold">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -276,7 +276,7 @@
   <type name="Quad_ArmourPlate">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -289,7 +289,7 @@
   <type name="6b13Vest_FloraBrown">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -302,7 +302,7 @@
   <type name="6b13Vest_PixelGreen">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -315,7 +315,7 @@
   <type name="6b13Vest_PixelBlack">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier4" />
     <value name="tier5" />
@@ -326,9 +326,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="riflesling_quad_green">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -342,9 +342,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingfront_quad_green">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -358,9 +358,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleslingback_quad_green">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -374,9 +374,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleholster_TTsKO_mung">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -390,9 +390,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TacticalPouch_Green">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -406,9 +406,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TacticalPouch_Black">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -422,9 +422,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TacticalPouch_Tan">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -438,9 +438,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TacticalPouch_Flora">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -454,9 +454,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="tacticalbelt_quad_black">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -470,9 +470,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="tacticalbelt_quad_green">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />
@@ -486,9 +486,9 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="tacticalbelt_quad_tan">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <min>1</min>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>0</restock>
     <value name="Tier1" />
     <value name="Tier2" />

@@ -3,7 +3,7 @@
 <types>
   <type name="MMG_nbc_pouch">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -21,7 +21,7 @@
   <!--GP-NVG-->
   <type name="mmg_gp_nvg_black">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>

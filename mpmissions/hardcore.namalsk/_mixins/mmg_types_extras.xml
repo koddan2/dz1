@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="mmg_cargobelt_black">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
+    <nominal>5</nominal>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -18,8 +18,8 @@
     <tag name="military" />
   </type>
   <type name="mmg_cargobelt_green">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
+    <nominal>5</nominal>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -35,8 +35,8 @@
     <tag name="military" />
   </type>
   <type name="mmg_cargobelt_tan">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
+    <nominal>5</nominal>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -54,7 +54,7 @@
   <!--DUMP POUCH-->
   <type name="mmg_dump_pouch_black">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -71,7 +71,7 @@
   </type>
   <type name="mmg_dump_pouch_green">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -88,7 +88,7 @@
   </type>
   <type name="mmg_dump_pouch_tan">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>

@@ -2,7 +2,7 @@
 <types>
   <type name="Blue_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -16,7 +16,7 @@
   </type>
   <type name="Latex_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -30,7 +30,7 @@
   </type>
   <type name="Adidas_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -44,7 +44,7 @@
   </type>
   <type name="Red_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -58,7 +58,7 @@
   </type>
   <type name="Purple_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -72,7 +72,7 @@
   </type>
   <type name="Fleece_Grey_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -86,7 +86,7 @@
   </type>
   <type name="Latex_White_Leggings">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -100,7 +100,7 @@
   </type>
   <type name="PMK_5A_Gas_Mask">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -117,7 +117,7 @@
   </type>
   <type name="Poncho_Red_Checkered">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -131,7 +131,7 @@
   </type>
   <type name="Poncho_Blue_Checkered">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -145,7 +145,7 @@
   </type>
   <type name="Poncho_Yellow_Checkered">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -159,7 +159,7 @@
   </type>
   <type name="Poncho_Brown">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -173,7 +173,7 @@
   </type>
   <type name="Poncho_Green">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -187,7 +187,7 @@
   </type>
   <type name="Poncho_White">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -201,7 +201,7 @@
   </type>
   <type name="Poncho_Red">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -215,7 +215,7 @@
   </type>
   <type name="Poncho_Black">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -229,7 +229,7 @@
   </type>
   <type name="Poncho_BlackAndWhite">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -243,7 +243,7 @@
   </type>
   <type name="Poncho_BlackAndWhite2">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -257,7 +257,7 @@
   </type>
   <type name="Fingerless_Gloves">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
@@ -271,7 +271,7 @@
   </type>
   <type name="Fingerless_Gloves_Brown">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
@@ -285,7 +285,7 @@
   </type>
   <type name="Fingerless_Gloves_Wool">
     <nominal>7</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
@@ -299,7 +299,7 @@
   </type>
   <type name="Fingerless_Gloves_Wool_Grey">
     <nominal>7</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
@@ -313,7 +313,7 @@
   </type>
   <type name="Fingerless_Gloves_Wool_Black">
     <nominal>7</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
@@ -327,7 +327,7 @@
   </type>
   <type name="Military_Sweater">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -343,7 +343,7 @@
   </type>
   <type name="Military_Sweater_Red">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -359,7 +359,7 @@
   </type>
   <type name="Military_Sweater_Blue">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -375,7 +375,7 @@
   </type>
   <type name="Military_Sweater_Green">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -391,7 +391,7 @@
   </type>
   <type name="Military_Sweater_Black">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -407,7 +407,7 @@
   </type>
   <type name="Military_Sweater_White">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -423,7 +423,7 @@
   </type>
   <type name="High_Knee_Sneakers">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -437,7 +437,7 @@
   </type>
   <type name="High_Knee_Sneakers_Black">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -451,7 +451,7 @@
   </type>
   <type name="Shemagh_Brown">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -468,7 +468,7 @@
   </type>
   <type name="Shemagh_Green">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
@@ -485,7 +485,7 @@
   </type>
   <type name="Shemagh_Red">
     <nominal>25</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>20</min>
     <quantmin>-1</quantmin>
@@ -499,7 +499,7 @@
   </type>
   <type name="Shemagh_White">
     <nominal>25</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>20</min>
     <quantmin>-1</quantmin>
@@ -513,7 +513,7 @@
   </type>
   <type name="Shemagh_Black">
     <nominal>25</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>20</min>
     <quantmin>-1</quantmin>
@@ -527,7 +527,7 @@
   </type>
   <type name="Layered_Shirt_Base">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
@@ -541,7 +541,7 @@
   </type>
   <type name="Layered_Shirt_White">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
@@ -555,7 +555,7 @@
   </type>
   <type name="Layered_Shirt_Cheburashka">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
@@ -569,7 +569,7 @@
   </type>
   <type name="Layered_Shirt_Courage">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
@@ -583,7 +583,7 @@
   </type>
   <type name="Layered_Shirt_Lily">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
@@ -597,7 +597,7 @@
   </type>
   <type name="Canvas_Backpack_Base">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -611,7 +611,7 @@
   </type>
   <type name="Canvas_Backpack_Black">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -625,7 +625,7 @@
   </type>
   <type name="Canvas_Backpack_White">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -639,7 +639,7 @@
   </type>
   <type name="Canvas_Backpack_Red">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -653,7 +653,7 @@
   </type>
   <type name="Canvas_Backpack_Blue">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -667,7 +667,7 @@
   </type>
   <type name="Canvas_Backpack_Purple">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -681,7 +681,7 @@
   </type>
   <type name="Golden_Winged_Pin">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -695,7 +695,7 @@
   </type>
   <type name="Button_Pin_Radioactive">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -709,7 +709,7 @@
   </type>
   <type name="Button_Pin_Daisy">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -723,7 +723,7 @@
   </type>
   <type name="Sheriff_Badge">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -737,7 +737,7 @@
   </type>
   <type name="Ragged_Eyepatch">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -751,7 +751,7 @@
   </type>
   <type name="Kneepads_Jeans_Base">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -765,7 +765,7 @@
   </type>
   <type name="Kneepads_Jeans_Black">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -779,7 +779,7 @@
   </type>
   <type name="Winter_Parka_Base">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -793,7 +793,7 @@
   </type>
   <type name="Winter_Parka_White">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -807,7 +807,7 @@
   </type>
   <type name="Winter_Parka_Green">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -821,7 +821,7 @@
   </type>
   <type name="Medium_Sleeves_Shirt">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -835,7 +835,7 @@
   </type>
   <type name="Medium_Sleeves_Shirt_Red">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -849,7 +849,7 @@
   </type>
   <type name="Medium_Sleeves_Shirt_Blue">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -863,7 +863,7 @@
   </type>
   <type name="FlipFlops_Colorbase">
     <nominal>40</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>20</min>
     <quantmin>-1</quantmin>
@@ -877,7 +877,7 @@
   </type>
   <type name="HumanSkull">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -891,7 +891,7 @@
   </type>
   <type name="SkullMask">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -905,7 +905,7 @@
   </type>
   <type name="Slouch_Hat_Brown">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -919,7 +919,7 @@
   </type>
   <type name="Eyepatch">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
@@ -933,7 +933,7 @@
   </type>
   <type name="SK8_Sneakers_Black">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -947,7 +947,7 @@
   </type>
   <type name="SK8_Sneakers_FullBlack">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -961,7 +961,7 @@
   </type>
   <type name="SK8_Sneakers_Blue">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -975,7 +975,7 @@
   </type>
   <type name="Round_Glasses">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -989,7 +989,7 @@
   </type>
   <type name="Round_Glasses_Black">
     <nominal>15</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -1003,7 +1003,7 @@
   </type>
   <type name="Skinny_Jeans_Black">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -1017,7 +1017,7 @@
   </type>
   <type name="Skinny_Jeans_Blue">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -1031,7 +1031,7 @@
   </type>
   <type name="Tactical_Leg_Holster_Black">
     <nominal>10</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
@@ -1047,7 +1047,7 @@
   </type>
   <type name="Scarf_Brown">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -1064,7 +1064,7 @@
   </type>
   <type name="Scarf_ColorPalette1">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -1081,7 +1081,7 @@
   </type>
   <type name="Scarf_Blue">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -1098,7 +1098,7 @@
   </type>
   <type name="Wool_GreatCoat_Navy">
     <nominal>2</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -1115,7 +1115,7 @@
   </type>
   <type name="Wool_GreatCoat_Olive">
     <nominal>2</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -1132,7 +1132,7 @@
   </type>
   <type name="Wool_GreatCoat_Grey">
     <nominal>2</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -1149,7 +1149,7 @@
   </type>
   <type name="Plague_Mask">
     <nominal>2</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -1166,7 +1166,7 @@
   </type>
   <type name="Leather_Cloak">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -1180,7 +1180,7 @@
   </type>
   <type name="Kirza_Boots">
     <nominal>20</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -1194,7 +1194,7 @@
   </type>
   <type name="Defender_Vest_Classic">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -1210,7 +1210,7 @@
   </type>
   <type name="Defender_Vest_Black">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -1226,7 +1226,7 @@
   </type>
   <type name="Defender_Vest_Green">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -1242,7 +1242,7 @@
   </type>
   <type name="Galife_Pants_Olive">
     <nominal>7</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -1256,7 +1256,7 @@
   </type>
   <type name="Galife_Pants_Navy">
     <nominal>7</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>5</min>
     <quantmin>-1</quantmin>

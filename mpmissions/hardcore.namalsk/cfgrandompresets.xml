@@ -250,61 +250,75 @@
 	<!-- police infected -->
 	<attachments chance="1.00" name="headsPolice">
 		<item name="PoliceCap" chance="0.80" />
+		<item name="MMG_tactical_helmet_police" chance="1.00" />
 	</attachments>
 	<attachments chance="1.00" name="vestsPolice">
-		<item name="ChestHolster" chance="0.70" />
-		<item name="PoliceVest" chance="0.30" />
+		<item name="ChestHolster" chance="0.20" />
+		<item name="PoliceVest" chance="0.50" />
+		<item name="MMG_tt_Vest_police" chance="0.30" />
 	</attachments>
 
 	<!-- police-riot infected -->
 	<attachments chance="1.00" name="headsPoliceriot">
 		<!--<item name="GorkaHelmet_Black" chance="0.60" />-->
-		<item name="PoliceCap" chance="0.80" />
+		<!-- <item name="PoliceCap" chance="0.80" /> -->
+		<item name="MMG_tactical_helmet_police" chance="1.00" />
 	</attachments>
 	<attachments chance="1.00" name="vestsPoliceriot">
-		<item name="PoliceVest" chance="1.00" />
+		<item name="PoliceVest" chance="0.40" />
+		<item name="MMG_tt_Vest_police" chance="0.60" />
 	</attachments>
 
 	<!-- army infected - NAC -->
 	<attachments chance="0.70" name="headsNAC">
 		<!--<item name="Mich2001Helmet" chance="0.50" />
 		<item name="BallisticHelmet_Black" chance="0.40" />-->
-		<item name="dzn_milberet_black" chance="0.10" />
+		<!-- <item name="dzn_milberet_black" chance="0.10" /> -->
+		<item name="MMG_tactical_helmet_black" chance="1.00" />
 	</attachments>
-	<attachments chance="0.25" name="vestsNAC">
+	<attachments chance="1.00" name="vestsNAC">
 		<item name="dzn_ballisticvest_nac" chance="0.20" />
-		<item name="dzn_highcapacityvest_nac" chance="0.25" />
-		<item name="dzn_smershvest_black" chance="0.25" />
-		<item name="UKAssVest_Black" chance="0.25" />
-		<item name="PlateCarrierVest_Black" chance="0.05" />
+		<item name="dzn_highcapacityvest_nac" chance="0.05" />
+		<item name="dzn_smershvest_black" chance="0.05" />
+		<item name="UKAssVest_Black" chance="0.05" />
+		<item name="PlateCarrierVest_Black" chance="0.25" />
+		<item name="MMG_JPC_Vest_black" chance="0.20" />
+		<item name="MMG_MK_III_Armor_black" chance="0.20" />
 	</attachments>
 	<!-- army infected - USMC -->
 	<attachments chance="0.70" name="headsUS">
 		<!--<item name="Mich2001Helmet" chance="0.80" />-->
-		<item name="dzn_milberet_green" chance="0.20" />
+		<!-- <item name="dzn_milberet_green" chance="0.20" /> -->
+		<item name="MMG_tactical_helmet_green" chance="1.00" />
 	</attachments>
-	<attachments chance="0.25" name="vestsUS">
-		<item name="UKAssVest_Camo" chance="0.30" />
-		<item name="UKAssVest_Olive" chance="0.30" />
-		<item name="UKAssVest_Khaki" chance="0.30" />
+	<attachments chance="1.00" name="vestsUS">
+		<item name="UKAssVest_Camo" chance="0.10" />
+		<item name="UKAssVest_Olive" chance="0.10" />
+		<item name="UKAssVest_Khaki" chance="0.10" />
 		<item name="PlateCarrierVest" chance="0.10" />
+		<item name="MMG_JPC_Vest_olive" chance="0.30" />
+		<item name="MMG_MK_III_Armor_green" chance="0.30" />
 	</attachments>
 	<!-- army infected - RU -->
 	<attachments chance="0.70" name="headsRU">
 		<!--<item name="BallisticHelmet_Green" chance="0.50" /> 
 		<item name="GorkaHelmet" chance="0.30" />-->
-		<item name="dzn_milberet_green" chance="0.10" />
-		<item name="dzn_milberet_specnaz" chance="0.10" />
+		<!-- <item name="dzn_milberet_green" chance="0.10" /> -->
+		<!-- <item name="dzn_milberet_specnaz" chance="0.10" /> -->
+
+		<item name="MMG_tactical_helmet_green" chance="1.00" />
 	</attachments>
-	<attachments chance="0.25" name="vestsRU">
-		<item name="SmershVest" chance="0.50" />
-		<item name="HighCapacityVest_Olive" chance="0.45" />
-		<item name="PlateCarrierVest_Green" chance="0.05" />
+	<attachments chance="1.00" name="vestsRU">
+		<item name="SmershVest" chance="0.20" />
+		<item name="HighCapacityVest_Olive" chance="0.25" />
+		<item name="PlateCarrierVest_Green" chance="0.25" />
+		<item name="6b13Vest_FloraBrown" chance="0.30" />
 	</attachments>
-	<attachments chance="0.25" name="vestsRUCamo">
-		<item name="SmershVest" chance="0.50" />
-		<item name="HighCapacityVest_Olive" chance="0.45" />
+	<attachments chance="1.00" name="vestsRUCamo">
+		<item name="SmershVest" chance="0.20" />
+		<item name="HighCapacityVest_Olive" chance="0.25" />
 		<item name="PlateCarrierVest_Camo" chance="0.05" />
+		<item name="6b13Vest_PixelGreen" chance="0.30" />
 	</attachments>
 
 	<cargo chance="0.90" name="mutants_ammo0">

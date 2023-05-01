@@ -2,7 +2,7 @@
 <types>
   <type name="meleesling_colorbase_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -20,7 +20,7 @@
   </type>
   <type name="meleesling_black_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -38,7 +38,7 @@
   </type>
   <type name="riflesling_colorbase_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -56,7 +56,7 @@
   </type>
   <type name="riflesling_black_mung">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -74,7 +74,7 @@
   </type>
   <type name="rifleholster_black_mung">
     <nominal>140</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -92,7 +92,7 @@
   </type>
   <type name="bag_6B38_black_mung">
     <nominal>14</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -110,7 +110,7 @@
   </type>
   <type name="bag_6B38_LETO_mung">
     <nominal>14</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
@@ -128,7 +128,7 @@
   </type>
   <type name="csmcmillan_mung">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -146,7 +146,7 @@
   </type>
   <type name="Mag_cs5_10Rnd_mung">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
@@ -164,7 +164,7 @@
   </type>
   <type name="mcmillan_buttstock">
     <nominal>5</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>2</min>
     <quantmin>-1</quantmin>

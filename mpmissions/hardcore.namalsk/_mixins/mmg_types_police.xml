@@ -3,7 +3,7 @@
 <types>
   <type name="MMG_tt_Vest_police">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -20,7 +20,7 @@
   </type>
   <type name="MMG_tactical_helmet_police">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -37,7 +37,7 @@
   </type>
   <type name="MMG_combatshirt_police">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
@@ -54,7 +54,7 @@
   </type>
   <type name="MMG_combatpants_police">
     <nominal>1</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3600</lifetime>
     <restock>60</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
