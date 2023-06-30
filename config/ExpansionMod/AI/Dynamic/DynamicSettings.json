@@ -9,7 +9,7 @@
     "EngageTimer": 300000,
     "CleanupTimer": 1360000,
     "PlayerChecks": 0,
-    "MaxAI": 20,
+    "MaxAI": 10,
     "MessageType": 1,
     "MessageTitle": "Dynamic AI",
     "MessageText": "AI Spotted in the Area. Be Careful.",

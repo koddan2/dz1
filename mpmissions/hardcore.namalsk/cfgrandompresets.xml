@@ -91,7 +91,7 @@
 		<item name="TTC_AmmoBox_44Mag" chance="0.12" />
 	</cargo>
 
-	<cargo chance="0.20" name="ammohunting">
+	<cargo chance="0.30" name="ammohunting">
 		<item name="Ammo_762x39" chance="0.30" />
 		<item name="AmmoBox_762x39_20Rnd" chance="0.20" />
 		<item name="Ammo_762x54" chance="0.30" />
@@ -102,7 +102,7 @@
 		<item name="TTC_AmmoBox_3006_20Rnd" chance="0.12" />
 	</cargo>
 
-	<cargo chance="0.20" name="ammomilitary">
+	<cargo chance="0.30" name="ammomilitary">
 		<item name="Ammo_556x45" chance="0.15" />
 		<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
 		<item name="Ammo_762x39" chance="0.15" />
