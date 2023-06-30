@@ -11,13 +11,13 @@
     "EngageTimer": 300000,
     "CleanupTimer": 360000,
     "PlayerChecks": 0,
-    "MaxAI": 20,
+    "MaxAI": 10,
     "GroupDifficulty": 1,
     "Chance": 0.5,
     "MessageType": 1,
     "MessageTitle": "Spatial AI",
     "MessageText": "AI Spotted in the Area. Be Careful.",
-    "Lootable": 0,
+    "Lootable": 1,
     "LootWhitelist": [],
     "Spatial_InVehicle": 0,
     "Spatial_IsBleeding": 0,
@@ -31,7 +31,7 @@
             "Spatial_MinCount": 2,
             "Spatial_MaxCount": 2,
             "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "NBCLoadout.json",
+            "Spatial_Loadout": "SplattedLoadout.json",
             "Spatial_Faction": "Guards",
             "Spatial_Name": "Guard"
         },
@@ -39,7 +39,7 @@
             "Spatial_MinCount": 1,
             "Spatial_MaxCount": 3,
             "Spatial_Weight": 300.0,
-            "Spatial_Loadout": "HumanLoadout.json",
+            "Spatial_Loadout": "SplattedLoadout.json",
             "Spatial_Faction": "Shamans",
             "Spatial_Name": "Shaman"
         },
@@ -47,7 +47,7 @@
             "Spatial_MinCount": 2,
             "Spatial_MaxCount": 3,
             "Spatial_Weight": 350.0,
-            "Spatial_Loadout": "EastLoadout.json",
+            "Spatial_Loadout": "SplattedLoadout.json",
             "Spatial_Faction": "Passive",
             "Spatial_Name": "Passive"
         }
@@ -55,7 +55,7 @@
     "Point": [
         {
             "Spatial_Radius": 50.0,
-            "Spatial_ZoneLoadout": "EastLoadout.json",
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_HuntMode": 6,
@@ -70,7 +70,7 @@
         },
         {
             "Spatial_Radius": 100.0,
-            "Spatial_ZoneLoadout": "WestLoadout.json",
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
             "Spatial_Faction": "West",
             "Spatial_Name": "West",
             "Spatial_HuntMode": 1,
@@ -85,7 +85,7 @@
         },
         {
             "Spatial_Radius": 150.0,
-            "Spatial_ZoneLoadout": "HumanLoadout.json",
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_HuntMode": 0,
@@ -102,7 +102,7 @@
     "Location": [
         {
             "Spatial_TriggerRadius": 50.0,
-            "Spatial_ZoneLoadout": "NBCLoadout.json",
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
             "Spatial_Faction": "East",
             "Spatial_Name": "Name",
             "Spatial_HuntMode": 6,
@@ -121,7 +121,7 @@
         },
         {
             "Spatial_TriggerRadius": 50.0,
-            "Spatial_ZoneLoadout": "NBCLoadout.json",
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
             "Spatial_Faction": "East",
             "Spatial_Name": "Name",
             "Spatial_HuntMode": 6,
