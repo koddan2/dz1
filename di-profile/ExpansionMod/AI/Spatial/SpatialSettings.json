@@ -1,0 +1,142 @@
+{
+    "Version": 16,
+    "Spatial_MinTimer": 300000,
+    "Spatial_MaxTimer": 1200000,
+    "MinDistance": 140,
+    "MaxDistance": 320,
+    "HuntMode": 6,
+    "Points_Enabled": 0,
+    "Locations_Enabled": 0,
+    "Location_Timer": 300000,
+    "EngageTimer": 300000,
+    "CleanupTimer": 1360000,
+    "PlayerChecks": 0,
+    "MaxAI": 12,
+    "GroupDifficulty": 1,
+    "Chance": 0.5,
+    "MessageType": 0,
+    "MessageTitle": "Spatial AI",
+    "MessageText": "AI Spotted in the Area. Be Careful.",
+    "Lootable": 1,
+    "LootWhitelist": [],
+    "Spatial_InVehicle": 0,
+    "Spatial_IsBleeding": 0,
+    "Spatial_IsRestrained": 0,
+    "Spatial_IsUnconscious": 0,
+    "Spatial_IsInSafeZone": 0,
+    "Spatial_TPSafeZone": 0,
+    "Spatial_InOwnTerritory": 0,
+    "Group": [
+        {
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 2,
+            "Spatial_Weight": 200.0,
+            "Spatial_Loadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Mercenaries"
+        },
+        {
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 3,
+            "Spatial_Weight": 300.0,
+            "Spatial_Loadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Shaman"
+        },
+        {
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
+            "Spatial_Weight": 350.0,
+            "Spatial_Loadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Passive"
+        }
+    ],
+    "Point": [
+        {
+            "Spatial_Radius": 50.0,
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "East",
+            "Spatial_HuntMode": 6,
+            "Spatial_MinCount": 0,
+            "Spatial_MaxCount": 4,
+            "Spatial_Safe": 0,
+            "Spatial_Position": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "West",
+            "Spatial_HuntMode": 1,
+            "Spatial_MinCount": 0,
+            "Spatial_MaxCount": 5,
+            "Spatial_Safe": 0,
+            "Spatial_Position": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Spatial_Radius": 150.0,
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Civilian",
+            "Spatial_HuntMode": 0,
+            "Spatial_MinCount": 0,
+            "Spatial_MaxCount": 0,
+            "Spatial_Safe": 1,
+            "Spatial_Position": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "Location": [
+        {
+            "Spatial_TriggerRadius": 50.0,
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Name",
+            "Spatial_HuntMode": 6,
+            "Spatial_MinCount": 0,
+            "Spatial_MaxCount": 4,
+            "Spatial_TriggerPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Spatial_SpawnPosition": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Spatial_TriggerRadius": 50.0,
+            "Spatial_ZoneLoadout": "SplattedLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Name",
+            "Spatial_HuntMode": 6,
+            "Spatial_MinCount": 0,
+            "Spatial_MaxCount": 4,
+            "Spatial_TriggerPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Spatial_SpawnPosition": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}
