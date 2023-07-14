@@ -1,0 +1,12 @@
+{
+    "m_Version": 7,
+    "Safezone": 1,
+    "AdminTools": 1,
+    "ExplosionDamageSystem": 1,
+    "AIGeneral": 1,
+    "AIPatrol": 1,
+    "AIObjectPatrol": 1,
+    "LogToScripts": 0,
+    "LogToADM": 0,
+    "EntityStorage": 1
+}
