@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <types>
   <type name="ACOGOptic">
     <nominal>6</nominal>
@@ -23923,7 +23923,7 @@
     <category name="weapons" />
     <value name="Tier6" />
     <usage name="Military" />
-  </type>  
+  </type>
   <type name="ESP_M14_Black">
     <nominal>2</nominal>
     <lifetime>28800</lifetime>
@@ -23935,9 +23935,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <value name="Tier9" />
-	<value name="Tier17" />
+    <value name="Tier17" />
     <usage name="Military" />
-  </type>      
+  </type>
   <type name="ESP_M110">
     <nominal>1</nominal>
     <lifetime>28800</lifetime>
@@ -23948,9 +23948,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier15" />	
+    <value name="Tier15" />
     <usage name="Military" />
-  </type>        
+  </type>
   <type name="ESP_M110_Tan">
     <nominal>1</nominal>
     <lifetime>28800</lifetime>
@@ -23961,9 +23961,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier17" />	
+    <value name="Tier17" />
     <usage name="Military" />
-  </type>    
+  </type>
   <type name="ESP_M110_Green">
     <nominal>1</nominal>
     <lifetime>28800</lifetime>
@@ -23974,9 +23974,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier10" />	
+    <value name="Tier10" />
     <usage name="Military" />
-  </type>    
+  </type>
   <type name="ESP_G36C">
     <nominal>1</nominal>
     <lifetime>28800</lifetime>
@@ -23987,9 +23987,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier5" />	
+    <value name="Tier5" />
     <usage name="Military" />
-  </type>      
+  </type>
   <type name="SRP_GreatBattleAxe">
     <nominal>2</nominal>
     <lifetime>28800</lifetime>
@@ -24000,9 +24000,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier10" />	
+    <value name="Tier10" />
     <usage name="Military" />
-  </type>    
+  </type>
   <type name="SRP_GreatBattleAxe_Phantom">
     <nominal>2</nominal>
     <lifetime>28800</lifetime>
@@ -24013,9 +24013,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <value name="Tier14" />	
+    <value name="Tier14" />
     <usage name="Military" />
-  </type>  
+  </type>
   <type name="ttbaseballbat_Simple">
     <nominal>10</nominal>
     <lifetime>28800</lifetime>
@@ -24025,7 +24025,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons" />    
+    <category name="weapons" />
     <usage name="Industrial" />
-  </type>   
+  </type>
 </types>

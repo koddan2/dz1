@@ -1516,4 +1516,37 @@
 		<pos x="14145.3" y="183.857" z="15688.6" a="0"/>
 		<pos x="14121" y="181.243" z="15748.8" a="0"/>
 	</event>
+
+	<!-- EXPANSION HELICOPTERS -->
+	<event name="VehicleMH6Helicopter">
+		<pos x="5524.5" z="3606.203" a="25.65418" />
+		<pos x="5448.344" z="3721.181" a="58.78547" />
+		<pos x="5660.844" z="3650.583" a="0" />
+	</event>
+	<event name="VehicleMerlinHelicopter">
+		<pos x="6319.688" z="14801.94" a="0" />
+	</event>
+	<event name="VehicleUh1hHelicopter">
+		<pos x="13307.67" z="9602.437" a="13.92287" />
+		<pos x="13592.56" z="9571.53" a="352.7809" />
+		<pos x="13541.36" z="9548.751" a="318.1025" />
+		<pos x="13260.81" z="9609.96" a="13.92287" />
+	</event>
+	<event name="VehicleGyroHelicopter">
+		<pos x="3778.844" z="9292.776" a="0" />
+	</event>
+	<!-- EXPANSION BOATS -->
+	<event name="VehicleUtilityBoat">
+		<pos x="10011.94" z="10538.68" a="180.2238" />
+	</event>
+	<event name="VehicleZodiacBoat">
+		<pos x="5742.234" z="14138.12" a="95.52639" />
+		<pos x="5764.891" z="14613.47" a="163.5938" />
+		<pos x="5726.859" z="14613.98" a="95.52639" />
+		<pos x="5635.203" z="15085.11" a="4.701996" />
+		<pos x="5729.563" z="14812.87" a="325.3828" />
+		<pos x="5688.359" z="14609.7" a="325.3828" />
+		<pos x="5693.875" z="15085.41" a="4.701996" />
+		<pos x="9967.969" z="10557.9" a="4.701996" />
+	</event>
 </eventposdef>
