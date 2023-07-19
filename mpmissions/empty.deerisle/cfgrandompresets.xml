@@ -159,6 +159,11 @@
 				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
 				<item name="Ammo_762x54" chance="0.2" />
 				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+
+				<item name="TTC_Ammo_338" chance="0.05" />
+				<item name="TTC_AmmoBox_338mm_10Rnd" chance="0.05" />
+				<item name="TTC_Ammo_277" chance="0.05" />
+				<item name="TTC_AmmoBox_277_20Rnd" chance="0.05" />
 		</cargo>
 		<cargo chance="0.1" name="mixVillage">
 				<item name="DuctTape" chance="0.07" />

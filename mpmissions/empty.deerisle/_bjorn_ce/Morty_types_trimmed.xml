@@ -607,4 +607,106 @@
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
+  <type name="TTC_MPXMCXSPEAR_Bttstck">
+    <nominal>13</nominal>
+    <lifetime>36600</lifetime>
+    <restock>60</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_AWM">
+    <nominal>4</nominal>
+    <lifetime>36600</lifetime>
+    <restock>60</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_AWM_Magazine_5rnd">
+    <nominal>8</nominal>
+    <lifetime>36600</lifetime>
+    <restock>60</restock>
+    <min>2</min>
+    <quantmin>40</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_AmmoBox_338mm_10Rnd">
+    <nominal>20</nominal>
+    <lifetime>36600</lifetime>
+    <restock>60</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TTC_Ammo_338">
+    <nominal>30</nominal>
+    <lifetime>36600</lifetime>
+    <restock>60</restock>
+    <min>10</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
 </types>
