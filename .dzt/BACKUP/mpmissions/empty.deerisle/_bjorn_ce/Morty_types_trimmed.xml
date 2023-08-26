@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="TTC_Universal_Suppressor_BLACK">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16,16 +16,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_CAMO">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37,7 +36,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -47,10 +45,10 @@
   <!-- Honey Badger comes in two variants. This is standard 5.56 variant-->
   <!-- Honey Badger comes in two variants. This is standard .300blk variant-->
   <type name="TTC_Honey_Suppressor">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -62,7 +60,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -74,10 +71,10 @@
   <!-- 50 Beowulf -->
   <!-- New universal suppressor colors -->
   <type name="TTC_Universal_Suppressor_Tan">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -89,16 +86,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_Snow">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -110,17 +106,16 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.10.1-->
   <type name="TTC_DMR_Suppressor">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -132,7 +127,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -140,10 +134,10 @@
   <!-- Update 1.11 -->
   <!-- Update 1.11.1 -->
   <type name="TTC_G3_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -155,17 +149,16 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.11.2 -->
   <type name="TTC_M14Suppressor">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -177,7 +170,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -185,10 +177,10 @@
   <!-- Update 1.11.3 -->
   <!-- Update 1.12 -->
   <type name="TTC_AKMod_Suppressor">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -200,7 +192,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -209,10 +200,10 @@
   <!-- 1.13-->
   <!-- 1.13.2-->
   <type name="TTC_SVT40_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -224,47 +215,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_PistolSuppressor">
-    <nominal>28</nominal>
+    <nominal>10</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>14</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <category name="weapons" />
-    <usage name="Military" />
-    <usage name="Police" />
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Tier5" />
-    <value name="Tier6" />
-    <tag name="Civilian" />
-    <tag name="Military" />
-    <tag name="Hunting" />
-    <tag name="Police" />
-    <tag name="Industrial" />
-    <tag name="Farm" />
-    <tag name="Medical" />
-    <tag name="Firefighter" />
-    <tag name="Fishing" />
-    <tag name="Seaice" />
-    <tag name="Seasonalevent" />
-  </type>
-  <!-- Update 1.13.3 -->
-  <type name="TTC_G28_Optic">
-    <nominal>5</nominal>
-    <lifetime>36600</lifetime>
-    <restock>60</restock>
-    <min>3</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -276,7 +235,27 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <!-- Update 1.13.3 -->
+  <type name="TTC_G28_Optic">
+    <nominal>2</nominal>
+    <lifetime>36600</lifetime>
+    <restock>60</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -284,10 +263,10 @@
   <!-- Update 1.13.5 -->
   <!-- Update 1.14 -->
   <type name="TTC_VortexSE_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -299,16 +278,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_VortexRHDAMG_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -320,17 +298,16 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15 -->
   <type name="TTC_MCX_Spear_Suppressor">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -342,16 +319,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_TAVOR">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -363,16 +339,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Universal_Suppressor_TAVOR_Tan">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -384,7 +359,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -392,10 +366,10 @@
   <!-- Update 1.15 -->
   <!-- Update 1.15.5 -->
   <type name="TTC_Pistol_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -407,16 +381,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MCX_Spear_Suppressor_Black">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -428,17 +401,16 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <!-- Update 1.15.6 -->
   <type name="TTC_EotechVudu_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -450,16 +422,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_EotechVudu_Tan_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -471,16 +442,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_EotechVudu_White_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -492,16 +462,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_EotechVudu_AK_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -513,16 +482,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_EotechVudu_Tan_AK_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -534,16 +502,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_EotechVudu_White_AK_Optic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -555,16 +522,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MCX_Spear">
-    <nominal>5</nominal>
+    <nominal>12</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -576,16 +542,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MCX_Spear_Magazine_20rnd">
-    <nominal>5</nominal>
+    <nominal>34</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -597,16 +562,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AmmoBox_277_20Rnd">
-    <nominal>5</nominal>
+    <nominal>20</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -618,16 +582,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Ammo_277">
-    <nominal>5</nominal>
+    <nominal>40</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -640,16 +603,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MPXMCXSPEAR_Bttstck">
-    <nominal>5</nominal>
+    <nominal>13</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -662,16 +624,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AWM">
-    <nominal>5</nominal>
+    <nominal>4</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -683,16 +644,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AWM_Magazine_5rnd">
-    <nominal>5</nominal>
+    <nominal>8</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -704,16 +664,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_AmmoBox_338mm_10Rnd">
-    <nominal>5</nominal>
+    <nominal>20</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -725,16 +684,15 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_Ammo_338">
-    <nominal>5</nominal>
+    <nominal>30</nominal>
     <lifetime>36600</lifetime>
     <restock>60</restock>
-    <min>3</min>
+    <min>10</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -747,7 +705,6 @@
     <value name="Tier5" />
     <value name="Tier6" />
     <value name="Tier7" />
-    <value name="Tier8" />
     <usage name="Military" />
     <usage name="Police" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />

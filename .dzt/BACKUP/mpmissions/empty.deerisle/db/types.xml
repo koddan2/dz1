@@ -48,10 +48,10 @@
     <usage name="Military" />
   </type>
   <type name="AK101">
-    <nominal>11</nominal>
+    <nominal>10</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>6</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -66,10 +66,10 @@
     <value name="Tier18" />
   </type>
   <type name="AK101_Black">
-    <nominal>11</nominal>
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>6</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -77,10 +77,10 @@
     <category name="weapons" />
   </type>
   <type name="AK101_Green">
-    <nominal>11</nominal>
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>6</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -91,7 +91,7 @@
     <nominal>20</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>10</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -106,10 +106,10 @@
     <value name="Tier8" />
   </type>
   <type name="AK74_Black">
-    <nominal>20</nominal>
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -117,10 +117,10 @@
     <category name="weapons" />
   </type>
   <type name="AK74_Green">
-    <nominal>20</nominal>
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -128,10 +128,10 @@
     <category name="weapons" />
   </type>
   <type name="AK74_Hndgrd">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -140,10 +140,10 @@
     <usage name="Military" />
   </type>
   <type name="AK74_WoodBttstck">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -152,10 +152,10 @@
     <usage name="Military" />
   </type>
   <type name="AKM">
-    <nominal>24</nominal>
+    <nominal>8</nominal>
     <lifetime>10800</lifetime>
     <restock>3600</restock>
-    <min>15</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -833,10 +833,10 @@
     <value name="Tier17" />
   </type>
   <type name="AmmoBox_545x39Tracer_20Rnd">
-    <nominal>50</nominal>
+    <nominal>30</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -852,10 +852,10 @@
     <value name="Tier6" />
   </type>
   <type name="AmmoBox_545x39_20Rnd">
-    <nominal>50</nominal>
+    <nominal>20</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1368,10 +1368,10 @@
     <value name="Tier9" />
   </type>
   <type name="Ammo_545x39">
-    <nominal>50</nominal>
+    <nominal>25</nominal>
     <lifetime>10800</lifetime>
     <restock>180</restock>
-    <min>30</min>
+    <min>10</min>
     <quantmin>20</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -1381,10 +1381,10 @@
     <usage name="Military" />
   </type>
   <type name="Ammo_545x39Tracer">
-    <nominal>50</nominal>
+    <nominal>20</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>15</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -12649,10 +12649,10 @@
     <usage name="Industrial" />
   </type>
   <type name="Mag_AK74_45Rnd">
-    <nominal>32</nominal>
+    <nominal>15</nominal>
     <lifetime>28800</lifetime>
     <restock>2700</restock>
-    <min>24</min>
+    <min>10</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -12669,10 +12669,10 @@
     <value name="Tier6" />
   </type>
   <type name="Mag_AK101_30Rnd">
-    <nominal>32</nominal>
+    <nominal>15</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>24</min>
+    <min>10</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -12691,10 +12691,10 @@
     <usage name="Military" />
   </type>
   <type name="Mag_AK74_30Rnd">
-    <nominal>32</nominal>
+    <nominal>30</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>24</min>
+    <min>20</min>
     <quantmin>20</quantmin>
     <quantmax>90</quantmax>
     <cost>100</cost>
@@ -12713,10 +12713,10 @@
     <usage name="Military" />
   </type>
   <type name="Mag_AKM_30Rnd">
-    <nominal>32</nominal>
+    <nominal>20</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>24</min>
+    <min>10</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -12734,10 +12734,10 @@
     <usage name="Military" />
   </type>
   <type name="Mag_AKM_Drum75Rnd">
-    <nominal>32</nominal>
+    <nominal>6</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>24</min>
+    <min>3</min>
     <quantmin>20</quantmin>
     <quantmax>60</quantmax>
     <cost>100</cost>
@@ -12748,10 +12748,10 @@
     <usage name="Military" />
   </type>
   <type name="Mag_AKM_Palm30Rnd">
-    <nominal>32</nominal>
+    <nominal>20</nominal>
     <lifetime>10800</lifetime>
     <restock>2700</restock>
-    <min>24</min>
+    <min>10</min>
     <quantmin>10</quantmin>
     <quantmax>70</quantmax>
     <cost>100</cost>
@@ -15720,34 +15720,23 @@
     <usage name="Industrial" />
   </type>
   <type name="PistolSuppressor">
-    <nominal>28</nominal>
-    <lifetime>36600</lifetime>
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <value name="Tier17" />
+    <value name="Tier4" />
+    <value name="Tier13" />
+    <value name="Tier5" />
+    <value name="Tier7" />
+    <value name="Tier9" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Tier5" />
-    <value name="Tier6" />
-    <tag name="Civilian" />
-    <tag name="Military" />
-    <tag name="Hunting" />
-    <tag name="Police" />
-    <tag name="Industrial" />
-    <tag name="Farm" />
-    <tag name="Medical" />
-    <tag name="Firefighter" />
-    <tag name="Fishing" />
-    <tag name="Seaice" />
-    <tag name="Seasonalevent" />
   </type>
   <type name="PlantMaterial">
     <nominal>0</nominal>

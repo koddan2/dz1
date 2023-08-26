@@ -424,7 +424,8 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			fsm.DistanceToTargetSq = target.GetDistanceSq(unit, true);
 			bool shouldBeMeleeing = false;
 			auto hands = unit.GetHumanInventory().GetEntityInHands();
-			if (target.GetEntity().IsInherited(ItemBase))
+			bool isItemTarget = target.GetEntity().IsInherited(ItemBase);
+			if (isItemTarget)
 			{
 				wantsLower = true;
 			}
@@ -458,7 +459,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			auto player = PlayerBase.Cast(target.GetEntity());
 			if (player && player.IsUnconscious())
 			minDist = 4.0;
-			if (fsm.DistanceToTargetSq <= minDist)
+			if (!isItemTarget && fsm.DistanceToTargetSq <= minDist)
 			{
 				time += DeltaTime;
 				if (!movementDirection || time > Math.RandomIntInclusive(1, 3))
@@ -630,7 +631,7 @@ class Expansion_Fighting_Melee_State_0: eAIState {
 			return CONTINUE;
 		}
 		auto direction = vector.Direction(unit.GetPosition(), lowPosition).Normalized();
-		if (vector.Dot(unit.GetDirection(), direction) < 0.75)
+		if (vector.Dot(unit.GetDirection(), direction) < 0.97)
 		{
 			if (time >= Math.RandomIntInclusive(1, 3))
 			{
@@ -673,7 +674,7 @@ class Expansion_Fighting__Melee_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		if (unit.IsRestrained()) return FAIL;
-		if (!unit.CanRaiseWeapon()) return FAIL;
+		if (!unit.CanRaiseWeapon() || !unit.eAI_HasLOS()) return FAIL;
 		// we are targetting an entity?
 		dst.target = unit.GetTarget();
 		if (!dst.target || !dst.target.IsMeleeViable(unit) || dst.target.GetThreat(unit) < 0.4) return FAIL;
@@ -1413,13 +1414,19 @@ class Expansion_Master_TakeItemToHands_State_0: eAIState {
 	override void OnEntry(string Event, ExpansionState From) {
 		EXTrace.Print(EXTrace.AI, unit, "TakeItemToHands " + item.ToString());
 		time = 0;
-		if (item.Expansion_IsInventoryLocked())
-		ExpansionStatic.UnlockInventoryRecursive(item, 10134);
-		unit.eAI_TakeItemToHands(item);
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
 	}
 	override int OnUpdate(float DeltaTime, int SimulationPrecision) {
+		if (!item)
+		return EXIT;
+		if (unit.GetItemInHands() != item)
+		{
+			if (item.Expansion_IsInventoryLocked())
+			ExpansionStatic.UnlockInventoryRecursive(item, 10134);
+			if (!unit.eAI_TakeItemToHands(item))
+			return EXIT;
+		}
 		if (time < 0.5)
 		{
 			time += DeltaTime;
@@ -1632,6 +1639,7 @@ class Expansion_Master__Bandaging_Self_Transition_0: eAITransition {
 		auto hands = unit.GetItemInHands();
 		if (!hands) return FAIL;
 		if (!hands.Expansion_CanBeUsedToBandage() || hands.IsDamageDestroyed()) return FAIL;
+		if (!unit.GetCommand_MoveAI()) return FAIL;
 		dst.bandage = hands;
 		return SUCCESS;
 	}
@@ -1708,7 +1716,7 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 			hands = null;
 		}
 		//! First check if we want to switch to bandage
-		if (unit.IsBleeding() && unit.GetThreatToSelf() < 0.4)
+		if (unit.IsBleeding() && (unit.GetThreatToSelf() < 0.4 || (unit.GetHealth01("", "Blood") < 0.7 && GetGame().GetTickTime() - unit.m_eAI_LastHitTime > 10)))
 		{
 			if (!hands || !hands.Expansion_CanBeUsedToBandage())
 			{
@@ -1999,6 +2007,7 @@ class Expansion_Master__PlayEmote_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		if (unit.IsRestrained()) return FAIL;
+		if (!unit.GetCommand_MoveAI()) return FAIL;
 		if (unit.eAI_IsChangingStance()) return FAIL;
 		if (!unit.m_Expansion_EmoteID) return FAIL;
 		if (unit.GetEmoteManager().IsEmotePlaying() || unit.GetEmoteManager().Expansion_GetCurrentGesture() == unit.m_Expansion_EmoteID) return FAIL;
