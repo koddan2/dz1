@@ -913,9 +913,16 @@
     <input name="UACameraToolSpeedDecrease">
         <btn name="mWheelDown" />
     </input>
+    <input name="UAObjectModuleDeleteOnCursor">
+        <btn name="kDelete" />
+    </input>
     <input name="UAObjectModuleSpawnInfected" />
     <input name="UAObjectModuleSpawnAnimal" />
     <input name="UAObjectModuleSpawnWolf" />
+    <input name="UAPlayerModuleHeal" />
+    <input name="UAPlayerModuleGodMode">
+        <btn name="kU" />
+    </input>
     <input name="UACOTToggleButtons">
         <btn name="kY" />
     </input>

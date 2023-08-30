@@ -16,8 +16,6 @@
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
 
-		<file path="env/zombie_territories_CHERNARUS.xml" />
-
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
 		</territory>
