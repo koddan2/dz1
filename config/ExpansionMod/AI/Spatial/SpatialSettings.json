@@ -13,7 +13,7 @@
     "PlayerChecks": 0,
     "MaxAI": 14,
     "GroupDifficulty": 1,
-    "Chance": 0.5,
+    "Chance": 1.0,
     "MessageType": 0,
     "MessageTitle": "Spatial AI",
     "MessageText": "AI Spotted in the Area. Be Careful.",
