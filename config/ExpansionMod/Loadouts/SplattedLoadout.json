@@ -8455,7 +8455,7 @@
     },
     {
       "ClassName": "AK101",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8590,7 +8590,7 @@
     },
     {
       "ClassName": "AK101_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8609,7 +8609,7 @@
     },
     {
       "ClassName": "AK101_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8628,7 +8628,7 @@
     },
     {
       "ClassName": "AK74",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8782,7 +8782,7 @@
     },
     {
       "ClassName": "AK74_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8801,7 +8801,7 @@
     },
     {
       "ClassName": "AK74_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8820,7 +8820,7 @@
     },
     {
       "ClassName": "AK74_Hndgrd",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8839,7 +8839,7 @@
     },
     {
       "ClassName": "AK74_WoodBttstck",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -8858,7 +8858,7 @@
     },
     {
       "ClassName": "AKM",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9017,7 +9017,7 @@
     },
     {
       "ClassName": "AKS74U",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9085,7 +9085,7 @@
     },
     {
       "ClassName": "AKS74U_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9104,7 +9104,7 @@
     },
     {
       "ClassName": "AKS74U_Bttstck",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9123,7 +9123,7 @@
     },
     {
       "ClassName": "AKS74U_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9142,7 +9142,7 @@
     },
     {
       "ClassName": "AK_Bayonet",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9161,7 +9161,7 @@
     },
     {
       "ClassName": "AK_FoldingBttstck",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9180,7 +9180,7 @@
     },
     {
       "ClassName": "AK_FoldingBttstck_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9199,7 +9199,7 @@
     },
     {
       "ClassName": "AK_FoldingBttstck_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9218,7 +9218,7 @@
     },
     {
       "ClassName": "AK_PlasticBttstck",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9237,7 +9237,7 @@
     },
     {
       "ClassName": "AK_PlasticBttstck_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9256,7 +9256,7 @@
     },
     {
       "ClassName": "AK_PlasticBttstck_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9275,7 +9275,7 @@
     },
     {
       "ClassName": "AK_PlasticHndgrd",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9294,7 +9294,7 @@
     },
     {
       "ClassName": "AK_RailHndgrd",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9313,7 +9313,7 @@
     },
     {
       "ClassName": "AK_RailHndgrd_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9332,7 +9332,7 @@
     },
     {
       "ClassName": "AK_RailHndgrd_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9370,7 +9370,7 @@
     },
     {
       "ClassName": "AK_WoodBttstck",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9389,7 +9389,7 @@
     },
     {
       "ClassName": "AK_WoodBttstck_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9408,7 +9408,7 @@
     },
     {
       "ClassName": "AK_WoodBttstck_Camo",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9427,7 +9427,7 @@
     },
     {
       "ClassName": "AK_WoodHndgrd",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9446,7 +9446,7 @@
     },
     {
       "ClassName": "AK_WoodHndgrd_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -9465,7 +9465,7 @@
     },
     {
       "ClassName": "AK_WoodHndgrd_Camo",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -10621,7 +10621,7 @@
     },
     {
       "ClassName": "Armband_Chedaki",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -10640,7 +10640,7 @@
     },
     {
       "ClassName": "Armband_Snake",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -10915,7 +10915,7 @@
     },
     {
       "ClassName": "BakedBeansCan",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -10934,7 +10934,7 @@
     },
     {
       "ClassName": "BakedBeansCan_Opened",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -10991,7 +10991,7 @@
     },
     {
       "ClassName": "Bark_Oak",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -11067,7 +11067,7 @@
     },
     {
       "ClassName": "BearSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -11162,7 +11162,7 @@
     },
     {
       "ClassName": "BoarSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -11963,7 +11963,7 @@
     },
     {
       "ClassName": "CowSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -12127,7 +12127,7 @@
     },
     {
       "ClassName": "DeerSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -12941,7 +12941,7 @@
     },
     {
       "ClassName": "Flag_Chedaki",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -13112,7 +13112,7 @@
     },
     {
       "ClassName": "Flag_Snake",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -13457,7 +13457,7 @@
     },
     {
       "ClassName": "GoatSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -13704,7 +13704,7 @@
     },
     {
       "ClassName": "HumanSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -15886,7 +15886,7 @@
     },
     {
       "ClassName": "Mosin9130",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -15954,7 +15954,7 @@
     },
     {
       "ClassName": "Mosin9130_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -15973,7 +15973,7 @@
     },
     {
       "ClassName": "Mosin9130_Camo",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -15992,7 +15992,7 @@
     },
     {
       "ClassName": "Mosin9130_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -16011,7 +16011,7 @@
     },
     {
       "ClassName": "Mosin_Bayonet",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -16030,7 +16030,7 @@
     },
     {
       "ClassName": "Mosin_Compensator",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -16657,7 +16657,7 @@
     },
     {
       "ClassName": "PigSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -17200,7 +17200,7 @@
     },
     {
       "ClassName": "SKS",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -17244,7 +17244,7 @@
     },
     {
       "ClassName": "SKS_Bayonet",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -17633,7 +17633,7 @@
     },
     {
       "ClassName": "SawedoffMosin9130",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -17652,7 +17652,7 @@
     },
     {
       "ClassName": "SawedoffMosin9130_Black",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -17671,7 +17671,7 @@
     },
     {
       "ClassName": "SawedoffMosin9130_Camo",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -17690,7 +17690,7 @@
     },
     {
       "ClassName": "SawedoffMosin9130_Green",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -18179,7 +18179,7 @@
     },
     {
       "ClassName": "SheepSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -18388,7 +18388,7 @@
     },
     {
       "ClassName": "SteakKnife",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -19039,7 +19039,7 @@
     },
     {
       "ClassName": "WolfSteakMeat",
-      "Chance": 0.08,
+      "Chance": 0.0375,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -19192,82 +19192,6 @@
     {
       "ClassName": "ZucchiniSeedsPack",
       "Chance": 0.0375,
-      "Quantity": {
-        "Min": 0.01,
-        "Max": 0.8
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "riflesling_quad_green",
-      "Chance": 0.08,
-      "Quantity": {
-        "Min": 0.01,
-        "Max": 0.8
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingfront_quad_green",
-      "Chance": 0.08,
-      "Quantity": {
-        "Min": 0.01,
-        "Max": 0.8
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleslingback_quad_green",
-      "Chance": 0.08,
-      "Quantity": {
-        "Min": 0.01,
-        "Max": 0.8
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "rifleholster_TTsKO_mung",
-      "Chance": 0.08,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
