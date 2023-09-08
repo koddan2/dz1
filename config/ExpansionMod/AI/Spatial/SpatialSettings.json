@@ -1,7 +1,7 @@
 {
     "Version": 15,
-    "Spatial_MinTimer": 150000,
-    "Spatial_MaxTimer": 900000,
+    "Spatial_MinTimer": 90000,
+    "Spatial_MaxTimer": 300000,
     "MinDistance": 140,
     "MaxDistance": 220,
     "HuntMode": 6,
@@ -11,7 +11,7 @@
     "EngageTimer": 300000,
     "CleanupTimer": 1360000,
     "PlayerChecks": 0,
-    "MaxAI": 17,
+    "MaxAI": 14,
     "GroupDifficulty": 1,
     "Chance": 0.5,
     "MessageType": 0,
