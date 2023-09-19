@@ -791,4 +791,26 @@
         <zone name="InfectedFirefighter" smin="0" smax="0" dmin="3" dmax="5" x="12161.7" z="13891.4" r="50"/>
         <zone name="InfectedFirefighter" smin="0" smax="0" dmin="3" dmax="5" x="12241.4" z="13815" r="50"/>
     </territory>
+
+    <territory color="4294923520">
+		<zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="8450.61" z="6867.87" r="100"/>
+		<zone name="PredatorsDark" smin="0" smax="0" dmin="1" dmax="1" x="8453.01" z="6864.41" r="100"/>
+		<zone name="PredatorsDarkInv" smin="0" smax="0" dmin="1" dmax="1" x="8455.20" z="6870.90" r="100"/>
+	</territory>   
+
+	<territory color="4294923520">
+		<zone name="InfectedQueenAlien" smin="0" smax="0" dmin="1" dmax="1" x="3414.14" z="13006.7" r="10"/>
+		<zone name="InfectedALIENSOLDIER" smin="0" smax="0" dmin="1" dmax="1" x="3414.14" z="13006.7" r="10"/>
+	</territory>    
+
+    <territory color="4291611852">
+        <zone name="Animal_Facehugger" smin="0" smax="1" dmin="3" dmax="6" x="1769.19" z="13842.29" r="70" d="2"/>
+        <zone name="Animal_Facehugger" smin="0" smax="1" dmin="3" dmax="6" x="1525.75" z="13609.69" r="70" d="2"/>
+        <zone name="Animal_Facehugger" smin="0" smax="1" dmin="3" dmax="6" x="1463.63" z="14432.03" r="70" d="2"/>
+    </territory>
+
+	<territory color="4294923520">
+		<zone name="XenoAlien" smin="0" smax="0" dmin="0" dmax="0" x="7461" z="5354" r="100"/>
+        <zone name="XenoAlienII" smin="0" smax="0" dmin="0" dmax="0" x="7478" z="5354" r="200"/>
+	</territory>    
 </territory-type>

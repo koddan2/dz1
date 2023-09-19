@@ -102,4 +102,19 @@
 		</territory>
 
 	</territories>
+
+	<!-- GENERAL Territories Section -->
+	<territories>
+	
+
+		<file path="env/Predator_Dogs_territories.xml" />
+		
+
+		
+		<territory type="Herd" name="PredatorDog" behavior="BlissBearGroupBeh">
+			<file usable="Predator_Dogs_territories"/>
+		</territory>
+
+
+	</territories>
 </env>

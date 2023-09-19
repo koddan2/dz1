@@ -288,10 +288,10 @@
             "military": 3.0
         },
         "DamageToPlayerBleedingChancePercent": {
-            "police": 30.0,
-            "all": 20.0,
-            "medic": 30.0,
-            "military": 50.0
+            "police": 15.0,
+            "all": 10.0,
+            "medic": 15.0,
+            "military": 20.0
         },
         "DamageToPlayerInBlockHealth": {
             "all": 0.0
@@ -354,16 +354,16 @@
             "all": 1
         },
         "ScreamAttractsZombiesInRadius": {
-            "all": 50.0
+            "all": 40.0
         },
         "ScreamChancePercent": {
-            "all": 25.0
+            "all": 15.0
         },
         "SearchBodyToViewCargo": {
             "all": 1
         },
         "SearchBodyToViewCargoSeconds": {
-            "all": 3.0
+            "all": 2.0
         },
         "CanBeButchered": {
             "all": 1
@@ -424,21 +424,21 @@
             ]
         },
         "VisionRangeMultiplierDay": {
-            "all": 2.0
+            "all": 1.2
         },
         "VisionRangeMultiplierNight": {
-            "all": 0.800000011920929
+            "all": 0.500000011920929
         }
     },
     "Players": {
         "SmellsHandlerIsActive": 1,
         "SmellLifetimeSeconds": 120.0,
-        "NoiseMultiplierDay": 2.0,
+        "NoiseMultiplierDay": 0.8,
         "NoiseMultiplierNight": 2.0
     },
     "LossInterestToIrritantAfterSeconds": 180.0,
     "LightInHouseMultiplier": 0.20000000298023225,
-    "SoundInHouseMultiplier": 0.6000000238418579,
+    "SoundInHouseMultiplier": 0.4000000238418579,
     "NavMeshChernarusFixes": [],
     "NavMeshEnochFixes": []
 }
