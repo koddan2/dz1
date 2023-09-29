@@ -14433,7 +14433,7 @@
     <value name="Tier4" />
   </type>
   <type name="PistolSuppressor">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>10</min>
@@ -15725,10 +15725,10 @@
     <usage name="Military" />
   </type>
   <type name="SalineBag">
-    <nominal>12</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>50</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17611,10 +17611,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="StartKitIV">
-    <nominal>15</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>50</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

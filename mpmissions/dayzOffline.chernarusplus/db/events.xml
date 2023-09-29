@@ -1100,7 +1100,7 @@
     </event>
 
 	  <event name="AnimalWolf">
-        <nominal>8</nominal>
+        <nominal>58</nominal>
         <min>4</min>
         <max>6</max>
         <lifetime>180</lifetime>
@@ -1118,7 +1118,7 @@
         </children>
     </event>
 	  <event name="AnimalBear">
-        <nominal>5</nominal>
+        <nominal>45</nominal>
         <min>2</min>
         <max>3</max>
         <lifetime>180</lifetime>
@@ -1135,7 +1135,7 @@
         </children>
     </event>
 	 <event name="AnimalBear">
-        <nominal>5</nominal>
+        <nominal>45</nominal>
         <min>2</min>
         <max>3</max>
         <lifetime>180</lifetime>
@@ -1152,9 +1152,9 @@
         </children>
     </event>
 	<event name="InfectedALIENSOLDIER">
-        <nominal>20</nominal>
+        <nominal>27</nominal>
         <min>1</min>
-        <max>17</max>
+        <max>37</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -1169,7 +1169,7 @@
         </children>
     </event>
 	<event name="InfectedQueenAlien">
-        <nominal>20</nominal>
+        <nominal>1</nominal>
         <min>1</min>
         <max>17</max>
         <lifetime>3</lifetime>
@@ -1187,7 +1187,7 @@
     </event>
 
 	<event name="InfectedPredatorsDarkInv">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <min>4</min>
         <max>4</max>
         <lifetime>3</lifetime>
@@ -1204,7 +1204,7 @@
         </children>
     </event>
 	<event name="InfectedPredatorsDark">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <min>4</min>
         <max>4</max>
         <lifetime>3</lifetime>

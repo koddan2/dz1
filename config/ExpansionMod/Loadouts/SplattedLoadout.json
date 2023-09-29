@@ -17500,7 +17500,7 @@
     },
     {
       "ClassName": "SalineBag",
-      "Chance": 0.03,
+      "Chance": 0.08,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -18369,7 +18369,7 @@
     },
     {
       "ClassName": "StartKitIV",
-      "Chance": 0.0375,
+      "Chance": 0.08,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -32729,6 +32729,25 @@
     {
       "ClassName": "mmg_dump_pouch_tan",
       "Chance": 0.0575,
+      "Quantity": {
+        "Min": 0.01,
+        "Max": 0.8
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "SNAFU_408_Suppressor_T",
+      "Chance": 0.003,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
