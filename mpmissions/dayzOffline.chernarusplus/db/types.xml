@@ -645,10 +645,10 @@
     <category name="food" />
   </type>
   <type name="AirborneMask">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7644,10 +7644,10 @@
     <category name="tools" />
   </type>
   <type name="GasMask">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>10</min>
     <quantmin>20</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -7659,10 +7659,10 @@
     <value name="Tier3" />
   </type>
   <type name="GasMask_Filter">
-    <nominal>10</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>50</min>
     <quantmin>20</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>

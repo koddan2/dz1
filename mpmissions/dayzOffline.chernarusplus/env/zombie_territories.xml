@@ -796,6 +796,20 @@
 		<zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="8450.61" z="6867.87" r="100"/>
 		<zone name="PredatorsDark" smin="0" smax="0" dmin="1" dmax="1" x="8453.01" z="6864.41" r="100"/>
 		<zone name="PredatorsDarkInv" smin="0" smax="0" dmin="1" dmax="1" x="8455.20" z="6870.90" r="100"/>
+
+        <zone name="PredatorsDark" smin="1" smax="1" dmin="1" dmax="1" x="2148.21" z="3334.64" r="80"/>
+        <zone name="PredatorsDark" smin="0" smax="0" dmin="1" dmax="1" x="2093.57" z="3510" r="80"/>
+        <zone name="PredatorsDark" smin="0" smax="0" dmin="1" dmax="1" x="1915.71" z="3413.57" r="80"/>
+        <zone name="PredatorsDarkInv" smin="1" smax="1" dmin="0" dmax="0" x="13683.3" z="11180" r="80"/>
+
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="6502.79" z="2335.25" r="50"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="10276.9" z="2176.25" r="50"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="12807" z="9975" r="50"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="7626.67" z="12643.3" r="50"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="2604" z="5091" r="50"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="6280.71" z="2721.43" r="70"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="12161.7" z="13891.4" r="50"/>
+        <zone name="PredatorClaw" smin="0" smax="0" dmin="1" dmax="1" x="12241.4" z="13815" r="50"/>
 	</territory>   
 
 	<territory color="4294923520">
@@ -812,5 +826,41 @@
 	<territory color="4294923520">
 		<zone name="XenoAlien" smin="0" smax="0" dmin="0" dmax="0" x="7461" z="5354" r="100"/>
         <zone name="XenoAlienII" smin="0" smax="0" dmin="0" dmax="0" x="7478" z="5354" r="200"/>
+
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="10582.1" z="2490.38" r="100"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="6489" z="2382" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="1729" z="3835" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="2742.27" z="5445.82" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="4509" z="6411" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="5400" z="5490" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="6090" z="7788" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="5205" z="8572.5" r="50"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="7062" z="7722" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="2955.43" z="8014.71" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="2715" z="10002" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="2256" z="9306" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="9474" z="8832" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="10701" z="8067" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="9579" z="6822" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="10060.7" z="5519" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="12111" z="7260" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="13035" z="10530" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="13959" z="13188" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="13350" z="12894" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="13488" z="14181" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="11410.5" z="15066" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="7749" z="13281" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="6564" z="15000" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="5025" z="15129" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="3624" z="13113" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="2616" z="15201" r="120"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="1484.33" z="11925" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="8540" z="11957.6" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="8172.5" z="12347.6" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="7950" z="11965" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="8731.25" z="12611.3" r="60"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="10972.5" z="12285" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="11223.8" z="12213.8" r="70"/>
+        <zone name="XenoAlien" smin="0" smax="0" dmin="1" dmax="1" x="13858.6" z="13460.5" r="50"/>
 	</territory>    
 </territory-type>

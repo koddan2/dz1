@@ -9632,6 +9632,25 @@
       "Sets": []
     },
     {
+      "ClassName": "AirborneMask",
+      "Chance": 0.0375,
+      "Quantity": {
+        "Min": 0.01,
+        "Max": 0.8
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "AlarmClock_Blue",
       "Chance": 0.025,
       "Quantity": {
@@ -13340,6 +13359,44 @@
           ]
         }
       ],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "GasMask",
+      "Chance": 0.0375,
+      "Quantity": {
+        "Min": 0.01,
+        "Max": 0.8
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "GasMask_Filter",
+      "Chance": 0.08,
+      "Quantity": {
+        "Min": 0.01,
+        "Max": 0.8
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []

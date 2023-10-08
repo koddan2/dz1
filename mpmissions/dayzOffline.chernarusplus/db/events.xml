@@ -333,6 +333,8 @@
         <children>
             <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_FirefighterNormal"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+
+            <child lootmax="0" lootmin="0" max="1" min="1" type="XenoAlien"/>
         </children>
     </event>
     <event name="InfectedIndustrial">
@@ -375,6 +377,8 @@
             <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Orange"/>
             <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Red"/>
             <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Yellow"/>
+
+            <child lootmax="0" lootmin="0" max="1" min="1" type="XenoAlien"/>
         </children>
     </event>
     <event name="InfectedMedic">
@@ -1120,7 +1124,7 @@
 	  <event name="AnimalBear">
         <nominal>45</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>63</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -1137,7 +1141,7 @@
 	 <event name="AnimalBear">
         <nominal>45</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>63</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -1189,7 +1193,7 @@
 	<event name="InfectedPredatorsDarkInv">
         <nominal>14</nominal>
         <min>4</min>
-        <max>4</max>
+        <max>18</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -1206,7 +1210,7 @@
 	<event name="InfectedPredatorsDark">
         <nominal>14</nominal>
         <min>4</min>
-        <max>4</max>
+        <max>18</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -1221,9 +1225,9 @@
         </children>
     </event>
 	<event name="InfectedPredatorClaw">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
+        <nominal>10</nominal>
+        <min>4</min>
+        <max>15</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
