@@ -22625,7 +22625,7 @@
     },
     {
       "ClassName": "TTC_AmmoBox_338mm_10Rnd",
-      "Chance": 0.05,
+      "Chance": 0.035714285373687746,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -22644,7 +22644,7 @@
     },
     {
       "ClassName": "TTC_Ammo_338",
-      "Chance": 0.05,
+      "Chance": 0.035714285373687746,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -32786,6 +32786,25 @@
     {
       "ClassName": "mmg_dump_pouch_tan",
       "Chance": 0.0575,
+      "Quantity": {
+        "Min": 0.01,
+        "Max": 0.8
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "GCGN_Ammo_408Chey",
+      "Chance": 0.035714285373687746,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
