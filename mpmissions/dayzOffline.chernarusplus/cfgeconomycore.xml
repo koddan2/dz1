@@ -50,8 +50,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
 		<file name="avptypes.xml" type="types" />
 
-		<file name="Morty_types.xml" type="types" />
-		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="ParagonArsenal.xml" type="types" />
+		<file name="Morty_types_trimmed.xml" type="types" />
+		<!-- <file name="Morty_types.xml" type="types" /> -->
+		<!-- <file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" /> -->
 
 		<file name="mmg_types_black.xml" type="types" />
 		<file name="mmg_types_green.xml" type="types" />
@@ -60,7 +62,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mmg_types_extras.xml" type="types" />
 		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
 
-		<file name="SNAFU_types.xml" type="types" />
+		<!-- <file name="SNAFU_types.xml" type="types" /> -->
 
 		<file name="FOG_Types.xml" type="types" />
 
