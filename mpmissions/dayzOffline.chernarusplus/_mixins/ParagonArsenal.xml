@@ -841,10 +841,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_Plasma">
-    <nominal>10</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -855,10 +855,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_20mm">
-    <nominal>10</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -869,10 +869,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_50">
-    <nominal>10</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -883,10 +883,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_12x55">
-    <nominal>10</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -897,10 +897,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_408">
-    <nominal>10</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -911,10 +911,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_338">
-    <nominal>10</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

@@ -21794,7 +21794,7 @@
     },
     {
       "ClassName": "Paragon_Ammo_Plasma",
-      "Chance": 0.014285714626312257,
+      "Chance": 0.05,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -21813,7 +21813,7 @@
     },
     {
       "ClassName": "Paragon_Ammo_20mm",
-      "Chance": 0.014285714626312257,
+      "Chance": 0.05,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -21832,7 +21832,7 @@
     },
     {
       "ClassName": "Paragon_Ammo_50",
-      "Chance": 0.014285714626312257,
+      "Chance": 0.05,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -21851,7 +21851,7 @@
     },
     {
       "ClassName": "Paragon_Ammo_12x55",
-      "Chance": 0.014285714626312257,
+      "Chance": 0.05,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -21870,7 +21870,7 @@
     },
     {
       "ClassName": "Paragon_Ammo_408",
-      "Chance": 0.014285714626312257,
+      "Chance": 0.05,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
@@ -21889,7 +21889,7 @@
     },
     {
       "ClassName": "Paragon_Ammo_338",
-      "Chance": 0.014285714626312257,
+      "Chance": 0.05,
       "Quantity": {
         "Min": 0.01,
         "Max": 0.8
