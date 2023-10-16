@@ -14855,10 +14855,10 @@
     <usage name="Hunting" />
   </type>
   <type name="PortableGasStove">
-    <nominal>45</nominal>
+    <nominal>105</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>90</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -14872,10 +14872,10 @@
     <usage name="Farm" />
   </type>
   <type name="Pot">
-    <nominal>45</nominal>
+    <nominal>105</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>90</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19147,10 +19147,10 @@
     <usage name="Coast" />
   </type>
   <type name="WeaponCleaningKit">
-    <nominal>95</nominal>
+    <nominal>105</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>80</min>
+    <min>90</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

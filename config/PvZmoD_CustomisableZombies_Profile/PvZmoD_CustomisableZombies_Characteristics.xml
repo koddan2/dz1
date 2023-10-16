@@ -1183,7 +1183,7 @@
 	
 	<!-- Walkers (have to be head shot) -->
 	<type name="ZmbM_Jacket_Base">								
-        <Health_Points				Day="10000"	Night="10000"/> <!-- Health increased -->
+        <Health_Points				Day="1000"	Night="1000"/> <!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="0.1" 	Night="0.1"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1215,7 +1215,7 @@
  		<Can_Throw_Stones			Day="0"		Night="0"/>
     </type>
 	<type name="ZmbF_ShortSkirt_Base">							
-        <Health_Points				Day="10000"	Night="10000"/> <!-- Health increased -->
+        <Health_Points				Day="1000"	Night="1000"/> <!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="0.1" 	Night="0.1"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
