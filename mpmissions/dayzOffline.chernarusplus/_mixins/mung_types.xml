@@ -77,10 +77,10 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="rifleholster_black_mung">
-    <nominal>140</nominal>
-    <lifetime>14400</lifetime>
+    <nominal>0</nominal>
+    <lifetime>7400</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -182,8 +182,8 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="gunwall_kit_mung">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>14</nominal>
+    <min>7</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <category name="clothes" />
@@ -200,8 +200,8 @@
     <usage name="Farm" />
   </type>
   <type name="gunwall_metal_kit_mung">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>14</nominal>
+    <min>7</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <category name="clothes" />
@@ -217,36 +217,38 @@
     <usage name="Town" />
     <usage name="Farm" />
   </type>
-    <type name="gunwalldisplay_mung">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="gunwalldisplay_metal_mung">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="hardigg_Mung">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Military"/>
-    </type>
-    <type name="hardigg2_Mung">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Military"/>
-    </type>
+  <type name="gunwalldisplay_mung">
+    <lifetime>3888000</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="gunwalldisplay_metal_mung">
+    <lifetime>3888000</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="hardigg_Mung">
+    <nominal>40</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="tools" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+  </type>
+  <type name="hardigg2_Mung">
+    <nominal>40</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="tools" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+  </type>
 </types>

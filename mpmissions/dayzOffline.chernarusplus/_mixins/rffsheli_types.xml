@@ -552,7 +552,7 @@
   </type>
   <type name="RFFSHeli_flight_case">
     <nominal>0</nominal>
-    <lifetime>28800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -562,7 +562,7 @@
   </type>
   <type name="RFFSHeli_flight_case_red">
     <nominal>0</nominal>
-    <lifetime>28800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -572,7 +572,7 @@
   </type>
   <type name="RFFSHeli_flight_case_blue">
     <nominal>0</nominal>
-    <lifetime>28800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>

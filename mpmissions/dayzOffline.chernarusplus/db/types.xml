@@ -17200,7 +17200,7 @@
   </type>
   <type name="SmallProtectorCase">
     <nominal>35</nominal>
-    <lifetime>14400</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>25</min>
     <quantmin>-1</quantmin>
