@@ -50,6 +50,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
 		<file name="avptypes.xml" type="types" />
 
+		<file name="BBP_types.xml" type="types" />
+
 		<file name="ParagonArsenal.xml" type="types" />
 		<file name="ParagonStorage.xml" type="types" />
 		<!-- <file name="Morty_types_trimmed.xml" type="types" /> -->
