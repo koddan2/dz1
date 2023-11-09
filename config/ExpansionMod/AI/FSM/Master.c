@@ -1712,7 +1712,7 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 		//! If ruined, drop
 		if (hands && hands.IsDamageDestroyed())
 		{
-			unit.eAI_DropItem(hands);
+			unit.eAI_DropItem(hands, true, false);
 			hands = null;
 		}
 		//! First check if we want to switch to bandage
@@ -1726,7 +1726,7 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 				{
 					//! Try to put in inventory (shoulder slot or cargo), drop if not possible
 					if (hands && !unit.eAI_TakeItemToInventory(hands))
-					unit.eAI_DropItem(hands);
+					unit.eAI_DropItem(hands, true, false);
 					return SUCCESS;
 				}
 			}
@@ -1793,17 +1793,22 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 		return FAIL;
 		if (target.GetDistanceSq(unit, true) >= 2.25)
 		return FAIL;
+		ItemBase hands;
+		InventoryLocation dstLoc;
 		if (targetItem.IsWeapon() || targetItem.IsMagazine())
 		{
 			//! If target is gun or magazine (latter means gun w/o ammo is in inventory) and we have melee in hand, prepare swap
-			ItemBase hands = unit.GetItemInHands();
+			hands = unit.GetItemInHands();
 			if (hands && hands.Expansion_IsMeleeWeapon())
 			{
-				//! Only drop if destroyed, else might target it again...
-				if (hands.IsDamageDestroyed())
-				unit.eAI_DropItem(hands);
-				else
-				unit.eAI_TakeItemToInventory(hands);
+				//! Only drop if destroyed or target is mag that fits in inventory, else might take current hand item again...
+				if (hands.IsDamageDestroyed() || (targetItem.IsMagazine() && !unit.eAI_GetItemThreatOverride(targetItem) && unit.eAI_FindFreeInventoryLocationFor(targetItem, 0, dstLoc)))
+				{
+					if (!hands.IsDamageDestroyed())
+					unit.eAI_ItemThreatOverride(hands, true);
+					unit.eAI_DropItem(hands, true, false);
+				}
+				//! @note do NOT take hand item to inv here, might go into loop if no space for target item!
 			}
 			if (targetItem.IsWeapon())  //! Picking up guns is handled by TakeItemToHands state
 			return FAIL;
@@ -1814,7 +1819,7 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 		}
 		if (target.GetThreat(unit) <= 0.1)
 		return FAIL;
-		if (!unit.eAI_FindFreeInventoryLocationFor(targetItem))
+		if ((dstLoc && !dstLoc.IsValid()) || (!dstLoc && !unit.eAI_FindFreeInventoryLocationFor(targetItem)))
 		{
 			unit.eAI_ItemThreatOverride(targetItem, true);
 			return FAIL;
