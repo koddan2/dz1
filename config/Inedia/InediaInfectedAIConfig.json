@@ -273,7 +273,7 @@
             "all": 1
         },
         "DamageToPlayerHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToPlayerHealthMultiplier": {
             "police": 2.5,
@@ -306,7 +306,7 @@
             "all": 0.0
         },
         "DamageToZombieHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToZombieHeadMeleeMultiplier": {
             "all": 1.0
