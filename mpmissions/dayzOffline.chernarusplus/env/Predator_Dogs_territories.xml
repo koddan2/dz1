@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<territory-type>
-	<territory color="4294923520">
-		<zone name="Predator_Dog" smin="0" smax="0" dmin="0" dmax="0" x="7461" z="5354" r="100"/>
-        <zone name="Predator_Dog_02" smin="0" smax="0" dmin="0" dmax="0" x="7478" z="5354" r="200"/>
-		<zone name="Predator_Dog_03" smin="0" smax="0" dmin="0" dmax="0" x="7478" z="5354" r="200"/>
-	</territory>    
-</territory-type>

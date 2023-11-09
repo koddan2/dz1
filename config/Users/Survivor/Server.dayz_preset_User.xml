@@ -69,6 +69,11 @@
     <input name="UALeanRightGamepad">
         <btn name="x1ShoulderRight" />
     </input>
+    <input name="UAPersonCamSwitchSide">
+        <btn name="x1ThumbRight">
+            <event name="holdbegin" />
+        </btn>
+    </input>
     <input name="UAAimLeft">
         <btn name="mLeft" />
         <btn name="x1RightThumbLeft" />
@@ -1010,9 +1015,6 @@
     </input>
     <input name="UAToggleHood">
         <btn name="kT" />
-    </input>
-    <input name="UAZBerryOpenAdminMenu">
-        <btn name="kO" />
     </input>
     <input name="UASchanaPartyMenu">
         <btn name="kP" />

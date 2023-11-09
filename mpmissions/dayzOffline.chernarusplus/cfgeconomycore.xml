@@ -34,9 +34,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-
-	<!--
--->
 	<ce folder="_mixins">
 		<file name="generated_types.xml" type="types" />
 		<file name="mung_types.xml" type="types" />
@@ -63,7 +60,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mmg_types_extras.xml" type="types" />
 		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
 
-		<!-- <file name="SNAFU_types.xml" type="types" /> -->
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="snafuspawnabletypes25percent.xml" type="spawnabletypes" />
 
 		<file name="FOG_Types.xml" type="types" />
 

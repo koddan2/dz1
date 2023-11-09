@@ -1410,7 +1410,6 @@
 
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
-    <event name="InfectedHaunted" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />
     <event name="InfectedCity" />

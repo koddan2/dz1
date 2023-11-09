@@ -21,12 +21,12 @@
         </children>
     </event>
     <event name="AnimalBear">
-        <nominal>42</nominal>
-        <min>42</min>
-        <max>42</max>
+        <nominal>0</nominal>
+        <min>2</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
-        <saferadius>20</saferadius>
+        <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>0</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
@@ -34,7 +34,7 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_UrsusArctos"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos"/>
         </children>
     </event>
     <event name="AnimalCow">
@@ -1115,145 +1115,6 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
-        </children>
-    </event>
-
-	  <event name="AnimalWolf">
-        <nominal>58</nominal>
-        <min>4</min>
-        <max>6</max>
-        <lifetime>180</lifetime>
-        <restock>0</restock>
-        <saferadius>200</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_Facehugger"/>
-            <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_Facehugger"/>
-        </children>
-    </event>
-	  <event name="AnimalBear">
-        <nominal>45</nominal>
-        <min>2</min>
-        <max>63</max>
-        <lifetime>180</lifetime>
-        <restock>0</restock>
-        <saferadius>200</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="XenoAlien"/>
-        </children>
-    </event>
-	 <event name="AnimalBear">
-        <nominal>45</nominal>
-        <min>2</min>
-        <max>63</max>
-        <lifetime>180</lifetime>
-        <restock>0</restock>
-        <saferadius>200</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="XenoAlienII"/>
-        </children>
-    </event>
-	<event name="InfectedALIENSOLDIER">
-        <nominal>27</nominal>
-        <min>1</min>
-        <max>37</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>player</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ALIENSOLDIER"/>            
-        </children>
-    </event>
-	<event name="InfectedQueenAlien">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>17</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>player</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="QueenAlien"/>            
-        </children>
-    </event>
-
-	<event name="InfectedPredatorsDarkInv">
-        <nominal>14</nominal>
-        <min>4</min>
-        <max>18</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>player</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="PredatorsDarkInv"/>            
-        </children>
-    </event>
-	<event name="InfectedPredatorsDark">
-        <nominal>14</nominal>
-        <min>4</min>
-        <max>18</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>player</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="PredatorsDark"/>            
-        </children>
-    </event>
-	<event name="InfectedPredatorClaw">
-        <nominal>10</nominal>
-        <min>4</min>
-        <max>15</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>player</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="PredatorClaw"/>            
         </children>
     </event>
 </events>
