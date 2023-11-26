@@ -500,7 +500,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 		{
 			unit.RaiseWeapon(true);
 		}
-		else if (wantsLower || !unit.CanRaiseWeapon() || !unit.eAI_HasLOS())
+		else if (wantsLower || !unit.CanRaiseWeapon() || !unit.eAI_HasLOS(target))
 		{
 			unit.RaiseWeapon(false);
 			unit.eAI_AdjustStance(fsm.LastFireTime, timeSinceLastFire, fsm.TimeBetweenFiringAndGettingUp);
@@ -516,7 +516,7 @@ class Expansion_Fighting_Evade_State_0: eAIState {
 		m_Name = "Evade";
 	}
 	override void OnEntry(string Event, ExpansionState From) {
-		unit.eAI_ForceSideStep(1.0);
+		unit.eAI_ForceSideStep(Math.RandomFloat(0.3, 0.5));
 		unit.OverrideMovementSpeed(true, 3);
 	}
 	override void OnExit(string Event, bool Aborted, ExpansionState To) {
@@ -696,13 +696,14 @@ class Expansion_Fighting__Evade_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		int missionTime = GetGame().GetTime();
-		if (missionTime - fsm.LastEvadeTime < Math.RandomInt(2500, 5000)) return FAIL;
+		Weapon_Base aiWeapon;
+		if (Class.CastTo(aiWeapon, unit.GetHumanInventory().GetEntityInHands()) && missionTime - fsm.LastEvadeTime < Math.RandomInt(2500, 5000)) return FAIL;
 		auto target = unit.GetTarget();
 		if (!target) return FAIL;
 		auto targetPlayer = DayZPlayerImplement.Cast(target.GetEntity());
 		if (!targetPlayer) return FAIL;
 		if (!targetPlayer.IsRaised()) return FAIL;  //! Ignore if target player isn't raised
-		if (!unit.eAI_HasLOS()) return FAIL;
+		if (!unit.eAI_HasLOS(target)) return FAIL;
 		auto weapon = Weapon_Base.Cast(targetPlayer.GetHumanInventory().GetEntityInHands());
 		if (!weapon) return FAIL;  //! Ignore if target player doesn't have a firearm
 		vector fromTargetDirection = vector.Direction(targetPlayer.GetPosition(), unit.GetPosition()).Normalized();
@@ -748,7 +749,7 @@ class Expansion_Fighting__FireWeapon_Transition_0: eAITransition {
 		}
 		if (unit.IsFighting()) return FAIL;
 		if (!Class.CastTo(dst.weapon, unit.GetItemInHands()) || dst.weapon.IsDamageDestroyed()) return FAIL;
-		if (!unit.CanRaiseWeapon() || !unit.eAI_HasLOS()) return FAIL;
+		if (!unit.CanRaiseWeapon() || !unit.eAI_HasLOS(dst.target)) return FAIL;
 		if (!dst.weapon.Expansion_IsChambered()) return FAIL;
 		if (unit.GetWeaponManager().CanUnjam(dst.weapon)) return FAIL;
 		return SUCCESS;
@@ -848,7 +849,7 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 			auto target = unit.GetTarget();
 			if (target && unit.GetThreatToSelf() > 0.4)
 			{
-				if (!unit.eAI_IsSideStepping() && unit.eAI_HasLOS())
+				if (!unit.eAI_IsSideStepping() && unit.eAI_HasLOS(target))
 				{
 					float distSq = target.GetDistanceSq(unit, true);
 					if (distSq <= 2.25)
@@ -1743,10 +1744,9 @@ class Expansion_Master__TakeItemToHands_Transition_0: eAITransition {
 			if (target.GetDistanceSq(unit, true) < 2.25 && target.GetThreat(unit) > 0.1)
 			{
 				dst.item = targetItem;
+				return SUCCESS;
 			}
 		}
-		if (dst.item)
-		return SUCCESS;
 		dst.item = unit.GetMeleeWeaponToUse();
 		if (dst.item)
 		return SUCCESS;
@@ -1797,24 +1797,31 @@ class Expansion_Master__TakeItemToInventory_Transition_0: eAITransition {
 		InventoryLocation dstLoc;
 		if (targetItem.IsWeapon() || targetItem.IsMagazine())
 		{
+			//! PREPARE SWAP FROM CURRENT HAND ITEM TO GUN IN INV OR ON GROUND
 			//! If target is gun or magazine (latter means gun w/o ammo is in inventory) and we have melee in hand, prepare swap
 			hands = unit.GetItemInHands();
 			if (hands && hands.Expansion_IsMeleeWeapon())
 			{
-				//! Only drop if destroyed or target is mag that fits in inventory, else might take current hand item again...
-				if (hands.IsDamageDestroyed() || (targetItem.IsMagazine() && !unit.eAI_GetItemThreatOverride(targetItem) && unit.eAI_FindFreeInventoryLocationFor(targetItem, 0, dstLoc)))
+				//! Only drop if destroyed, target is gun, or target is mag that fits in inventory, else might take current hand item again...
+				if (hands.IsDamageDestroyed() || targetItem.IsWeapon() || (targetItem.IsMagazine() && !unit.eAI_GetItemThreatOverride(targetItem) && unit.eAI_FindFreeInventoryLocationFor(targetItem, 0, dstLoc)))
 				{
-					if (!hands.IsDamageDestroyed())
-					unit.eAI_ItemThreatOverride(hands, true);
-					unit.eAI_DropItem(hands, true, false);
+					if (hands.IsDamageDestroyed())
+					{
+						unit.eAI_DropItem(hands, true, false);
+					}
+					else if (!unit.eAI_TakeItemToInventory(hands))
+					{
+						unit.eAI_ItemThreatOverride(hands, true);
+						unit.eAI_DropItem(hands, true, false);
+					}
 				}
-				//! @note do NOT take hand item to inv here, might go into loop if no space for target item!
 			}
 			if (targetItem.IsWeapon())  //! Picking up guns is handled by TakeItemToHands state
 			return FAIL;
 		}
 		else if (targetItem.Expansion_IsMeleeWeapon())
 		{
+			//! Picking up melee weapons is handled by TakeItemToHands state
 			return FAIL;
 		}
 		if (target.GetThreat(unit) <= 0.1)

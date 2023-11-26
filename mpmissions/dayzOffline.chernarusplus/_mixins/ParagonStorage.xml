@@ -474,7 +474,7 @@
   </type>
   <type name="StorageBox_Tcrate_Black">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -488,7 +488,7 @@
   </type>
   <type name="StorageBox_Tcrate_Grey">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -502,7 +502,7 @@
   </type>
   <type name="StorageBox_Tcrate_Tan">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -516,7 +516,7 @@
   </type>
   <type name="StorageBox_Tcrate_Green">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -530,7 +530,7 @@
   </type>
   <type name="StorageBox_Tcrate_Blue">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -544,7 +544,7 @@
   </type>
   <type name="StorageBox_Scrate_Black">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -558,7 +558,7 @@
   </type>
   <type name="StorageBox_Scrate_Grey">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -572,7 +572,7 @@
   </type>
   <type name="StorageBox_Scrate_Tan">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -586,7 +586,7 @@
   </type>
   <type name="StorageBox_Scrate_Green">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -600,7 +600,7 @@
   </type>
   <type name="StorageBox_Scrate_Blue">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -614,7 +614,7 @@
   </type>
   <type name="StorageBox_Mcrate_Black">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -628,7 +628,7 @@
   </type>
   <type name="StorageBox_Mcrate_Grey">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -642,7 +642,7 @@
   </type>
   <type name="StorageBox_Mcrate_Tan">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -656,7 +656,7 @@
   </type>
   <type name="StorageBox_Mcrate_Green">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -670,7 +670,7 @@
   </type>
   <type name="StorageBox_Mcrate_Blue">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -768,7 +768,7 @@
   </type>
   <type name="StorageBox_GunCase_Brown">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -782,7 +782,7 @@
   </type>
   <type name="StorageBox_GunCase_Grey">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -796,7 +796,7 @@
   </type>
   <type name="StorageBox_GunCase_Cherry">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -810,7 +810,7 @@
   </type>
   <type name="StorageBox_DGunCase_Brown">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -824,7 +824,7 @@
   </type>
   <type name="StorageBox_DGunCase_Grey">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -838,7 +838,7 @@
   </type>
   <type name="StorageBox_DGunCase_Cherry">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -1492,7 +1492,7 @@
   </type>
   <type name="StorageBox_Wood_Crate">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -1562,7 +1562,7 @@
   </type>
   <type name="StorageBox_MiliCrate_Black">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -1576,7 +1576,7 @@
   </type>
   <type name="StorageBox_MiliCrate_Grey">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -1590,7 +1590,7 @@
   </type>
   <type name="StorageBox_MiliCrate_Tan">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -1604,7 +1604,7 @@
   </type>
   <type name="StorageBox_MiliCrate_Green">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>
@@ -1618,7 +1618,7 @@
   </type>
   <type name="StorageBox_MiliCrate_Blue">
     <nominal>2</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
     <quantmin>0</quantmin>

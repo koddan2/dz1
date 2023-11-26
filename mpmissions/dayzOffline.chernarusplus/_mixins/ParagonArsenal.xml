@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <type name="Paragon_Alligator">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -13,10 +13,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Alligator_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -25,10 +25,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Anzio">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37,10 +37,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Anzio_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -49,10 +49,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AS50">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -61,10 +61,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AX50_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -73,10 +73,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AX50_Grey">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -85,10 +85,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AX50_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -97,10 +97,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AXMC">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -109,10 +109,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Blaze_Blue">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -133,10 +133,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Blaze_Red">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -157,10 +157,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Blaze_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -181,10 +181,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Delta_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -205,10 +205,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Delta_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -229,10 +229,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_DVL10">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -252,10 +252,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_DVL10S">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -275,10 +275,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Gevar">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -299,10 +299,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Kalamit">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -323,10 +323,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_KR65_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -347,10 +347,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Lynx_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -359,10 +359,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M82_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -371,10 +371,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M82_Grey">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -383,10 +383,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M82_Green">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -395,10 +395,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M82_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -407,10 +407,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M100">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -430,10 +430,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M100_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -453,10 +453,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M200_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -476,10 +476,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M200_Grey">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -522,10 +522,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M300">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -545,10 +545,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M300_Grey">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -568,10 +568,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M300_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -591,10 +591,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_MRAD">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -615,10 +615,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_NTW">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -627,10 +627,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_R700">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -651,10 +651,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Remington_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -675,10 +675,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Remington_Blue">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -699,10 +699,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Remington_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -723,10 +723,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Rogue">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -747,10 +747,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_SRS">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -770,10 +770,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_SV98">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -793,10 +793,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_VSSK">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -805,10 +805,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_XR80_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -829,10 +829,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M60">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -852,10 +852,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M240">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -875,10 +875,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_PKM">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -898,10 +898,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_PKP">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -921,10 +921,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_AR15">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -945,10 +945,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_HK">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -969,10 +969,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_HT">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -992,10 +992,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_MCX_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1016,10 +1016,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_MCX_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1040,10 +1040,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_MK14_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1088,10 +1088,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_SA58">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1112,10 +1112,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Scar">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1136,10 +1136,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Scar_H">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1160,10 +1160,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Scar_L">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1184,10 +1184,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Ammo_Plasma">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>25</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1196,10 +1196,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Ammo_20mm">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>25</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1208,10 +1208,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Ammo_50">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>25</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1220,10 +1220,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Ammo_12x55">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>25</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1244,10 +1244,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Ammo_408">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>25</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1267,10 +1267,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Ammo_338">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>25</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1290,10 +1290,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Universal_Sup_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1314,10 +1314,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Universal_Sup_Green">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1338,10 +1338,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Universal_Sup_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1362,10 +1362,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Universal_Sup_Camo">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1386,10 +1386,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_50BMG_Sup_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1410,10 +1410,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_50BMG_Sup_Grey">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1434,10 +1434,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_50BMG_Sup_Green">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1458,10 +1458,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_50BMG_Sup_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1482,10 +1482,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_50BMG_Sup_Camo">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1506,10 +1506,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_408_Sup">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1530,10 +1530,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_338_Sup_Grey">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1554,10 +1554,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_338_Sup_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1578,10 +1578,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Combat_Sup_Black">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1602,10 +1602,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Combat_Sup_Green">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1626,10 +1626,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Combat_Sup_Tan">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1650,10 +1650,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Alligator_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1662,10 +1662,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Anzio_3Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1674,10 +1674,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AS50_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1686,10 +1686,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AX50_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1698,10 +1698,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_AXMC_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1710,10 +1710,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Delta_10Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1734,10 +1734,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_DVL10_10Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1757,10 +1757,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Gevar_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1781,10 +1781,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Kalamit_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1805,10 +1805,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_KR65_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1817,10 +1817,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Lynx_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1829,10 +1829,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M82_10Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1841,10 +1841,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_M100_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1864,10 +1864,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M200_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1887,10 +1887,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_M300_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1910,10 +1910,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_MRAD_10Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1934,10 +1934,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_NTW_3Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1946,10 +1946,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_R700_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1970,10 +1970,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Remington_10Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1994,10 +1994,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Rogue_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2018,10 +2018,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_SRS_10Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2041,10 +2041,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_SV98_7Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2064,10 +2064,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_VSSK_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2076,10 +2076,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_XR80_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2088,10 +2088,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="Paragon_Mag_M60_250Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2111,10 +2111,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Mag_M240_250Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2134,10 +2134,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Mag_PKM_250Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2157,10 +2157,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Mag_PKP_250Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2180,10 +2180,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Mag_SA58_25Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2204,10 +2204,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_AR15_30Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2228,10 +2228,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_HK_25Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2252,10 +2252,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_HT_25Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2275,10 +2275,10 @@
     <value name="Tier4" />
   </type>
   <type name="Paragon_Mag_Scar_H_20Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2299,10 +2299,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_Scar_5Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2323,10 +2323,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_MK14_20Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2347,10 +2347,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_MCX_15Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2371,10 +2371,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_308_50Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2395,10 +2395,10 @@
     <usage name="Office" />
   </type>
   <type name="Paragon_Mag_300BLK_60Rnd">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

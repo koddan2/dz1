@@ -55,7 +55,7 @@
             "all": 25.0
         },
         "BreakingDoorsBuildingSearchRangeMeters": {
-            "all": 30.0
+            "all": 10.0
         },
         "BreakingDoorsDoorSearchRangeMeters": {
             "all": 2.0
@@ -85,7 +85,7 @@
             "all": 0.0
         },
         "SearchSphereRadiusMax": {
-            "all": 60.0
+            "all": 25.0
         },
         "SmellsHandlerIsActive": {
             "all": 1
@@ -94,7 +94,7 @@
             "all": 2.0
         },
         "UpJumpHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "UpJumpHeightMax": {
             "all": 3.0
@@ -112,7 +112,7 @@
             "all": 1
         },
         "AttackCarPlayersDistanceMeters": {
-            "all": 2.0
+            "all": 1.0
         },
         "AttackCarElementsIsActive": {
             "all": 1
@@ -174,7 +174,7 @@
             "all": 1
         },
         "ReactFireplaceDayVisual": {
-            "all": 1
+            "all": 0
         },
         "ReactFlashlightsVisual": {
             "all": 1
@@ -288,10 +288,10 @@
             "military": 3.0
         },
         "DamageToPlayerBleedingChancePercent": {
-            "police": 15.0,
-            "all": 10.0,
-            "medic": 15.0,
-            "military": 20.0
+            "police": 8.0,
+            "all": 5.0,
+            "medic": 7.0,
+            "military": 11.0
         },
         "DamageToPlayerInBlockHealth": {
             "all": 0.0
@@ -339,7 +339,7 @@
             "military": 0.30000001192092898
         },
         "ResistContaminatedEffectHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ResistContaminatedEffect": {
             "all": 0,
@@ -348,7 +348,7 @@
             "ZmbM_NBC_Yellow": 1
         },
         "AllowCrawling": {
-            "all": 1
+            "all": 0
         },
         "ScreamHandlerIsActive": {
             "all": 1
@@ -360,7 +360,7 @@
             "all": 15.0
         },
         "SearchBodyToViewCargo": {
-            "all": 1
+            "all": 0
         },
         "SearchBodyToViewCargoSeconds": {
             "all": 2.0
@@ -424,10 +424,10 @@
             ]
         },
         "VisionRangeMultiplierDay": {
-            "all": 1.2
+            "all": 0.9
         },
         "VisionRangeMultiplierNight": {
-            "all": 0.500000011920929
+            "all": 0.200000011920929
         }
     },
     "Players": {
