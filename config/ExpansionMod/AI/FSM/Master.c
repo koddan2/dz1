@@ -141,7 +141,7 @@ class Expansion_Vehicles_GoToVehicle_GoToVehicle_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		if (vector.Distance(unit.GetPosition(), src.position) < 0.5) return FAIL;
-		if (unit.GetThreatToSelf() > 0.4) return FAIL;
+		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		return SUCCESS;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -413,9 +413,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 		bool wantsRaise = false;
 		int timeSinceLastFire = GetGame().GetTime() - fsm.LastFireTime;
 		if (fsm.LastFireTime > 0 && timeSinceLastFire > fsm.TimeBetweenFiring)
-		{
-			wantsLower = true;
-		}
+		wantsLower = true;
 		auto target = unit.GetTarget();
 		if (target)
 		{
@@ -424,8 +422,9 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			fsm.DistanceToTargetSq = target.GetDistanceSq(unit, true);
 			bool shouldBeMeleeing = false;
 			auto hands = unit.GetHumanInventory().GetEntityInHands();
-			bool isItemTarget = target.GetEntity().IsInherited(ItemBase);
-			if (isItemTarget)
+			auto targetEntity = target.GetEntity();
+			auto itemTarget = ItemBase.Cast(targetEntity);
+			if (!targetEntity || itemTarget)
 			{
 				wantsLower = true;
 			}
@@ -436,9 +435,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			else if (hands.IsWeapon())
 			{
 				if (fsm.DistanceToTargetSq <= 2.25)
-				{
-					shouldBeMeleeing = true;
-				}
+				shouldBeMeleeing = true;
 			}
 			else if (hands.IsMeleeWeapon())
 			{
@@ -447,19 +444,15 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			if (shouldBeMeleeing)
 			{
 				if (fsm.DistanceToTargetSq <= 3.24)
-				{
-					wantsRaise = true;
-				}
+				wantsRaise = true;
 				else
-				{
-					wantsLower = true;
-				}
+				wantsLower = true;
 			}
 			float minDist = 1.0;
-			auto player = PlayerBase.Cast(target.GetEntity());
+			auto player = PlayerBase.Cast(targetEntity);
 			if (player && player.IsUnconscious())
 			minDist = 4.0;
-			if (!isItemTarget && fsm.DistanceToTargetSq <= minDist)
+			if (targetEntity && !itemTarget && fsm.DistanceToTargetSq <= minDist)
 			{
 				time += DeltaTime;
 				if (!movementDirection || time > Math.RandomIntInclusive(1, 3))
@@ -485,9 +478,7 @@ class Expansion_Fighting_Positioning_State_0: eAIState {
 			if (hands && (hands.IsWeapon() || fsm.DistanceToTargetSq <= 100.0))
 			{
 				if (hands.HasEnergyManager() && !hands.GetCompEM().IsWorking() && hands.GetCompEM().CanSwitchOn())
-				{
-					hands.GetCompEM().SwitchOn();
-				}
+				hands.GetCompEM().SwitchOn();
 			}
 		}
 		else
@@ -626,6 +617,8 @@ class Expansion_Fighting_Melee_State_0: eAIState {
 			if (time >= 0.5)
 			{
 				time = 0;
+				movementDirection = 0;
+				unit.OverrideMovementDirection(false, 0);
 				return EXIT;
 			}
 			return CONTINUE;
@@ -659,6 +652,7 @@ class Expansion_Fighting_Melee_State_0: eAIState {
 		unit.Notify_Melee();
 		time = 0;
 		movementDirection = 0;
+		unit.OverrideMovementDirection(false, 0);
 		return EXIT;
 	}
 }
@@ -733,13 +727,18 @@ class Expansion_Fighting__FireWeapon_Transition_0: eAITransition {
 		dst.target = unit.GetTarget();
 		if (!dst.target) return FAIL;
 		PlayerBase player;
+		EntityAI targetEntity = dst.target.GetEntity();
 		ItemBase itemTarget;
-		if (Class.CastTo(player, dst.target.GetEntity()))
+		if (!targetEntity)
+		{
+			return FAIL;
+		}
+		else if (Class.CastTo(player, targetEntity))
 		{
 			if (player.IsUnconscious())
 			return FAIL;
 		}
-		else if (Class.CastTo(itemTarget, dst.target.GetEntity()))
+		else if (Class.CastTo(itemTarget, targetEntity))
 		{
 			// don't shoot at bandages or ammo/magazines, silly
 			if (itemTarget.Expansion_CanBeUsedToBandage())
@@ -847,7 +846,7 @@ class Expansion_Reloading_Reloading_State_0: eAIState {
 			}
 			vector position;
 			auto target = unit.GetTarget();
-			if (target && unit.GetThreatToSelf() > 0.4)
+			if (target && unit.GetThreatToSelf() >= 0.4)
 			{
 				if (!unit.eAI_IsSideStepping() && unit.eAI_HasLOS(target))
 				{
@@ -2064,7 +2063,7 @@ class Expansion_Master_Idle_FollowFormation_Transition_0: eAITransition {
 		Class.CastTo(dst, _fsm.GetState("Expansion_Master_FollowFormation_State_0"));
 	}
 	override int Guard() {
-		if (unit.GetThreatToSelf() > 0.4) return FAIL;
+		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		dst.group = unit.GetGroup();
 		if (!dst.group) return FAIL;
 		if (dst.group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
@@ -2087,7 +2086,7 @@ class Expansion_Master_FollowFormation_FollowFormation_Transition_0: eAITransiti
 		Class.CastTo(dst, _fsm.GetState("Expansion_Master_FollowFormation_State_0"));
 	}
 	override int Guard() {
-		if (unit.GetThreatToSelf() > 0.4) return FAIL;
+		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		dst.group = unit.GetGroup();
 		if (!dst.group) return FAIL;
 		if (dst.group.GetFormationState() != eAIGroupFormationState.IN) return FAIL;
@@ -2110,7 +2109,7 @@ class Expansion_Master_Idle_TraversingWaypoints_Transition_0: eAITransition {
 		Class.CastTo(dst, _fsm.GetState("Expansion_Master_TraversingWaypoints_State_0"));
 	}
 	override int Guard() {
-		if (unit.GetThreatToSelf() > 0.4) return FAIL;
+		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		auto group = unit.GetGroup();
 		if (!group) return FAIL;
 		// we are the leader so we traverse the waypoints
@@ -2133,7 +2132,7 @@ class Expansion_Master_TraversingWaypoints_TraversingWaypoints_Transition_0: eAI
 		Class.CastTo(dst, _fsm.GetState("Expansion_Master_TraversingWaypoints_State_0"));
 	}
 	override int Guard() {
-		if (unit.GetThreatToSelf() > 0.4) return FAIL;
+		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		auto group = unit.GetGroup();
 		if (!group) return FAIL;
 		// we are the leader so we traverse the waypoints
@@ -2157,7 +2156,7 @@ class Expansion_Master_TraversingWaypoints_Idle_Transition_0: eAITransition {
 	}
 	override int Guard() {
 		auto group = unit.GetGroup();
-		if (unit.GetThreatToSelf() > 0.4 || !group || group.GetLeader() != unit) return SUCCESS;
+		if (unit.GetThreatToSelf() >= 0.4 || !group || group.GetLeader() != unit) return SUCCESS;
 		return FAIL;
 	}
 	override ExpansionState GetSource() { return src; }
@@ -2177,7 +2176,7 @@ class Expansion_Master_FollowFormation_Idle_Transition_0: eAITransition {
 	override int Guard() {
 		auto group = unit.GetGroup();
 		if (!group || group.GetLeader() == unit || group.GetFormationState() != eAIGroupFormationState.IN) return SUCCESS;
-		if (unit.GetThreatToSelf() > 0.4) return SUCCESS;
+		if (unit.GetThreatToSelf() >= 0.4) return SUCCESS;
 		return FAIL;
 	}
 	override ExpansionState GetSource() { return src; }

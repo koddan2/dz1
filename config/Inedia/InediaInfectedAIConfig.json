@@ -40,13 +40,13 @@
             "all": 1
         },
         "BreakingDoorsDestroyAfterOpenChancePercent": {
-            "all": 20.0
+            "all": 2.0
         },
         "BreakingDoorsOpenChancePercent": {
-            "all": 20.0
+            "all": 8.0
         },
         "BreakingDoorsOpenLockPickChancePercent": {
-            "all": 5.0
+            "all": 1.0
         },
         "BreakingDoorsLossInterestAfterHitChancePercent": {
             "all": 5.0
@@ -276,10 +276,10 @@
             "all": 0
         },
         "DamageToPlayerHealthMultiplier": {
-            "police": 2.5,
-            "all": 2.0,
-            "medic": 2.5,
-            "military": 3.0
+            "police": 1.5,
+            "all": 1.1,
+            "medic": 1.1,
+            "military": 1.8
         },
         "DamageToPlayerShockMultiplier": {
             "police": 2.5,
@@ -357,7 +357,7 @@
             "all": 40.0
         },
         "ScreamChancePercent": {
-            "all": 15.0
+            "all": 2.0
         },
         "SearchBodyToViewCargo": {
             "all": 0
@@ -432,8 +432,8 @@
     },
     "Players": {
         "SmellsHandlerIsActive": 1,
-        "SmellLifetimeSeconds": 120.0,
-        "NoiseMultiplierDay": 0.8,
+        "SmellLifetimeSeconds": 40.0,
+        "NoiseMultiplierDay": 0.5,
         "NoiseMultiplierNight": 2.0
     },
     "LossInterestToIrritantAfterSeconds": 180.0,

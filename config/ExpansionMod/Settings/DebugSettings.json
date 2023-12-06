@@ -1,7 +1,5 @@
 {
-    "m_Version": 3,
+    "m_Version": 4,
     "DebugVehiclePlayerNetworkBubbleMode": 0,
-    "ServerUpdateRateLimit": 0,
-    "EnableProneDeathHandItemDropFix": 0,
-    "EnableItemDropPlacementFix": 0
+    "ServerUpdateRateLimit": 0
 }

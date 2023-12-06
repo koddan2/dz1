@@ -1016,6 +1016,9 @@
     <input name="UAToggleHood">
         <btn name="kT" />
     </input>
+    <input name="UAToggleSleeves">
+        <btn name="kO" />
+    </input>
     <input name="UASchanaPartyMenu">
         <btn name="kP" />
     </input>

@@ -23764,210 +23764,6 @@
       "Sets": []
     },
     {
-      "ClassName": "TTC_M24_Bjorn",
-      "Chance": 0.004285714328289032,
-      "Quantity": {
-        "Min": 0.25,
-        "Max": 1
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "HuntingOptic",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        },
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "TTC_M24mag_5rnd",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        }
-      ],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_M24_Woodland",
-      "Chance": 0.004285714328289032,
-      "Quantity": {
-        "Min": 0.25,
-        "Max": 1
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "HuntingOptic",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        },
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "TTC_M24mag_5rnd",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        }
-      ],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "TTC_M24_WoodlandOld",
-      "Chance": 0.004285714328289032,
-      "Quantity": {
-        "Min": 0.25,
-        "Max": 1
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "HuntingOptic",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        },
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "TTC_M24mag_5rnd",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        }
-      ],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
       "ClassName": "TTC_M24mag_5rnd",
       "Chance": 0.025714285373687744,
       "Quantity": {
@@ -27991,7 +27787,7 @@
     },
     {
       "ClassName": "TTC_M24_NEW_Wood",
-      "Chance": 0.004285714328289032,
+      "Chance": 0.002857142984867096,
       "Quantity": {
         "Min": 0.25,
         "Max": 1
@@ -28059,7 +27855,7 @@
     },
     {
       "ClassName": "TTC_M24_NEW_Black",
-      "Chance": 0.004285714328289032,
+      "Chance": 0.002857142984867096,
       "Quantity": {
         "Min": 0.25,
         "Max": 1
@@ -28127,7 +27923,7 @@
     },
     {
       "ClassName": "TTC_M24_NEW_Camo",
-      "Chance": 0.004285714328289032,
+      "Chance": 0.002857142984867096,
       "Quantity": {
         "Min": 0.25,
         "Max": 1
@@ -28195,7 +27991,7 @@
     },
     {
       "ClassName": "TTC_M24_NEW_CamoW",
-      "Chance": 0.004285714328289032,
+      "Chance": 0.002857142984867096,
       "Quantity": {
         "Min": 0.25,
         "Max": 1
