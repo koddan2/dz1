@@ -1,5 +1,5 @@
 {
-    "m_Version": 6,
+    "m_Version": 7,
     "AccuracyMin": 0.15000000596046449,
     "AccuracyMax": 0.75,
     "ThreatDistanceLimit": 250.0,
@@ -11,6 +11,9 @@
     "Vaulting": 0,
     "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
+    "MemeLevel": 1,
+    "CanRecruitFriendly": 1,
     "CanRecruitGuards": 0,
+    "PreventClimb": [],
     "PlayerFactions": []
 }
