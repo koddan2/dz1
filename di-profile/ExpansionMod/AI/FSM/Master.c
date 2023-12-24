@@ -624,7 +624,7 @@ class Expansion_Fighting_Melee_State_0: eAIState {
 			return CONTINUE;
 		}
 		auto direction = vector.Direction(unit.GetPosition(), lowPosition).Normalized();
-		if (vector.Dot(unit.GetDirection(), direction) < 0.97)
+		if (vector.Dot(unit.GetDirection(), direction) < 0.9)
 		{
 			if (time >= Math.RandomIntInclusive(1, 3))
 			{
