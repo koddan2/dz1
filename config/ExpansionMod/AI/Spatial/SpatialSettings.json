@@ -1,7 +1,7 @@
 {
     "Version": 20,
-    "Spatial_MinTimer": 5.0,
-    "Spatial_MaxTimer": 10.0,
+    "Spatial_MinTimer": -5.0,
+    "Spatial_MaxTimer": 5.0,
     "MinDistance": 140,
     "MaxDistance": 620,
     "HuntMode": 6,
@@ -11,7 +11,7 @@
     "EngageTimer": 5.0,
     "CleanupTimer": 16.0,
     "PlayerChecks": -25,
-    "MaxAI": 20,
+    "MaxAI": 25,
     "GroupDifficulty": 2,
     "MinimumPlayerDistance": 0,
     "MaxSoloPlayers": 0,
@@ -47,7 +47,7 @@
         },
         {
             "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 3,
+            "Spatial_MaxCount": 6,
             "Spatial_Weight": 300.0,
             "Spatial_Loadout": "SplattedLoadout.json",
             "Spatial_Faction": "Mercenaries",
