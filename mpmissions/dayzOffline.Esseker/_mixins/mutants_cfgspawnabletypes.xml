@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<spawnabletypes>
+    <damage min="0.4" max="0.7" />
+	<type name="CDAJ_ZmbM_Dark_Heavy">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_wep0" />
+		<cargo preset="mutants_wep1" />
+	</type>
+	<type name="CDAJ_ZmbM_Demon">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_LostInfected">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_Mutant">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_Mutant_Bloody">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_Mutant_Pale">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_TribeDemon">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_TribeDemon_Pale">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_TribeDemon_White">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Red">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_NBC_BlueLight">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Green">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Rainbow">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_NBC_Space">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="CDAJ_ZmbM_NBC_ERDL">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_rep" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+	<type name="ZmbM_Mummy">
+		<cargo preset="mutants_ammo0" />
+		<cargo preset="mutants_ammo1" />
+		<cargo preset="mutants_ammo2" />
+		<cargo preset="mutants_ammo3" />
+		<cargo preset="mutants_ammo4" />
+		<cargo preset="mutants_medical0" />
+		<cargo preset="mutants_medical1" />
+	</type>
+</spawnabletypes>
