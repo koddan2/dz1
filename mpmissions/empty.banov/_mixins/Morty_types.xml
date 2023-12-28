@@ -3209,7 +3209,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_MCX_Spear">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -3218,9 +3218,10 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_MCX_Spear_Black">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -3229,9 +3230,10 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_MCX_Spear_Magazine_20rnd">
-    <nominal>0</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -3240,9 +3242,10 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_AmmoBox_277_20Rnd">
-    <nominal>0</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -3251,9 +3254,10 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_Ammo_277">
-    <nominal>0</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -3263,6 +3267,7 @@
     <category name="weapons" />
     <tag name="shelves" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_MPXMCXSPEAR_Bttstck">
     <nominal>0</nominal>
