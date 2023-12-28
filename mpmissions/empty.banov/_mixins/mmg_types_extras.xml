@@ -15,6 +15,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
     <usage name="Industrial" />
@@ -34,6 +35,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
     <usage name="Industrial" />
@@ -53,6 +55,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
     <usage name="Industrial" />
@@ -73,6 +76,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
     <usage name="Industrial" />
@@ -92,6 +96,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
     <usage name="Industrial" />
@@ -111,6 +116,7 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
+    <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Farm" />
     <usage name="Industrial" />
