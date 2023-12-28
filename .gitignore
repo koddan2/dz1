@@ -125,3 +125,6 @@ dkms.conf
 *.mdmp
 /DayZ-Expansion-Missions/
 /config/config.vdf
+
+
+.dzt
