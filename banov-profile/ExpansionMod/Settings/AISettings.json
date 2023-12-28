@@ -1,0 +1,20 @@
+{
+    "m_Version": 8,
+    "AccuracyMin": 0.15000000596046449,
+    "AccuracyMax": 0.75,
+    "ThreatDistanceLimit": 250.0,
+    "NoiseInvestigationDistanceLimit": 500.0,
+    "DamageMultiplier": 1.0,
+    "Admins": [
+        "76561198155043044"
+    ],
+    "MaximumDynamicPatrols": -4,
+    "Vaulting": 0,
+    "SniperProneDistanceThreshold": 0.0,
+    "Manners": 0,
+    "MemeLevel": 1,
+    "CanRecruitFriendly": 1,
+    "CanRecruitGuards": 0,
+    "PreventClimb": [],
+    "PlayerFactions": []
+}
