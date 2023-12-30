@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <variables>
-    <var name="AnimalMaxCount" type="0" value="200"/>
+    <var name="AnimalMaxCount" type="0" value="400"/>
     <var name="CleanupAvoidance" type="0" value="100"/>
     <var name="CleanupLifetimeDeadAnimal" type="0" value="1200"/>
     <var name="CleanupLifetimeDeadInfected" type="0" value="330"/>
@@ -20,8 +20,8 @@
     <var name="LootSpawnAvoidance" type="0" value="100"/>
     <var name="RespawnAttempt" type="0" value="2"/>
     <var name="RespawnLimit" type="0" value="20"/>
-    <var name="RespawnTypes" type="0" value="12"/>
-    <var name="RestartSpawn" type="0" value="0"/>
+    <var name="RespawnTypes" type="0" value="16"/>
+    <var name="RestartSpawn" type="0" value="100"/>
     <var name="SpawnInitial" type="0" value="1200"/>
     <var name="TimeHopping" type="0" value="60"/>
     <var name="TimeLogin" type="0" value="1"/>
