@@ -21695,6 +21695,25 @@
       "Sets": []
     },
     {
+      "ClassName": "TTC_308Stanag",
+      "Chance": 0.05,
+      "Quantity": {
+        "Min": 0.25,
+        "Max": 1
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "TTC_Honey_Suppressor",
       "Chance": 0.003,
       "Quantity": {
@@ -22010,6 +22029,141 @@
       "Sets": []
     },
     {
+      "ClassName": "TTC_HK417",
+      "Chance": 0.028571429252624514,
+      "Quantity": {
+        "Min": 0.25,
+        "Max": 1
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_Buttstock2",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_Holo",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_HK417_Magazine_20rnd",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_M14Suppressor",
+              "Chance": 0.005,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_HK417_Magazine_20rnd",
+      "Chance": 0.05,
+      "Quantity": {
+        "Min": 0.25,
+        "Max": 1
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
       "ClassName": "TTC_M14Suppressor",
       "Chance": 0.003,
       "Quantity": {
@@ -22024,6 +22178,98 @@
         }
       ],
       "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "TTC_M110_Black",
+      "Chance": 0.028571429252624514,
+      "Quantity": {
+        "Min": 0.25,
+        "Max": 1
+      },
+      "Health": [
+        {
+          "Min": 0.1,
+          "Max": 0.9,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "TTC_M14Suppressor",
+              "Chance": 0.005,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "HuntingOptic",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "",
+          "Items": [
+            {
+              "ClassName": "Mag_FAL_20Rnd",
+              "Chance": 0.2,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.5,
+                  "Max": 0.9,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
@@ -22720,559 +22966,6 @@
         }
       ],
       "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "GCGN_M110_Black",
-      "Chance": 0.028571429252624514,
-      "Quantity": {
-        "Min": 0.25,
-        "Max": 1
-      },
-      "Health": [
-        {
-          "Min": 0.1,
-          "Max": 0.9,
-          "Zone": ""
-        }
-      ],
-      "InventoryAttachments": [
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "SNAFU_HuntingOptic",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Nightforce",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Leupold_Mark8",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Kahles",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Aimpoint_ACO",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Aimpoint_M5",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Elcan",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_EOTech_EXPS3",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Trijicon",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Trijicon_Docter",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Walther",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Tango6T_Black",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Tango6T_Tan",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Tango6T_Wood",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Tango6T_Snow",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_Kobra",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        },
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "SNAFU_Standardized_Suppressor_Black",
-              "Chance": 0.005,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_LStandardized_Suppressor_Black",
-              "Chance": 0.005,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        },
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "SNAFU_AFG_02_Black",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_AFG_02_Tan",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_AFG_02_OD",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFUAR15_AFG",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFUScar_AFG_BK",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFUScar_AFG_Tan",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_FGCR_Grip",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "SNAFU_FGKAC_Grip",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        },
-        {
-          "SlotName": "",
-          "Items": [
-            {
-              "ClassName": "GCGN_M110_Mag",
-              "Chance": 0.2,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.5,
-                  "Max": 0.9,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ]
-        }
-      ],
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
