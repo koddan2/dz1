@@ -720,7 +720,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_50Beo_mag">
-    <nominal>30</nominal>
+    <nominal>50</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -730,9 +730,11 @@
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Hunting" />
   </type>
   <type name="TTC_AmmoBox_50Beo_20rnd">
-    <nominal>30</nominal>
+    <nominal>50</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -742,9 +744,11 @@
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Hunting" />
   </type>
   <type name="TTC_Ammo_50Beo">
-    <nominal>30</nominal>
+    <nominal>50</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -755,6 +759,8 @@
     <tag name="shelves" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage name="Farm" />
+    <usage name="Village" />
+    <usage name="Hunting" />
   </type>
   <!-- New universal suppressor colors -->
   <type name="TTC_Universal_Suppressor_Tan">

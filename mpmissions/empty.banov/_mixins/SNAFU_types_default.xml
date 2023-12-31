@@ -116,7 +116,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="GCGN_M110_Black">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <restock>0</restock>
     <lifetime>14400</lifetime>
     <min>0</min>
@@ -125,6 +125,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="GCGN_M110_Green">
     <nominal>0</nominal>
@@ -1167,7 +1168,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_Ammo_300ACC">
-    <nominal>0</nominal>
+    <nominal>80</nominal>
     <restock>0</restock>
     <lifetime>600</lifetime>
     <min>0</min>
@@ -1176,6 +1177,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="SNAFU_Ammo_338">
     <nominal>0</nominal>
@@ -1409,7 +1411,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_CMAG30300_Black">
-    <nominal>0</nominal>
+    <nominal>80</nominal>
     <restock>0</restock>
     <lifetime>600</lifetime>
     <min>0</min>
@@ -1418,6 +1420,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="SNAFU_CMAG30300_Tan">
     <nominal>0</nominal>
@@ -1453,7 +1456,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_CMAG40300_Black">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <restock>0</restock>
     <lifetime>600</lifetime>
     <min>0</min>
@@ -1462,6 +1465,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="SNAFU_CMAG40300_Tan">
     <nominal>0</nominal>
@@ -2242,7 +2246,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_M4300AC_14_GUN">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <restock>0</restock>
     <lifetime>600</lifetime>
     <min>0</min>
@@ -2251,6 +2255,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="SNAFU_M4300AC_14DV_GUN">
     <nominal>0</nominal>
@@ -2506,7 +2511,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFU_MK13">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <restock>0</restock>
     <lifetime>14400</lifetime>
     <min>0</min>
@@ -2515,6 +2520,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="SNAFU_MK15">
     <nominal>0</nominal>
@@ -3172,7 +3178,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Snafu_ScarH_25RND_Mag_BK">
-    <nominal>0</nominal>
+    <nominal>80</nominal>
     <restock>0</restock>
     <lifetime>600</lifetime>
     <min>0</min>
@@ -3181,6 +3187,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="Snafu_ScarH_25RND_Mag_DKMC">
     <nominal>0</nominal>
@@ -3249,7 +3256,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Snafu_ScarH_OD_GUN">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <restock>0</restock>
     <lifetime>600</lifetime>
     <min>0</min>
@@ -3258,6 +3265,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="Snafu_ScarH_SIL_Black">
     <nominal>4</nominal>
@@ -3727,7 +3735,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="SNAFUAR15_AFG">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <restock>0</restock>
     <lifetime>14400</lifetime>
     <min>0</min>
@@ -3736,6 +3744,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="SNAFUAR15_SPR_100RND_Mag">
     <nominal>0</nominal>
