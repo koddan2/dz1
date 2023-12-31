@@ -391,7 +391,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_308Stanag">
-    <nominal>0</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -400,6 +400,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <!-- New items update 1.10 -->
   <!-- F&D Defence .338 -->
@@ -1842,7 +1843,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_HK417">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -1851,9 +1852,10 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_HK417_Magazine_20rnd">
-    <nominal>0</nominal>
+    <nominal>60</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -1862,6 +1864,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_M14Suppressor">
     <nominal>3</nominal>
@@ -2008,7 +2011,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="TTC_M110_Black">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -2017,6 +2020,7 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
   </type>
   <type name="TTC_Maverick">
     <nominal>0</nominal>

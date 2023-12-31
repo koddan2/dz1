@@ -116,7 +116,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="GCGN_M110_Black">
-    <nominal>20</nominal>
+    <nominal>0</nominal>
     <restock>0</restock>
     <lifetime>14400</lifetime>
     <min>0</min>
@@ -125,7 +125,6 @@
     <cost>100</cost>
     <category name="weapons" />
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage name="Military" />
   </type>
   <type name="GCGN_M110_Green">
     <nominal>0</nominal>
