@@ -1,5 +1,5 @@
 {
-    "m_Version": 7,
+    "m_Version": 8,
     "Safezone": 1,
     "AdminTools": 1,
     "ExplosionDamageSystem": 1,
@@ -12,12 +12,24 @@
     "VehicleLeave": 0,
     "VehicleDeleted": 0,
     "VehicleEngine": 0,
+    "BaseBuildingRaiding": 0,
+    "CodeLockRaiding": 0,
+    "Territory": 0,
+    "Killfeed": 0,
+    "SpawnSelection": 0,
+    "Party": 0,
+    "MissionAirdrop": 0,
+    "Chat": 0,
+    "Market": 0,
+    "ATM": 0,
     "AIGeneral": 1,
     "AIPatrol": 1,
     "AIObjectPatrol": 1,
     "LogToScripts": 0,
     "LogToADM": 0,
+    "Hardline": 0,
     "Garage": 1,
     "VehicleCover": 1,
-    "EntityStorage": 1
+    "EntityStorage": 1,
+    "Quests": 1
 }

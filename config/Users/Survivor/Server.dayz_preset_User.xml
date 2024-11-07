@@ -138,8 +138,12 @@
         <btn name="x1Y" />
     </input>
     <input name="UAADSToggle">
-        <btn name="kLShift" />
-        <btn name="x1ThumbRight" />
+        <btn name="kLShift">
+            <event name="click" />
+        </btn>
+        <btn name="x1ThumbRight">
+            <event name="click" />
+        </btn>
     </input>
     <input name="UAZoomInOptics">
         <btn name="mWheelUp" />
@@ -189,6 +193,9 @@
     </input>
     <input name="UAHeavyMeleeAttack">
         <btn name="x1Y" />
+    </input>
+    <input name="UAMeleeAttackModifier">
+        <btn name="kLShift" />
     </input>
     <input name="UAWeaponMeleeAttack">
         <btn name="kF" />
@@ -512,6 +519,12 @@
     </input>
     <input name="UAUICredits">
         <btn name="x1View" />
+    </input>
+    <input name="UAUICopyDebugMonitorPos">
+        <btn name="kP" />
+    </input>
+    <input name="UAUIThumbRight">
+        <btn name="x1ThumbRight" />
     </input>
     <input name="UAUIRightStickHorizontal">
         <btn name="x1RightThumbHorizontal" />
@@ -887,22 +900,6 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
-    <input name="UABBPRotate">
-        <btn name="kUp" />
-    </input>
-    <input name="UACycleSize">
-        <btn name="kLeft" />
-    </input>
-    <input name="UANextSnap">
-        <btn name="mWheelUp" />
-    </input>
-    <input name="UAPrevSnap">
-        <btn name="mWheelDown" />
-    </input>
-    <input name="UASnapLook">
-        <btn name="kDown" />
-    </input>
-    <input name="UABBPTogInv" />
     <input name="UAEarPlugsToggle">
         <btn name="kN" />
     </input>
@@ -987,7 +984,7 @@
             <btn name="kJ" />
         </btn>
     </input>
-    <input name="UACOTToggleItem">
+    <input name="UACOTToggleLoadout">
         <btn name="kRMenu">
             <btn name="kK" />
         </btn>
@@ -1007,29 +1004,13 @@
             <btn name="kN" />
         </btn>
     </input>
-    <input name="PvZmoD_CZ_RefreshJsonVariables">
-        <btn name="kNumpad4" />
-    </input>
-    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
-        <btn name="kSpace" />
-    </input>
-    <input name="UAToggleHood">
-        <btn name="kT" />
-    </input>
-    <input name="UAToggleSleeves">
-        <btn name="kO" />
-    </input>
-    <input name="UASchanaPartyMenu">
-        <btn name="kP" />
-    </input>
-    <input name="UASchanaPartyPing">
-        <btn name="kT" />
-    </input>
-    <input name="UASchanaPartyPingClear">
-        <btn name="kY" />
-    </input>
     <input name="eAICommandMenu">
         <btn name="kT" />
+    </input>
+    <input name="eAISetWaypoint">
+        <btn name="kLControl">
+            <btn name="mBLeft" />
+        </btn>
     </input>
     <input name="eAITestInput">
         <btn name="kY" />
@@ -1059,6 +1040,8 @@
         <sensitivity name="rvert" value="1.000000" />
         <sensitivity name="rhorz" value="1.000000" />
         <sensitivity name="rcurv" value="1.000000" />
+        <sensitivity name="ldeadzone" value="1.000000" />
+        <sensitivity name="rdeadzone" value="1.000000" />
     </controller>
     <controller name="PCMouse">
         <limit name="doubleclick" value="0.500000" />
@@ -1073,6 +1056,8 @@
         <sensitivity name="rvert" value="1.000000" />
         <sensitivity name="rhorz" value="1.000000" />
         <sensitivity name="rcurv" value="1.000000" />
+        <sensitivity name="ldeadzone" value="1.000000" />
+        <sensitivity name="rdeadzone" value="1.000000" />
     </controller>
     <controller name="X1Controller">
         <limit name="doubleclick" value="0.500000" />
@@ -1087,6 +1072,8 @@
         <sensitivity name="rvert" value="1.250000" />
         <sensitivity name="rhorz" value="1.250000" />
         <sensitivity name="rcurv" value="0.500000" />
+        <sensitivity name="ldeadzone" value="0.030000" />
+        <sensitivity name="rdeadzone" value="0.030000" />
     </controller>
     <controller name="PS4Controller">
         <limit name="doubleclick" value="0.500000" />
@@ -1101,6 +1088,8 @@
         <sensitivity name="rvert" value="1.250000" />
         <sensitivity name="rhorz" value="1.250000" />
         <sensitivity name="rcurv" value="0.500000" />
+        <sensitivity name="ldeadzone" value="0.030000" />
+        <sensitivity name="rdeadzone" value="0.030000" />
     </controller>
     <controller name="IRTracker">
         <limit name="doubleclick" value="0.500000" />
@@ -1115,6 +1104,8 @@
         <sensitivity name="rvert" value="1.000000" />
         <sensitivity name="rhorz" value="1.000000" />
         <sensitivity name="rcurv" value="1.000000" />
+        <sensitivity name="ldeadzone" value="1.000000" />
+        <sensitivity name="rdeadzone" value="1.000000" />
     </controller>
     <modificator name="aiming">
         <sensitivity name="vert" value="1.000000" />
