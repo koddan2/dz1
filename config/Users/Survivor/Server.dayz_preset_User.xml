@@ -1004,6 +1004,12 @@
             <btn name="kN" />
         </btn>
     </input>
+    <input name="PvZmoD_CZ_RefreshJsonVariables">
+        <btn name="kNumpad4" />
+    </input>
+    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
+        <btn name="kSpace" />
+    </input>
     <input name="eAICommandMenu">
         <btn name="kT" />
     </input>

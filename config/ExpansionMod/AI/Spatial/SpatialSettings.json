@@ -1,9 +1,9 @@
 {
     "Version": 20,
-    "Spatial_MinTimer": 300000,
-    "Spatial_MaxTimer": 450000,
+    "Spatial_MinTimer": -10,
+    "Spatial_MaxTimer": 10,
     "MinDistance": 140,
-    "MaxDistance": 620,
+    "MaxDistance": 820,
     "HuntMode": 6,
     "Points_Enabled": 0,
     "Locations_Enabled": 0,
